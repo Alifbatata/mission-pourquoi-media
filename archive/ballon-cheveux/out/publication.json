@@ -1,0 +1,38 @@
+{
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/ballon-cheveux/ballon-cheveux_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad204ef60e6a12e6b2499a8",
+  "status": "scheduled",
+  "dueAt": "2026-10-17T14:45:00.000Z"
+ },
+ "facebook": {
+  "post_id": "6ad204efb948bf9e9d8f7a01",
+  "status": "scheduled",
+  "dueAt": "2026-10-17T14:45:00.000Z"
+ },
+ "tiktok": {
+  "post_id": "6ad204f00fb5b99b0c19af55",
+  "status": "scheduled",
+  "dueAt": "2026-10-17T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "2Gq_kU9O15Y",
+  "url": "https://youtube.com/shorts/2Gq_kU9O15Y",
+  "publishAt": "2026-10-17T14:45:00Z",
+  "note": "programmé à la main dans YouTube Studio",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "fr",
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ]
+ }
+}

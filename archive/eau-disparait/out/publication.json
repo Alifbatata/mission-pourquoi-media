@@ -1,0 +1,35 @@
+{
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/eau-disparait/eau-disparait_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad204f9b948bf9e9d8f7df3",
+  "status": "scheduled",
+  "dueAt": "2026-10-18T14:45:00.000Z"
+ },
+ "facebook": {
+  "post_id": "6ad204f960e6a12e6b249ce3",
+  "status": "scheduled",
+  "dueAt": "2026-10-18T14:45:00.000Z"
+ },
+ "tiktok": {
+  "post_id": "6ad204fa047945ca3099006a",
+  "status": "scheduled",
+  "dueAt": "2026-10-18T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "mJQjmn8Gdsk",
+  "url": "https://youtube.com/shorts/mJQjmn8Gdsk",
+  "publishAt": "2026-10-18T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en"
+  ]
+ }
+}

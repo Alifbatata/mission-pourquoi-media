@@ -1,0 +1,44 @@
+{
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/ciel-orange/ciel-orange_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad204b1f24c5797a236eecd",
+  "status": "sent",
+  "dueAt": "2026-10-16T14:45:00.000Z",
+  "sentAt": "2026-10-16T14:48:19Z",
+  "url": "https://www.instagram.com/reel/Dejx5-YH67g/"
+ },
+ "facebook": {
+  "post_id": "6ad204b10fb5b99b0c199a0e",
+  "status": "sent",
+  "dueAt": "2026-10-16T14:45:00.000Z",
+  "sentAt": "2026-10-16T14:45:25Z",
+  "url": "https://www.facebook.com/reel/1140352451785477/"
+ },
+ "tiktok": {
+  "post_id": "6ad204b2f24c5797a236ef2a",
+  "status": "sent",
+  "dueAt": "2026-10-16T14:45:00.000Z",
+  "sentAt": "2026-10-16T14:46:56Z",
+  "url": "https://tiktok.com/@mission.pourquoi/video/7697276874749234464"
+ },
+ "youtube": {
+  "video_id": "0XGzsWfoTrc",
+  "url": "https://youtube.com/shorts/0XGzsWfoTrc",
+  "publishAt": "2026-10-16T14:45:00Z",
+  "note": "programmé à la main dans YouTube Studio",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "fr",
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/jour-nuit/jour-nuit_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad2050c0fb5b99b0c19b6d8",
+  "status": "scheduled",
+  "dueAt": "2026-10-20T14:45:00.000Z"
+ },
+ "facebook": {
+  "post_id": "6ad2050c60e6a12e6b24a2ec",
+  "status": "scheduled",
+  "dueAt": "2026-10-20T14:45:00.000Z"
+ },
+ "tiktok": {
+  "post_id": "6ad2050db948bf9e9d8f82bd",
+  "status": "scheduled",
+  "dueAt": "2026-10-20T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "DA8SGXUz_D4",
+  "url": "https://youtube.com/shorts/DA8SGXUz_D4",
+  "publishAt": "2026-10-20T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A"
+ }
+}

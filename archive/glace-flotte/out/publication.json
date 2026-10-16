@@ -1,0 +1,33 @@
+{
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/glace-flotte/glace-flotte_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad20502b948bf9e9d8f8079",
+  "status": "scheduled",
+  "dueAt": "2026-10-19T14:45:00.000Z"
+ },
+ "facebook": {
+  "post_id": "6ad205030fb5b99b0c19b531",
+  "status": "scheduled",
+  "dueAt": "2026-10-19T14:45:00.000Z"
+ },
+ "tiktok": {
+  "post_id": "6ad2050360e6a12e6b24a0ea",
+  "status": "scheduled",
+  "dueAt": "2026-10-19T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "8qeATDa0pMo",
+  "url": "https://youtube.com/shorts/8qeATDa0pMo",
+  "publishAt": "2026-10-19T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": []
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "youtube": {
+  "video_id": "OS1yjAPN6nY",
+  "url": "https://youtube.com/shorts/OS1yjAPN6nY",
+  "publishAt": "2026-10-16 (publié à la main)",
+  "note": "programmé à la main dans YouTube Studio",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "fr",
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ]
+ },
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/ciel-bleu/ciel-bleu_short_web.mp4",
+ "note_reseaux": "épisode 1 publié à la main le 15-16 octobre ; pas de post Buffer"
+}
