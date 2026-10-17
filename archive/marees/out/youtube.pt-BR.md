@@ -8,7 +8,7 @@ Por que o mar sobe e desce? 🌙 A resposta em um minuto, com Noah, Mila e seu v
 
 Para lembrar: A Lua puxa a água dos oceanos: duas bolhas de água, e a Terra gira embaixo.
 
-🧪 Para experimentar em casa, com um adulto: na praia, finque um graveto onde o mar chega. Volte uma hora depois: ele se mexeu! Subindo ou descendo?
+🧪 Para experimentar em casa, com um adulto: na praia, finque um graveto onde o mar chega. Uma hora depois, o mar se mexeu… e aí, está subindo ou descendo?
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

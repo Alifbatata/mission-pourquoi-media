@@ -8,7 +8,7 @@ What is hidden inside the Earth? 🪨 The answer in one minute, with Noah, Mila 
 
 Remember: Under the crust, a mantle of burning-hot rock, then an iron core: liquid outside, solid inside.
 
-🧪 Try it at home, with an adult: cut a hard-boiled egg in half. The shell is the crust; the white, the mantle; the yolk, the core, which really has two parts!
+🧪 Try it at home, with an adult: cut a hard-boiled egg. Its shell is the crust, the white, the mantle, and the yolk, the core… which really has two parts!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

@@ -1,135 +1,143 @@
 1
-00:00:03,068 --> 00:00:05,491
+00:00:03,068 --> 00:00:05,309
 This morning, the sea touched the rocks.
 
 2
-00:00:05,541 --> 00:00:07,656
-Tonight, it has gone far, far away:
+00:00:05,359 --> 00:00:05,996
+But tonight,
 
 3
-00:00:07,706 --> 00:00:09,634
-the boat is sitting on the sand!
+00:00:06,046 --> 00:00:09,490
+it has gone so far away that the boat is sitting on the sand!
 
 4
-00:00:09,684 --> 00:00:11,045
+00:00:09,540 --> 00:00:10,800
 Where does the sea go?
 
 5
-00:00:11,889 --> 00:00:13,895
-The next morning: it's back!
+00:00:11,570 --> 00:00:13,693
+And the next morning, it's back!
 
 6
-00:00:13,945 --> 00:00:16,611
-The sea rises and falls, twice a day.
+00:00:13,743 --> 00:00:14,236
+In fact,
 
 7
-00:00:16,661 --> 00:00:18,277
-But who is pulling it?
+00:00:14,286 --> 00:00:16,680
+the sea rises and falls twice a day…
 
 8
-00:00:19,052 --> 00:00:20,566
-Discovery mission!
+00:00:16,730 --> 00:00:18,224
+but who is pulling it?
 
 9
-00:00:23,082 --> 00:00:23,657
-Mini mode!
+00:00:18,992 --> 00:00:20,506
+Discovery mission!
 
 10
-00:00:23,707 --> 00:00:26,032
-The Moon pulls on everything on Earth,
+00:00:23,022 --> 00:00:23,597
+Mini mode!
 
 11
-00:00:26,082 --> 00:00:26,907
-just a little.
+00:00:23,647 --> 00:00:25,972
+The Moon pulls on everything on Earth,
 
 12
-00:00:26,957 --> 00:00:29,282
-Rocks don't move, but water can slide:
+00:00:26,022 --> 00:00:26,847
+just a little.
 
 13
-00:00:29,332 --> 00:00:31,645
-on the Moon's side, it makes a bulge.
+00:00:26,897 --> 00:00:29,222
+Rocks don't move, but water can slide:
 
 14
-00:00:32,410 --> 00:00:34,608
-And on the other side of the Earth?
+00:00:29,272 --> 00:00:31,585
+on the Moon's side, it makes a bulge.
 
 15
-00:00:34,658 --> 00:00:36,213
-The Moon pulls less hard:
+00:00:32,350 --> 00:00:34,297
+And on the other side of the Earth?
 
 16
-00:00:36,263 --> 00:00:38,076
-the water stays a bit behind.
+00:00:34,347 --> 00:00:36,123
+There, the Moon pulls less hard,
 
 17
-00:00:38,126 --> 00:00:39,089
-A second bulge!
+00:00:36,173 --> 00:00:37,949
+so the water stays a bit behind…
 
 18
-00:00:41,428 --> 00:00:44,989
-Meanwhile, the Earth turns beneath the two bulges.
+00:00:37,999 --> 00:00:39,710
+and that makes a second bulge!
 
 19
-00:00:45,039 --> 00:00:48,094
-Your beach passes under a bulge: high tide!
+00:00:41,350 --> 00:00:44,261
+And the Earth turns beneath the two bulges.
 
 20
-00:00:48,144 --> 00:00:49,971
-Between the two: low tide.
+00:00:44,311 --> 00:00:46,809
+When your beach passes under a bulge,
 
 21
-00:00:50,021 --> 00:00:50,888
-Twice a day.
+00:00:46,859 --> 00:00:47,842
+it's high tide!
 
 22
-00:00:51,664 --> 00:00:52,998
-Look: the Moon is rising,
+00:00:47,892 --> 00:00:49,976
+Between the two, it's low tide…
 
 23
-00:00:53,048 --> 00:00:54,492
-and the sea is coming back.
+00:00:50,026 --> 00:00:50,853
+twice a day.
 
 24
-00:00:54,542 --> 00:00:56,595
-Even in daytime, when we can't see it,
+00:00:51,638 --> 00:00:53,174
+Look, the sea is coming back,
 
 25
-00:00:56,645 --> 00:00:58,803
-the Moon is still pulling on the water.
+00:00:53,224 --> 00:00:54,213
+pulled by the Moon!
 
 26
-00:00:59,612 --> 00:01:01,641
-That's why the sea rises and falls.
+00:00:54,263 --> 00:00:56,509
+And even in daytime, when we can't see it,
 
 27
-00:01:03,139 --> 00:01:04,879
-The Moon pulls on the ocean's water:
+00:00:56,559 --> 00:00:58,692
+the Moon is still pulling on the water.
 
 28
-00:01:04,929 --> 00:01:07,614
-two bulges of water, and the Earth turns beneath them.
+00:00:59,470 --> 00:01:01,649
+And that's why the sea rises and falls.
 
 29
-00:01:09,098 --> 00:01:10,941
-With an adult, at the beach:
+00:01:03,029 --> 00:01:04,769
+The Moon pulls on the ocean's water:
 
 30
-00:01:10,991 --> 00:01:13,375
-plant a stick where the sea reaches.
+00:01:04,819 --> 00:01:07,504
+two bulges of water, and the Earth turns beneath them.
 
 31
-00:01:13,425 --> 00:01:15,944
-Come back an hour later: it has moved!
+00:01:08,974 --> 00:01:10,712
+With an adult, at the beach:
 
 32
-00:01:15,994 --> 00:01:17,210
-Rising or falling?
+00:01:10,762 --> 00:01:13,011
+plant a stick where the sea reaches.
 
 33
-00:01:18,012 --> 00:01:20,374
-And why does the ground sometimes shake?
+00:01:13,061 --> 00:01:15,118
+An hour later, the sea has moved…
 
 34
-00:01:20,424 --> 00:01:21,630
+00:01:15,168 --> 00:01:16,955
+so, is it rising or falling?
+
+35
+00:01:17,732 --> 00:01:20,094
+And why does the ground sometimes shake?
+
+36
+00:01:20,144 --> 00:01:21,350
 The answer tomorrow.

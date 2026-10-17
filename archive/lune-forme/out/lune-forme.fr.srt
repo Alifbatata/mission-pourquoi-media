@@ -1,123 +1,123 @@
 1
-00:00:03,051 --> 00:00:05,665
-Ce soir, la Lune est un fin croissant.
+00:00:03,054 --> 00:00:05,519
+Ce soir, la Lune est un fin croissant,
 
 2
-00:00:05,826 --> 00:00:08,359
-La semaine dernière, elle était toute ronde !
+00:00:05,609 --> 00:00:07,938
+mais la semaine dernière, elle était toute ronde !
 
 3
-00:00:08,489 --> 00:00:10,003
+00:00:08,082 --> 00:00:09,582
 Quelqu'un en a mangé un bout ?
 
 4
-00:00:10,845 --> 00:00:13,310
+00:00:10,388 --> 00:00:12,919
 Mila a tout dessiné : chaque soir,
 
 5
-00:00:13,386 --> 00:00:14,614
+00:00:12,969 --> 00:00:14,184
 la Lune change un peu.
 
 6
-00:00:14,758 --> 00:00:16,978
+00:00:14,355 --> 00:00:16,535
 Pourtant, c'est toujours la même Lune !
 
 7
-00:00:17,762 --> 00:00:19,276
+00:00:17,312 --> 00:00:18,826
 Mission découverte !
 
 8
-00:00:21,792 --> 00:00:22,762
+00:00:21,342 --> 00:00:22,339
 Mode mini !
 
 9
-00:00:22,933 --> 00:00:25,425
-Le Soleil éclaire toujours une moitié de la Lune.
+00:00:22,510 --> 00:00:24,878
+Le Soleil éclaire toujours une moitié de la Lune,
 
 10
-00:00:25,555 --> 00:00:26,471
-Toujours !
+00:00:24,928 --> 00:00:25,763
+toujours !
 
 11
-00:00:26,586 --> 00:00:28,751
-L'autre moitié reste dans le noir.
+00:00:25,875 --> 00:00:28,095
+Et l'autre moitié reste dans le noir.
 
 12
-00:00:29,541 --> 00:00:30,564
+00:00:28,871 --> 00:00:29,922
 Mais la Lune tourne autour
 
 13
-00:00:30,614 --> 00:00:31,938
+00:00:29,972 --> 00:00:31,295
 de la Terre en un mois.
 
 14
-00:00:32,055 --> 00:00:33,174
-Depuis chez toi,
+00:00:31,429 --> 00:00:33,187
+Du coup, depuis chez toi,
 
 15
-00:00:33,318 --> 00:00:36,571
+00:00:33,290 --> 00:00:36,488
 tu vois sa moitié éclairée sous un angle qui change chaque soir.
 
 16
-00:00:38,540 --> 00:00:40,543
-Un petit bout : un croissant.
+00:00:37,871 --> 00:00:39,955
+Un petit bout, c'est un croissant.
 
 17
-00:00:40,661 --> 00:00:42,799
-La moitié : un quartier.
+00:00:40,071 --> 00:00:42,250
+La moitié, c'est un quartier.
 
 18
-00:00:42,917 --> 00:00:45,558
-Toute la moitié éclairée : la pleine Lune !
+00:00:42,367 --> 00:00:43,935
+Et toute la moitié éclairée…
 
 19
-00:00:45,718 --> 00:00:46,770
-Puis ça diminue…
+00:00:44,052 --> 00:00:45,267
+c'est la pleine Lune !
 
 20
-00:00:46,914 --> 00:00:48,115
-et ça recommence.
+00:00:45,442 --> 00:00:47,350
+Puis ça diminue et recommence.
 
 21
-00:00:48,880 --> 00:00:52,092
-Vue de l'espace, Curio voit la Lune moitié-moitié :
+00:00:48,121 --> 00:00:51,415
+Et depuis l'espace, Curio voit la Lune moitié-moitié,
 
 22
-00:00:52,317 --> 00:00:54,606
+00:00:51,518 --> 00:00:53,847
 une face au Soleil, l'autre dans la nuit.
 
 23
-00:00:54,725 --> 00:00:56,333
-Elle n'a jamais perdu un bout !
+00:00:53,963 --> 00:00:55,858
+Elle n'a donc jamais perdu un bout !
 
 24
-00:00:57,128 --> 00:00:59,348
-Voilà pourquoi la Lune change de forme.
+00:00:56,641 --> 00:00:58,943
+Et voilà pourquoi la Lune change de forme.
 
 25
-00:01:00,669 --> 00:01:03,242
+00:01:00,199 --> 00:01:02,772
 La Lune est toujours à moitié éclairée par le Soleil ;
 
 26
-00:01:03,427 --> 00:01:05,185
+00:01:02,957 --> 00:01:04,715
 c'est notre angle de vue qui change.
 
 27
-00:01:06,169 --> 00:01:09,026
-Avec un adulte, dans le noir : une lampe,
+00:01:05,641 --> 00:01:08,635
+Avec un adulte, dans le noir : allume une lampe,
 
 28
-00:01:09,076 --> 00:01:10,277
-une balle au bout du bras.
+00:01:08,685 --> 00:01:11,325
+tiens une balle au bout du bras, et tourne sur toi-même…
 
 29
-00:01:10,449 --> 00:01:14,381
-Tourne sur toi-même : croissant, quartier, pleine Lune !
+00:01:11,375 --> 00:01:13,921
+croissant, quartier, pleine Lune !
 
 30
-00:01:15,160 --> 00:01:17,720
+00:01:14,691 --> 00:01:17,278
 Et pourquoi entend-on le tonnerre après l'éclair ?
 
 31
-00:01:17,837 --> 00:01:19,119
+00:01:17,407 --> 00:01:18,676
 Réponse demain.

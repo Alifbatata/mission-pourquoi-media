@@ -15,117 +15,121 @@ as folhas mudam de cor e depois caem.
 Mas para onde foi o verde?
 
 5
-00:00:11,568 --> 00:00:12,496
-O Noah compara:
+00:00:11,552 --> 00:00:13,512
+O Noah compara uma folha verde de
 
 6
-00:00:12,546 --> 00:00:16,083
-uma folha verde de verão e uma folha amarela de outono.
+00:00:13,562 --> 00:00:15,705
+verão e uma folha amarela de outono.
 
 7
-00:00:16,133 --> 00:00:17,779
+00:00:15,755 --> 00:00:17,288
 Mesma árvore, mesma forma…
 
 8
-00:00:17,829 --> 00:00:19,264
-mas sem nada de verde.
+00:00:17,338 --> 00:00:18,435
+mas o verde sumiu!
 
 9
-00:00:20,052 --> 00:00:21,566
+00:00:19,232 --> 00:00:20,746
 Missão descoberta!
 
 10
-00:00:24,082 --> 00:00:24,699
+00:00:23,275 --> 00:00:23,889
 Modo mini!
 
 11
-00:00:24,749 --> 00:00:27,970
+00:00:23,939 --> 00:00:27,141
 A folha é cheia de um corante verde, a clorofila,
 
 12
-00:00:28,020 --> 00:00:30,640
+00:00:27,191 --> 00:00:29,797
 que capta o Sol para alimentar a árvore.
 
 13
-00:00:30,690 --> 00:00:33,227
-No verão, ela esconde as outras cores.
+00:00:29,847 --> 00:00:32,502
+E no verão, ela esconde as outras cores.
 
 14
-00:00:34,010 --> 00:00:35,392
-Dias mais curtos, frio:
+00:00:33,290 --> 00:00:35,484
+Quando os dias ficam mais curtos e faz frio,
 
 15
-00:00:35,442 --> 00:00:39,064
+00:00:35,534 --> 00:00:38,494
 a árvore para de fazer clorofila e recolhe os pedaços dela.
 
 16
-00:00:39,114 --> 00:00:41,492
-O verde apaga, e o amarelo e o laranja,
+00:00:38,544 --> 00:00:39,514
+Então o verde apaga,
 
 17
-00:00:41,542 --> 00:00:43,721
-escondidos desde o verão, aparecem!
+00:00:39,564 --> 00:00:42,522
+e o amarelo e o laranja escondidos desde o verão aparecem!
 
 18
-00:00:44,500 --> 00:00:45,249
+00:00:43,300 --> 00:00:44,042
 E o vermelho?
 
 19
-00:00:45,299 --> 00:00:45,987
+00:00:44,092 --> 00:00:44,773
 Esse é novo:
 
 20
-00:00:46,037 --> 00:00:49,677
+00:00:44,823 --> 00:00:48,429
 algumas árvores fabricam ele logo antes de soltar as folhas.
 
 21
-00:00:49,727 --> 00:00:52,445
-Depois uma camada de células corta o cabinho:
+00:00:48,479 --> 00:00:51,170
+Depois uma camada de células corta o cabinho…
 
 22
-00:00:52,495 --> 00:00:53,233
-a folha cai.
+00:00:51,220 --> 00:00:52,073
+e a folha cai.
 
 23
-00:00:54,059 --> 00:00:55,004
-A árvore não morre:
+00:00:52,882 --> 00:00:54,003
+Mas a árvore não morre:
 
 24
-00:00:55,054 --> 00:00:58,411
+00:00:54,053 --> 00:00:57,314
 ela descansa no inverno e faz folhas verdes de novo na primavera.
 
 25
-00:00:58,461 --> 00:01:00,871
+00:00:57,364 --> 00:00:59,708
 Enquanto isso, as pilhas de folhas são nossas!
 
 26
-00:01:01,662 --> 00:01:03,923
-É por isso que as folhas mudam de cor.
+00:01:00,480 --> 00:01:01,380
+E é por isso que
 
 27
-00:01:05,219 --> 00:01:08,076
-O verde some e revela o amarelo escondido;
+00:01:01,430 --> 00:01:02,795
+as folhas mudam de cor.
 
 28
-00:01:08,126 --> 00:01:10,618
-já o vermelho é fabricado no outono.
+00:01:04,039 --> 00:01:06,896
+O verde some e revela o amarelo escondido;
 
 29
-00:01:11,459 --> 00:01:12,149
-Com um adulto:
+00:01:06,946 --> 00:01:09,438
+já o vermelho é fabricado no outono.
 
 30
-00:01:12,199 --> 00:01:15,376
-junte folhas e coloque em fila da mais verde à mais vermelha.
+00:01:10,279 --> 00:01:10,969
+Com um adulto:
 
 31
-00:01:15,426 --> 00:01:17,384
-Qual ainda tem um pouquinho de verde?
+00:01:11,019 --> 00:01:14,196
+junte folhas e coloque em fila da mais verde à mais vermelha.
 
 32
-00:01:18,918 --> 00:01:21,310
-E como os peixes respiram debaixo d'água?
+00:01:14,246 --> 00:01:16,204
+Qual ainda tem um pouquinho de verde?
 
 33
-00:01:21,360 --> 00:01:22,492
+00:01:17,738 --> 00:01:20,130
+E como os peixes respiram debaixo d'água?
+
+34
+00:01:20,180 --> 00:01:21,312
 A resposta, amanhã.

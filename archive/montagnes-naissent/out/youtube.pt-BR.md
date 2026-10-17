@@ -8,7 +8,7 @@ Como nascem as montanhas? 🏔️ A resposta em um minuto, com Noah, Mila e seu 
 
 Para lembrar: Duas placas se empurram, a rocha se dobra e sobe: bem devagar, nasce uma montanha.
 
-🧪 Para experimentar em casa, com um adulto: estenda toalhas e empurre dos dois lados. As dobras que sobem são as suas montanhas!
+🧪 Para experimentar em casa, com um adulto: estenda toalhas, depois empurre dos dois lados… as dobras que sobem são as suas montanhas!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

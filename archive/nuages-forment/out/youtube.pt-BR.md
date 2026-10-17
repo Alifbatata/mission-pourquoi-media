@@ -8,7 +8,7 @@ Como as nuvens se formam? ☁️ A resposta em um minuto, com Noah, Mila e seu v
 
 Para lembrar: O ar que sobe esfria, e o vapor de água dele vira bilhões de gotinhas: uma nuvem.
 
-🧪 Para experimentar em casa, com um adulto: segure uma tampa fria acima de uma panela soltando vapor. O vapor vira gotas de novo: uma mininuvem!
+🧪 Para experimentar em casa, com um adulto: segure uma tampa fria acima de uma panela soltando vapor. O vapor vira gotas de novo… uma mininuvem!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

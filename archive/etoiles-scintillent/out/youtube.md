@@ -8,7 +8,7 @@ Pourquoi les étoiles scintillent-elles ? ✨ La réponse en une minute, avec No
 
 À retenir : Les étoiles brillent sans trembler ; c'est l'air qui bouge au-dessus de nous qui fait danser leur lumière.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, dans le noir : éclaire le plafond à travers un bol d'eau. Remue : la tache de lumière danse, comme une étoile !
+🧪 À essayer à la maison, avec un adulte : dans le noir : éclaire le plafond à travers un bol d'eau. Remue-le, et la tache de lumière danse, comme une étoile !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

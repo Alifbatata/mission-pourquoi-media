@@ -8,7 +8,7 @@ Pourquoi les astronautes flottent-ils ? 🧑‍🚀 La réponse en une minute, a
 
 À retenir : Les astronautes flottent parce qu'ils tombent autour de la Terre, sans jamais l'atteindre.
 
-🧪 À essayer à la maison, avec un adulte : saute d'une petite marche. Pendant la chute, ton corps ne sent plus son poids. Une seconde d'astronaute !
+🧪 À essayer à la maison, avec un adulte : saute d'une petite marche. Pendant la chute, ton corps ne sent plus son poids… une seconde d'astronaute !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

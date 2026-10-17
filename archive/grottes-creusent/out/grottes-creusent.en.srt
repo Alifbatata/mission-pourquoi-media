@@ -1,151 +1,143 @@
 1
-00:00:03,068 --> 00:00:03,290
+00:00:03,068 --> 00:00:03,251
 Shh…
 
 2
-00:00:03,340 --> 00:00:03,766
-A cave!
+00:00:03,301 --> 00:00:05,930
+This cave hides huge halls under the mountain,
 
 3
-00:00:03,816 --> 00:00:05,805
-Huge halls under the mountain,
+00:00:05,980 --> 00:00:08,375
+and stone spikes hanging from the ceiling…
 
 4
-00:00:05,855 --> 00:00:08,387
-stone spikes hanging from the ceiling.
+00:00:08,425 --> 00:00:09,823
+but who carved all this?
 
 5
-00:00:08,437 --> 00:00:09,797
-Who carved all this?
+00:00:10,642 --> 00:00:11,372
+Drip, drip…
 
 6
-00:00:10,635 --> 00:00:10,939
-Drip.
+00:00:11,422 --> 00:00:13,714
+one drop falls every ten seconds.
 
 7
-00:00:10,989 --> 00:00:11,292
-Drip.
+00:00:13,764 --> 00:00:14,849
+And Noah laughs:
 
 8
-00:00:11,342 --> 00:00:13,201
-One drop every ten seconds.
+00:00:14,899 --> 00:00:17,475
+that's not going to carve a mountain!
 
 9
-00:00:13,251 --> 00:00:14,050
-Noah laughs:
-
-10
-00:00:14,100 --> 00:00:17,443
-a drop of water isn't going to carve a mountain!
-
-11
-00:00:17,493 --> 00:00:18,059
+00:00:17,525 --> 00:00:18,093
 And yet…
 
-12
-00:00:18,822 --> 00:00:20,336
+10
+00:00:18,872 --> 00:00:20,386
 Discovery mission!
 
-13
-00:00:22,852 --> 00:00:23,416
+11
+00:00:22,902 --> 00:00:23,464
 Mini mode!
 
-14
-00:00:23,466 --> 00:00:25,689
+12
+00:00:23,514 --> 00:00:25,730
 Passing through the air and the soil,
 
+13
+00:00:25,780 --> 00:00:27,813
+rainwater picks up carbon dioxide…
+
+14
+00:00:27,863 --> 00:00:29,650
+so it becomes a little acidic,
+
 15
-00:00:25,739 --> 00:00:27,779
-rainwater picks up carbon dioxide.
-
-16
-00:00:27,829 --> 00:00:29,868
-It becomes just a tiny bit acidic,
-
-17
-00:00:29,918 --> 00:00:31,331
+00:00:29,700 --> 00:00:31,109
 like a sugar-free soda.
 
-18
-00:00:32,112 --> 00:00:35,001
+16
+00:00:31,892 --> 00:00:34,584
 This water slips into cracks in the limestone,
 
-19
-00:00:35,051 --> 00:00:37,046
+17
+00:00:34,634 --> 00:00:36,491
 a rock it knows how to dissolve.
 
+18
+00:00:36,541 --> 00:00:38,518
+Drop after drop, the crack widens…
+
+19
+00:00:38,568 --> 00:00:40,297
+into a corridor, then a hall!
+
 20
-00:00:37,096 --> 00:00:39,218
-Drop after drop, the crack widens:
-
-21
-00:00:39,268 --> 00:00:40,802
-a corridor, then a hall.
-
-22
-00:00:41,570 --> 00:00:42,492
+00:00:41,060 --> 00:00:41,982
 And the stone spikes?
 
-23
-00:00:42,542 --> 00:00:46,938
+21
+00:00:42,032 --> 00:00:46,428
 The water reaches the cave loaded with limestone, loses its gas, and the limestone settles back:
 
-24
-00:00:46,988 --> 00:00:50,275
+22
+00:00:46,478 --> 00:00:49,765
 a stalactite grows from the ceiling, a stalagmite rises from the floor.
 
+23
+00:00:50,540 --> 00:00:52,377
+Natural chalk is limestone.
+
+24
+00:00:52,427 --> 00:00:53,984
+So in vinegar, an acid,
+
 25
-00:00:51,050 --> 00:00:52,764
-Look: chalk is limestone.
+00:00:54,034 --> 00:00:55,731
+it melts away in bubbles!
 
 26
-00:00:52,814 --> 00:00:56,009
-In vinegar, an acid, it melts away in bubbles!
+00:00:55,781 --> 00:00:58,716
+Rainwater does the same, only more slowly.
 
 27
-00:00:56,059 --> 00:00:59,022
-Rainwater does the same, much more slowly.
+00:00:59,491 --> 00:01:01,521
+And that's how caves are carved out.
 
 28
-00:00:59,792 --> 00:01:01,808
-That's how caves are carved out.
-
-29
-00:01:03,322 --> 00:01:07,250
+00:01:03,022 --> 00:01:06,950
 Rainwater, slightly acidic, dissolves limestone drop by drop:
 
-30
-00:01:07,300 --> 00:01:09,387
+29
+00:01:06,1000 --> 00:01:09,087
 millions of years later, a cave.
 
-31
-00:01:10,198 --> 00:01:11,008
+30
+00:01:09,925 --> 00:01:10,732
 With an adult:
 
+31
+00:01:10,782 --> 00:01:13,487
+put a piece of natural chalk in some vinegar…
+
 32
-00:01:11,058 --> 00:01:13,649
-put a piece of chalk in a glass of vinegar.
+00:01:13,537 --> 00:01:14,527
+it makes bubbles!
 
 33
-00:01:13,699 --> 00:01:14,141
-Bubbles!
+00:01:14,577 --> 00:01:16,964
+And the next day, the chalk has shrunk!
 
 34
-00:01:14,191 --> 00:01:15,554
-Come back the next day:
-
-35
-00:01:15,604 --> 00:01:17,201
-the chalk has melted away.
-
-36
-00:01:17,982 --> 00:01:19,140
+00:01:17,752 --> 00:01:18,910
 And why does the sky
 
-37
-00:01:19,190 --> 00:01:20,953
+35
+00:01:18,960 --> 00:01:20,723
 light up green near the poles?
 
-38
-00:01:21,003 --> 00:01:22,211
+36
+00:01:20,773 --> 00:01:21,981
 The answer tomorrow.

@@ -1,139 +1,127 @@
 1
-00:00:03,109 --> 00:00:04,674
-The fish opens and closes
+00:00:03,109 --> 00:00:05,733
+The fish opens and closes its mouth all the time,
 
 2
-00:00:04,724 --> 00:00:06,161
-its mouth all the time.
+00:00:05,783 --> 00:00:06,933
+but it isn't drinking!
 
 3
-00:00:06,211 --> 00:00:07,130
-Is it drinking?
+00:00:06,983 --> 00:00:09,062
+Mila sees its slits moving on its side…
 
 4
-00:00:07,180 --> 00:00:07,324
-No!
+00:00:09,112 --> 00:00:11,022
+it's breathing, but breathing what?
 
 5
-00:00:07,374 --> 00:00:09,845
-Mila sees the slits moving on its side.
+00:00:11,808 --> 00:00:13,991
+In the water, there is invisible oxygen,
 
 6
-00:00:09,895 --> 00:00:10,814
-It's breathing…
+00:00:14,041 --> 00:00:15,667
+dissolved like sugar in juice…
 
 7
-00:00:10,864 --> 00:00:12,092
-but breathing what?
+00:00:15,717 --> 00:00:18,118
+and the tiny bubbles on the glass prove it!
 
 8
-00:00:12,871 --> 00:00:15,771
-There is oxygen in the water, invisible,
-
-9
-00:00:15,821 --> 00:00:17,984
-dissolved like sugar in juice.
-
-10
-00:00:18,034 --> 00:00:20,197
-The tiny bubbles on the glass?
-
-11
-00:00:20,247 --> 00:00:20,689
-Proof!
-
-12
-00:00:21,462 --> 00:00:22,976
+00:00:18,892 --> 00:00:20,406
 Discovery mission!
 
-13
-00:00:25,492 --> 00:00:26,145
+9
+00:00:22,922 --> 00:00:23,555
 Mini mode!
 
-14
-00:00:26,195 --> 00:00:28,466
+10
+00:00:23,605 --> 00:00:25,811
 In the air, oxygen is everywhere.
 
-15
-00:00:28,516 --> 00:00:30,928
-In water, there is much less of it:
+11
+00:00:25,861 --> 00:00:28,478
+But in water, there is much less of it,
 
-16
-00:00:30,978 --> 00:00:34,002
-you need a special tool to catch it: gills!
+12
+00:00:28,528 --> 00:00:31,673
+so you need a special tool to catch it: gills!
 
-17
-00:00:34,829 --> 00:00:37,352
+13
+00:00:32,499 --> 00:00:34,948
 The fish swallows water and pushes it over its gills:
 
-18
-00:00:37,402 --> 00:00:39,344
+14
+00:00:34,998 --> 00:00:36,881
 thousands of red filaments full of blood.
 
-19
-00:00:39,394 --> 00:00:40,946
+15
+00:00:36,931 --> 00:00:38,438
 The oxygen passes into the blood,
 
+16
+00:00:38,488 --> 00:00:40,421
+and the water goes out through the slits.
+
+17
+00:00:41,440 --> 00:00:42,495
+But out of the water,
+
+18
+00:00:42,545 --> 00:00:44,653
+the filaments stick together and dry out…
+
+19
+00:00:44,703 --> 00:00:45,916
+and the fish suffocates.
+
 20
-00:00:40,996 --> 00:00:42,793
-the water goes out through the slits.
-
-21
-00:00:43,770 --> 00:00:47,008
-Out of the water, the filaments stick together and dry out:
-
-22
-00:00:47,058 --> 00:00:48,122
-the fish suffocates.
-
-23
-00:00:48,172 --> 00:00:49,516
+00:00:45,966 --> 00:00:47,231
 For us it's the opposite:
 
-24
-00:00:49,566 --> 00:00:51,850
+21
+00:00:47,281 --> 00:00:49,439
 our lungs can't take oxygen out of water.
 
-25
-00:00:52,675 --> 00:00:53,232
-Up close:
+22
+00:00:50,232 --> 00:00:50,776
+Up close,
 
-26
-00:00:53,282 --> 00:00:56,805
+23
+00:00:50,826 --> 00:00:54,280
 the water slides over the gills like over a red comb.
 
+24
+00:00:54,330 --> 00:00:56,726
+But who puts the oxygen in the water?
+
+25
+00:00:56,776 --> 00:00:58,495
+It's plankton, tiny algae!
+
+26
+00:00:59,270 --> 00:01:01,667
+And that's how fish breathe underwater.
+
 27
-00:00:56,855 --> 00:00:59,300
-And who puts the oxygen in the water?
-
-28
-00:00:59,350 --> 00:01:00,833
-Tiny plants: plankton!
-
-29
-00:01:01,628 --> 00:01:03,889
-That's how fish breathe underwater.
-
-30
-00:01:05,128 --> 00:01:06,753
+00:01:02,788 --> 00:01:04,413
 Fish catch the oxygen hidden
 
-31
-00:01:06,803 --> 00:01:08,598
+28
+00:01:04,463 --> 00:01:06,258
 in the water with their gills.
 
-32
-00:01:10,111 --> 00:01:12,323
+29
+00:01:07,788 --> 00:01:09,931
 With an adult, in front of an aquarium:
 
-33
-00:01:12,373 --> 00:01:17,362
+30
+00:01:09,981 --> 00:01:14,818
 count how many times the fish opens its mouth in one minute, and watch its slits move!
 
-34
-00:01:18,151 --> 00:01:20,016
+31
+00:01:15,591 --> 00:01:17,456
 And why are bubbles round?
 
-35
-00:01:20,066 --> 00:01:21,539
+32
+00:01:17,506 --> 00:01:18,979
 The answer tomorrow.

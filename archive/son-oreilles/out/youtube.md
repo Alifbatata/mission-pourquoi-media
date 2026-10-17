@@ -8,7 +8,7 @@ Comment le son voyage-t-il jusqu'à nos oreilles ? 👂 La réponse en une minut
 
 À retenir : Ce qui fait du son vibre ; l'air passe la vibration de proche en proche jusqu'à ton tympan.
 
-🧪 À essayer à la maison, avec un adulte : une règle au bord de la table, fais vibrer le bout qui dépasse. Plus court : plus aigu !
+🧪 À essayer à la maison, avec un adulte : fais vibrer le bout d'une règle qui dépasse de la table. Plus il est court, plus c'est aigu !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

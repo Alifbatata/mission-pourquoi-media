@@ -8,7 +8,7 @@ Por que as estrelas piscam? ✨ A resposta em um minuto, com Noah, Mila e seu ve
 
 Para lembrar: As estrelas brilham sem tremer; é o ar que se mexe acima de nós que faz a luz delas dançar.
 
-🧪 Para experimentar em casa, com um adulto: no escuro, ilumine o teto através de uma tigela de água. Mexa a água: a mancha de luz dança, como uma estrela!
+🧪 Para experimentar em casa, com um adulto: no escuro, ilumine o teto através de uma tigela de água. Mexa a água, e a mancha de luz dança, como uma estrela!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

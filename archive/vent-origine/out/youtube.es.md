@@ -8,7 +8,7 @@
 
 Para recordar: El Sol calienta el aire de forma desigual; el aire caliente sube y el aire fresco acude: eso es el viento.
 
-🧪 Para probar en casa, con un adulto: sostén una tira fina de papel encima de un radiador caliente. ¡Vuela hacia arriba: el aire caliente sube!
+🧪 Para probar en casa, con un adulto: sostén una tira fina de papel encima de un radiador caliente. ¡Vuela hacia arriba, porque el aire caliente sube!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

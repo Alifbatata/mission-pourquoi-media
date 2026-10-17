@@ -8,7 +8,7 @@ Where does the wind come from? 🌬️ The answer in one minute, with Noah, Mila
 
 Remember: The Sun heats the air unevenly; warm air rises, and cool air rushes in: that's wind.
 
-🧪 Try it at home, with an adult: hold a thin strip of paper above a warm radiator. It flies upward: warm air rises!
+🧪 Try it at home, with an adult: hold a thin strip of paper above a warm radiator. It flies upward, because warm air rises!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

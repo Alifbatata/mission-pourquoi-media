@@ -1,143 +1,143 @@
 1
-00:00:03,052 --> 00:00:03,802
-¡Mira el cielo!
+00:00:03,095 --> 00:00:04,061
+¡Mira, allá arriba,
 
 2
-00:00:03,852 --> 00:00:06,203
-Cortinas verdes que bailan, sin ningún ruido.
+00:00:04,111 --> 00:00:06,466
+unas cortinas verdes bailan sin ningún ruido!
 
 3
-00:00:06,253 --> 00:00:07,323
-Ni fuego, ni lámpara…
+00:00:06,516 --> 00:00:07,749
+Pero ¿por qué se ilumina
 
 4
-00:00:07,373 --> 00:00:08,497
-¿Por qué se ilumina el
+00:00:07,799 --> 00:00:09,296
+el cielo cerca de los polos?
 
 5
-00:00:08,547 --> 00:00:09,880
-cielo cerca de los polos?
+00:00:10,060 --> 00:00:13,221
+Mila saca su brújula, y la aguja apunta al norte,
 
 6
-00:00:10,660 --> 00:00:13,761
-Mila saca su brújula: la aguja apunta al norte,
+00:00:13,271 --> 00:00:15,056
+justo donde brilla el cielo…
 
 7
-00:00:13,811 --> 00:00:15,637
-justo donde brilla el cielo.
+00:00:15,106 --> 00:00:17,597
+Una pista: ¡la Tierra es un gran imán!
 
 8
-00:00:15,687 --> 00:00:16,375
-¡Una pista!
-
-9
-00:00:16,425 --> 00:00:18,168
-La Tierra es un gran imán…
-
-10
-00:00:18,942 --> 00:00:20,456
+00:00:18,362 --> 00:00:19,876
 ¡Misión descubrimiento!
 
-11
-00:00:22,972 --> 00:00:23,587
+9
+00:00:22,392 --> 00:00:23,007
 ¡Modo mini!
 
-12
-00:00:23,637 --> 00:00:24,918
+10
+00:00:23,057 --> 00:00:24,338
 El Sol no solo da luz:
 
-13
-00:00:24,968 --> 00:00:30,061
+11
+00:00:24,388 --> 00:00:29,481
 sopla sin parar miles de millones de granitos diminutos y eléctricos hacia la Tierra.
 
-14
-00:00:30,111 --> 00:00:31,261
+12
+00:00:29,531 --> 00:00:30,681
 Es el viento solar.
 
-15
-00:00:32,042 --> 00:00:33,774
+13
+00:00:31,478 --> 00:00:33,293
 Por suerte, la Tierra es un gran imán:
 
-16
-00:00:33,824 --> 00:00:35,416
+14
+00:00:33,343 --> 00:00:35,012
 su campo magnético forma un escudo.
 
-17
-00:00:35,466 --> 00:00:38,135
-Desvía los granitos, y guía una parte hacia los dos polos,
+15
+00:00:35,062 --> 00:00:36,533
+Ese escudo desvía los granitos…
 
-18
-00:00:38,185 --> 00:00:39,545
+16
+00:00:36,583 --> 00:00:38,350
+y guía una parte hacia los dos polos,
+
+17
+00:00:38,400 --> 00:00:39,824
 deslizándolos por sus líneas.
 
-19
-00:00:41,040 --> 00:00:42,852
+18
+00:00:40,645 --> 00:00:42,336
 Allá arriba, a cien kilómetros,
 
-20
-00:00:42,902 --> 00:00:44,774
+19
+00:00:42,386 --> 00:00:44,134
 los granitos chocan con el aire.
 
+20
+00:00:44,184 --> 00:00:46,156
+Entonces el oxígeno brilla en verde,
+
 21
-00:00:44,824 --> 00:00:46,396
-El oxígeno brilla en verde,
+00:00:46,206 --> 00:00:49,189
+el nitrógeno en azul y rosa, como un letrero luminoso…
 
 22
-00:00:46,446 --> 00:00:49,639
-el nitrógeno en azul y rosa, como un letrero luminoso.
+00:00:49,239 --> 00:00:50,026
+¡es la aurora!
 
 23
-00:00:49,689 --> 00:00:50,530
-¡Es la aurora!
+00:00:50,818 --> 00:00:53,940
+Las auroras forman un anillo alrededor de los dos polos:
 
 24
-00:00:51,328 --> 00:00:53,794
-Y brilla en anillo alrededor de los dos polos:
+00:00:53,990 --> 00:00:55,979
+boreales al norte, australes al sur.
 
 25
-00:00:53,844 --> 00:00:56,201
-auroras boreales al norte, australes al sur.
+00:00:56,029 --> 00:00:57,621
+Y cuando el Sol sopla fuerte,
 
 26
-00:00:56,251 --> 00:00:57,897
-Cuando el Sol sopla muy fuerte,
+00:00:57,671 --> 00:00:58,867
+el anillo se ensancha…
 
 27
-00:00:57,947 --> 00:01:00,190
-el anillo se ensancha y se ven más lejos.
+00:00:58,917 --> 00:00:59,937
+¡se ven más lejos!
 
 28
-00:01:00,962 --> 00:01:02,099
-Por eso se ilumina el
+00:01:00,710 --> 00:01:01,772
+Y por eso se ilumina
 
 29
-00:01:02,149 --> 00:01:03,563
-cielo cerca de los polos.
+00:01:01,822 --> 00:01:03,378
+el cielo cerca de los polos.
 
 30
-00:01:04,461 --> 00:01:08,089
+00:01:04,211 --> 00:01:07,839
 Granitos venidos del Sol, guiados hacia los polos por el imán de la Tierra,
 
 31
-00:01:08,139 --> 00:01:09,806
+00:01:07,889 --> 00:01:09,556
 hacen brillar el aire allá arriba.
 
 32
-00:01:10,964 --> 00:01:13,933
-Con un adulto: acerca un imán a una brújula.
+00:01:10,728 --> 00:01:13,461
+Con un adulto: acerca un imán a una brújula…
 
 33
-00:01:13,983 --> 00:01:14,962
-¡La aguja gira!
+00:01:13,511 --> 00:01:14,536
+¡y la aguja gira!
 
 34
-00:01:15,012 --> 00:01:17,963
+00:01:14,586 --> 00:01:17,305
 Siente el imán, igual que siente la Tierra.
 
 35
-00:01:18,741 --> 00:01:20,769
+00:01:18,211 --> 00:01:20,239
 ¿Y por qué la lluvia tiene olor?
 
 36
-00:01:20,819 --> 00:01:22,183
+00:01:20,289 --> 00:01:21,653
 La respuesta, mañana.

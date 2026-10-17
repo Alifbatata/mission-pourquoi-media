@@ -8,7 +8,7 @@ Pourquoi la mer est-elle salée ? 🌊 La réponse en une minute, avec Noah, Mil
 
 À retenir : La pluie use les roches, les rivières portent le sel à la mer, et l'eau repart sans lui.
 
-🧪 À essayer à la maison, avec un adulte : mets de l'eau très salée dans une assiette, au soleil. Quand l'eau a disparu, le sel est toujours là !
+🧪 À essayer à la maison, avec un adulte : mets de l'eau très salée dans une assiette, au soleil. Quand l'eau a disparu… le sel est toujours là !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

@@ -1,127 +1,139 @@
 1
-00:00:03,068 --> 00:00:06,781
-Look: the stars are blinking, like little trembling lamps.
+00:00:03,068 --> 00:00:06,372
+Look, the stars are blinking like little trembling lamps…
 
 2
-00:00:06,831 --> 00:00:09,960
-That one, right at the horizon, dances even more!
+00:00:06,422 --> 00:00:08,432
+and that one, right at the horizon,
 
 3
-00:00:10,010 --> 00:00:11,373
-Why do stars twinkle?
+00:00:08,482 --> 00:00:09,433
+dances even more!
 
 4
-00:00:12,151 --> 00:00:13,616
-Mila notices a very bright
+00:00:09,483 --> 00:00:10,954
+But why do stars twinkle?
 
 5
-00:00:13,666 --> 00:00:15,480
-dot that doesn't tremble at all.
+00:00:11,785 --> 00:00:13,191
+But Mila sees a very bright
 
 6
-00:00:15,530 --> 00:00:17,053
-Noah checks: it's a planet!
+00:00:13,241 --> 00:00:14,915
+dot that doesn't tremble at all.
 
 7
-00:00:17,103 --> 00:00:18,559
-Why does it stay so calm?
+00:00:14,965 --> 00:00:15,562
+Noah checks…
 
 8
-00:00:19,332 --> 00:00:20,846
-Discovery mission!
+00:00:15,612 --> 00:00:16,317
+it's a planet!
 
 9
-00:00:23,362 --> 00:00:23,893
-Mini mode!
+00:00:16,367 --> 00:00:17,714
+Why does it stay so calm?
 
 10
-00:00:23,943 --> 00:00:26,450
-Between the star and your eye, there is air.
+00:00:18,482 --> 00:00:19,996
+Discovery mission!
 
 11
-00:00:26,500 --> 00:00:30,576
-And the air isn't calm: pockets of warm and cold air move all the time,
+00:00:22,512 --> 00:00:23,043
+Mini mode!
 
 12
-00:00:30,626 --> 00:00:32,253
-like above a road in summer.
+00:00:23,093 --> 00:00:25,600
+Between the star and your eye, there is air.
 
 13
-00:00:33,031 --> 00:00:35,358
-Each pocket bends the light a little.
+00:00:25,650 --> 00:00:29,726
+And the air isn't calm: pockets of warm and cold air move all the time,
 
 14
-00:00:35,408 --> 00:00:38,377
-The star is so far away that it's just a point:
+00:00:29,776 --> 00:00:31,403
+like above a road in summer.
 
 15
-00:00:38,427 --> 00:00:41,524
-its tiny ray jumps right, left, brighter, dimmer.
+00:00:32,180 --> 00:00:34,608
+And each pocket bends the light a little.
 
 16
-00:00:41,574 --> 00:00:42,345
-It twinkles!
+00:00:34,658 --> 00:00:37,448
+The star is so far away that it's just a point:
 
 17
-00:00:43,111 --> 00:00:44,439
-The planet, closer to us,
+00:00:37,498 --> 00:00:40,409
+its tiny ray jumps right, left, brighter, dimmer…
 
 18
-00:00:44,489 --> 00:00:46,037
-is a small disk, not a point.
+00:00:40,459 --> 00:00:41,184
+it twinkles!
 
 19
-00:00:46,087 --> 00:00:48,682
-Its rays pass through lots of different pockets:
+00:00:41,950 --> 00:00:43,489
+But the planet, closer to us,
 
 20
-00:00:48,732 --> 00:00:51,652
-the jumps blend together, and its light stays steady.
+00:00:43,539 --> 00:00:45,079
+is a small disk, not a point.
 
 21
-00:00:52,421 --> 00:00:54,140
-And up there, above the air?
+00:00:45,129 --> 00:00:47,710
+Its rays pass through lots of different pockets,
 
 22
-00:00:54,190 --> 00:00:57,803
-Nothing trembles anymore: the stars shine perfectly still.
+00:00:47,760 --> 00:00:49,245
+so the jumps blend together…
 
 23
-00:00:57,853 --> 00:01:00,443
-That's why we send telescopes into space.
+00:00:49,295 --> 00:00:50,774
+and its light stays steady.
 
 24
-00:01:01,232 --> 00:01:03,344
-That's why stars twinkle.
+00:00:51,554 --> 00:00:53,159
+And up there, above the air?
 
 25
-00:01:04,748 --> 00:01:05,996
-Stars shine steadily;
+00:00:53,209 --> 00:00:56,587
+Nothing trembles anymore, the stars shine perfectly still…
 
 26
-00:01:06,046 --> 00:01:09,631
-it's the moving air above us that makes their light dance.
+00:00:56,637 --> 00:00:59,060
+that's why we send telescopes into space!
 
 27
-00:01:11,232 --> 00:01:12,822
-With an adult, in the dark:
+00:00:59,830 --> 00:01:02,023
+And that's why stars twinkle.
 
 28
-00:01:12,872 --> 00:01:16,041
-shine a light on the ceiling through a bowl of water.
+00:01:03,348 --> 00:01:04,596
+Stars shine steadily;
 
 29
-00:01:16,091 --> 00:01:18,532
-Stir the water: the spot of light dances,
+00:01:04,646 --> 00:01:08,231
+it's the moving air above us that makes their light dance.
 
 30
-00:01:18,582 --> 00:01:19,310
-like a star!
+00:01:09,834 --> 00:01:11,419
+With an adult, in the dark:
 
 31
-00:01:20,094 --> 00:01:22,129
-And what is a shooting star?
+00:01:11,469 --> 00:01:14,627
+shine a light on the ceiling through a bowl of water.
 
 32
-00:01:22,179 --> 00:01:23,669
+00:01:14,677 --> 00:01:17,351
+Stir the water, and the spot of light dances,
+
+33
+00:01:17,401 --> 00:01:18,128
+like a star!
+
+34
+00:01:18,904 --> 00:01:20,939
+And what is a shooting star?
+
+35
+00:01:20,989 --> 00:01:22,479
 The answer tomorrow.

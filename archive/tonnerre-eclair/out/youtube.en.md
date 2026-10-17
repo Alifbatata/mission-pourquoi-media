@@ -8,7 +8,7 @@ Why do we hear thunder after lightning? ⚡ The answer in one minute, with Noah,
 
 Remember: The light of the lightning arrives right away; the sound of thunder takes time to travel.
 
-🧪 Try it at home, with an adult: behind the window, when you see the lightning, count until the thunder. Three seconds per kilometer: you know where the storm is!
+🧪 Try it at home, with an adult: behind the window, as soon as you see the lightning, count until the thunder… three seconds is one kilometer!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

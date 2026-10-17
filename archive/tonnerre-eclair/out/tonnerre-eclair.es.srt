@@ -1,139 +1,139 @@
 1
-00:00:03,052 --> 00:00:04,808
+00:00:03,051 --> 00:00:04,732
 A salvo dentro de Curio,
 
 2
-00:00:04,858 --> 00:00:07,066
+00:00:04,782 --> 00:00:06,897
 Noah y Mila miran la tormenta.
 
 3
-00:00:07,116 --> 00:00:08,119
-¡Un relámpago!
+00:00:06,947 --> 00:00:07,835
+Un relámpago…
 
 4
-00:00:08,169 --> 00:00:09,248
-Uno, dos, tres…
+00:00:07,885 --> 00:00:10,792
+y tres segundos después, ¡BUM, el trueno!
 
 5
-00:00:09,298 --> 00:00:09,624
-¡BUM!
+00:00:10,842 --> 00:00:12,213
+¿Por qué tan tarde?
 
 6
-00:00:09,674 --> 00:00:12,308
-¿Por qué el trueno llega tan tarde?
+00:00:12,991 --> 00:00:14,195
+Mila cuenta cada vez…
 
 7
-00:00:13,080 --> 00:00:14,259
-Mila cuenta cada vez.
+00:00:14,245 --> 00:00:16,406
+¡a veces tres segundos, a veces diez!
 
 8
-00:00:14,309 --> 00:00:16,425
-¡A veces tres segundos, a veces diez!
+00:00:16,456 --> 00:00:17,540
+Es como si el ruido
 
 9
-00:00:16,475 --> 00:00:19,227
-Como si el ruido se entretuviera por el camino…
+00:00:17,590 --> 00:00:19,382
+se entretuviera por el camino…
 
 10
-00:00:20,022 --> 00:00:21,536
+00:00:20,172 --> 00:00:21,686
 ¡Misión descubrimiento!
 
 11
-00:00:24,065 --> 00:00:24,698
+00:00:24,202 --> 00:00:24,806
 ¡Modo mini!
 
 12
-00:00:24,748 --> 00:00:27,553
-El relámpago quema: calienta el aire de golpe,
+00:00:24,856 --> 00:00:27,543
+El relámpago quema, calienta el aire de golpe,
 
 13
-00:00:27,603 --> 00:00:28,546
+00:00:27,593 --> 00:00:28,495
 ¡más que el Sol!
 
 14
-00:00:28,596 --> 00:00:31,090
-El aire se hincha tan rápido que estalla:
+00:00:28,545 --> 00:00:31,469
+Entonces el aire se hincha tan rápido que estalla…
 
 15
-00:00:31,140 --> 00:00:32,196
-eso es el trueno.
+00:00:31,519 --> 00:00:32,590
+¡eso es el trueno!
 
 16
-00:00:32,971 --> 00:00:33,864
-Salen juntos.
+00:00:33,362 --> 00:00:36,605
+Salen juntos, pero la luz vuela y llega enseguida.
 
 17
-00:00:33,914 --> 00:00:36,401
-Pero la luz vuela: llega enseguida.
+00:00:36,655 --> 00:00:38,383
+El sonido, mucho más lento,
 
 18
-00:00:36,451 --> 00:00:39,012
-El sonido avanza mucho más despacio,
+00:00:38,433 --> 00:00:40,886
+avanza trescientos metros por segundo…
 
 19
-00:00:39,062 --> 00:00:42,324
-trescientos metros por segundo: ¡llega tarde!
+00:00:40,936 --> 00:00:42,319
+¡así que llega tarde!
 
 20
-00:00:43,121 --> 00:00:44,147
+00:00:43,100 --> 00:00:44,071
 ¡Entonces cuenta!
 
 21
-00:00:44,197 --> 00:00:46,994
-Tres segundos entre el relámpago y el trueno:
+00:00:44,121 --> 00:00:47,193
+Si hay tres segundos entre el relámpago y el trueno,
 
 22
-00:00:47,044 --> 00:00:49,019
+00:00:47,243 --> 00:00:49,114
 la tormenta está a un kilómetro.
 
 23
-00:00:49,069 --> 00:00:50,967
-Seis segundos: dos kilómetros.
+00:00:49,164 --> 00:00:50,075
+Y seis segundos…
 
 24
-00:00:51,758 --> 00:00:53,392
-Noah cuenta: quince segundos.
+00:00:50,125 --> 00:00:51,085
+¡dos kilómetros!
 
 25
-00:00:53,442 --> 00:00:56,063
-La tormenta está a cinco kilómetros, se aleja.
+00:00:51,862 --> 00:00:53,230
+Noah cuenta quince segundos,
 
 26
-00:00:56,113 --> 00:00:59,481
-¡Pero mientras oigamos el trueno, nos quedamos a cubierto!
+00:00:53,280 --> 00:00:56,016
+así que la tormenta está a cinco kilómetros y se aleja.
 
 27
-00:01:00,264 --> 00:01:02,892
-Por eso el trueno llega después del relámpago.
+00:00:56,066 --> 00:00:59,003
+¡Pero mientras oigamos el trueno, nos quedamos a cubierto!
 
 28
-00:01:03,805 --> 00:01:06,448
-La luz del relámpago llega enseguida;
+00:00:59,860 --> 00:01:02,542
+Y por eso el trueno llega después del relámpago.
 
 29
-00:01:06,498 --> 00:01:09,191
-el sonido del trueno tarda en viajar.
+00:01:03,405 --> 00:01:06,048
+La luz del relámpago llega enseguida;
 
 30
-00:01:09,951 --> 00:01:11,578
-Con un adulto, detrás de la ventana:
+00:01:06,098 --> 00:01:08,791
+el sonido del trueno tarda en viajar.
 
 31
-00:01:11,628 --> 00:01:13,861
-cuando veas el relámpago, cuenta hasta el trueno.
+00:01:09,552 --> 00:01:11,558
+Con un adulto, detrás de la ventana:
 
 32
-00:01:13,911 --> 00:01:15,166
-Tres segundos por kilómetro:
+00:01:11,608 --> 00:01:14,528
+en cuanto veas el relámpago, cuenta hasta el trueno…
 
 33
-00:01:15,216 --> 00:01:16,753
-¡ya sabes dónde está la tormenta!
+00:01:14,578 --> 00:01:16,405
+¡tres segundos son un kilómetro!
 
 34
-00:01:17,950 --> 00:01:20,058
+00:01:17,550 --> 00:01:19,658
 ¿Y cómo atrae un imán el metal?
 
 35
-00:01:20,108 --> 00:01:21,570
+00:01:19,708 --> 00:01:21,170
 La respuesta, mañana.

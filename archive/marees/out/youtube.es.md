@@ -8,7 +8,7 @@
 
 Para recordar: La Luna tira del agua de los océanos: dos bultos de agua, y la Tierra gira debajo.
 
-🧪 Para probar en casa, con un adulto: en la playa, clava un palo donde llega el mar. Vuelve una hora después: ¡se ha movido! ¿Sube o baja?
+🧪 Para probar en casa, con un adulto: en la playa, clava un palo donde llega el mar. Una hora después, el mar se ha movido… entonces, ¿sube o baja?
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

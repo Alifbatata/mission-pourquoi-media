@@ -8,7 +8,7 @@ D'où vient le vent ? 🌬️ La réponse en une minute, avec Noah, Mila et leur
 
 À retenir : Le Soleil chauffe l'air inégalement ; l'air chaud monte, et l'air frais accourt : c'est le vent.
 
-🧪 À essayer à la maison, avec un adulte : tiens une bandelette de papier au-dessus d'un radiateur chaud. Elle s'envole : l'air chaud monte !
+🧪 À essayer à la maison, avec un adulte : tiens une bandelette de papier au-dessus d'un radiateur chaud. Elle s'envole, parce que l'air chaud monte !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

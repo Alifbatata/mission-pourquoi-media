@@ -1,131 +1,139 @@
 1
-00:00:03,068 --> 00:00:03,834
+00:00:03,068 --> 00:00:03,848
 Chut !
 
 2
-00:00:04,019 --> 00:00:06,796
-Une grotte : des salles immenses sous la montagne,
+00:00:03,961 --> 00:00:06,616
+Cette grotte cache des salles immenses sous la montagne,
 
 3
-00:00:06,872 --> 00:00:08,399
-des pics de pierre au plafond.
+00:00:06,747 --> 00:00:08,247
+et des pics de pierre au plafond…
 
 4
-00:00:08,514 --> 00:00:09,797
-Qui a creusé tout ça ?
+00:00:08,581 --> 00:00:09,823
+mais qui a creusé tout ça ?
 
 5
-00:00:10,635 --> 00:00:13,793
-Ploc, ploc : une goutte toutes les dix secondes.
+00:00:10,642 --> 00:00:11,978
+Ploc, ploc…
 
 6
-00:00:13,950 --> 00:00:17,094
-Noah rigole : une goutte ne creuse pas une montagne !
+00:00:12,136 --> 00:00:14,125
+une goutte tombe toutes les dix secondes.
 
 7
-00:00:17,266 --> 00:00:18,059
-Pourtant…
+00:00:14,242 --> 00:00:17,128
+Et Noah rigole : ça ne creuse pas une montagne !
 
 8
-00:00:18,822 --> 00:00:20,336
-Mission découverte !
+00:00:17,272 --> 00:00:18,093
+Pourtant…
 
 9
-00:00:22,852 --> 00:00:23,822
-Mode mini !
+00:00:18,872 --> 00:00:20,386
+Mission découverte !
 
 10
-00:00:23,934 --> 00:00:25,665
-En traversant l'air et le sol,
+00:00:22,902 --> 00:00:23,885
+Mode mini !
 
 11
-00:00:25,836 --> 00:00:27,988
-l'eau de pluie attrape du gaz carbonique.
+00:00:23,998 --> 00:00:25,661
+En traversant l'air et le sol,
 
 12
-00:00:28,105 --> 00:00:29,794
-Elle devient un petit peu acide,
+00:00:25,846 --> 00:00:27,767
+l'eau de pluie attrape du gaz carbonique…
 
 13
-00:00:29,844 --> 00:00:31,331
-comme un soda sans sucre.
+00:00:28,060 --> 00:00:29,518
+alors elle devient un peu acide,
 
 14
-00:00:32,112 --> 00:00:34,604
-Cette eau se faufile dans les fissures du calcaire,
+00:00:29,568 --> 00:00:31,109
+comme un soda sans sucre.
 
 15
-00:00:34,667 --> 00:00:35,895
-qu'elle sait dissoudre.
+00:00:31,892 --> 00:00:34,383
+Cette eau se faufile dans les fissures du calcaire,
 
 16
-00:00:36,027 --> 00:00:38,601
-Goutte après goutte, la fissure s'élargit :
+00:00:34,433 --> 00:00:35,634
+qu'elle sait dissoudre.
 
 17
-00:00:38,731 --> 00:00:40,802
-un couloir, puis une salle.
+00:00:35,767 --> 00:00:38,298
+Goutte après goutte, la fissure s'élargit…
 
 18
-00:00:41,570 --> 00:00:42,635
-Et les pics ?
+00:00:38,348 --> 00:00:40,297
+en couloir, puis en salle !
 
 19
-00:00:42,770 --> 00:00:45,669
-L'eau arrive chargée de calcaire, perd son gaz,
+00:00:41,060 --> 00:00:42,125
+Et les pics ?
 
 20
-00:00:45,732 --> 00:00:50,275
-et le calcaire se redépose : stalactite au plafond, stalagmite au sol.
+00:00:42,260 --> 00:00:45,159
+L'eau arrive chargée de calcaire, perd son gaz,
 
 21
-00:00:51,050 --> 00:00:53,148
-La craie, c'est du calcaire.
+00:00:45,222 --> 00:00:49,765
+et le calcaire se redépose : stalactite au plafond, stalagmite au sol.
 
 22
-00:00:53,283 --> 00:00:56,318
-Dans le vinaigre, un acide, elle fond en bulles !
+00:00:50,540 --> 00:00:53,059
+La craie naturelle, c'est du calcaire.
 
 23
-00:00:56,503 --> 00:00:59,022
-L'eau de pluie fait pareil, bien plus lentement.
+00:00:53,178 --> 00:00:55,288
+Alors dans le vinaigre, un acide,
 
 24
-00:00:59,792 --> 00:01:01,808
-Voilà comment se creusent les grottes.
+00:00:55,338 --> 00:00:56,417
+elle fond en bulles !
 
 25
-00:01:03,322 --> 00:01:07,104
-L'eau de pluie, un peu acide, dissout le calcaire goutte à goutte :
+00:00:56,591 --> 00:00:58,716
+L'eau de pluie fait pareil, en plus lent.
 
 26
-00:01:07,180 --> 00:01:09,387
-des millions d'années plus tard, une grotte.
+00:00:59,491 --> 00:01:01,521
+Et voilà comment se creusent les grottes.
 
 27
-00:01:10,198 --> 00:01:11,453
-Avec un adulte :
+00:01:03,022 --> 00:01:06,804
+L'eau de pluie, un peu acide, dissout le calcaire goutte à goutte :
 
 28
-00:01:11,516 --> 00:01:13,736
-pose un bout de craie dans un verre de vinaigre.
+00:01:06,880 --> 00:01:09,087
+des millions d'années plus tard, une grotte.
 
 29
-00:01:13,866 --> 00:01:14,836
-Des bulles !
+00:01:09,925 --> 00:01:11,112
+Avec un adulte :
 
 30
-00:01:15,008 --> 00:01:17,201
-Le lendemain, la craie a fondu.
+00:01:11,162 --> 00:01:13,231
+pose un bout de craie naturelle dans du vinaigre…
 
 31
-00:01:17,982 --> 00:01:19,576
-Et pourquoi le ciel s'allume-t-il
+00:01:13,281 --> 00:01:14,333
+ça fait des bulles !
 
 32
-00:01:19,626 --> 00:01:20,814
-en vert près des pôles ?
+00:01:14,445 --> 00:01:16,964
+Et le lendemain, la craie a rétréci !
 
 33
-00:01:20,942 --> 00:01:22,211
+00:01:17,752 --> 00:01:19,346
+Et pourquoi le ciel s'allume-t-il
+
+34
+00:01:19,396 --> 00:01:20,584
+en vert près des pôles ?
+
+35
+00:01:20,712 --> 00:01:21,981
 Réponse demain.

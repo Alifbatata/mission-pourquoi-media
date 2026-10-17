@@ -1,127 +1,135 @@
 1
-00:00:03,068 --> 00:00:06,764
-Mira: las estrellas parpadean, como lamparitas que tiemblan.
+00:00:03,068 --> 00:00:06,365
+Mira, las estrellas parpadean como lamparitas que tiemblan…
 
 2
-00:00:06,814 --> 00:00:09,387
-¡Esa, al ras del horizonte, baila aún más!
+00:00:06,415 --> 00:00:08,861
+¡y esa, al ras del horizonte, baila aún más!
 
 3
-00:00:09,437 --> 00:00:11,373
-¿Por qué titilan las estrellas?
+00:00:08,911 --> 00:00:10,954
+Pero ¿por qué titilan las estrellas?
 
 4
-00:00:12,151 --> 00:00:13,206
-Mila ve un punto muy
+00:00:11,785 --> 00:00:12,773
+Pero Mila ve un punto
 
 5
-00:00:13,256 --> 00:00:14,863
-brillante que no tiembla nada.
+00:00:12,823 --> 00:00:14,453
+muy brillante que no tiembla nada.
 
 6
-00:00:14,913 --> 00:00:16,576
-Noah comprueba: ¡es un planeta!
+00:00:14,503 --> 00:00:15,194
+Noah comprueba…
 
 7
-00:00:16,626 --> 00:00:18,559
-¿Por qué él se queda tan tranquilo?
+00:00:15,244 --> 00:00:15,935
+¡es un planeta!
 
 8
-00:00:19,332 --> 00:00:20,846
-¡Misión descubrimiento!
+00:00:15,985 --> 00:00:17,714
+¿Por qué él se queda tan tranquilo?
 
 9
-00:00:23,362 --> 00:00:23,894
-¡Modo mini!
+00:00:18,482 --> 00:00:19,996
+¡Misión descubrimiento!
 
 10
-00:00:23,944 --> 00:00:26,011
-Entre la estrella y tu ojo está el aire.
+00:00:22,512 --> 00:00:23,044
+¡Modo mini!
 
 11
-00:00:26,061 --> 00:00:30,350
-Y el aire no está quieto: bolsas de aire caliente y frío se mueven todo el tiempo,
+00:00:23,094 --> 00:00:25,161
+Entre la estrella y tu ojo está el aire.
 
 12
-00:00:30,400 --> 00:00:32,253
-como sobre una carretera en verano.
+00:00:25,211 --> 00:00:29,500
+Y el aire no está quieto: bolsas de aire caliente y frío se mueven todo el tiempo,
 
 13
-00:00:33,031 --> 00:00:34,939
-Cada bolsa desvía un poco la luz.
+00:00:29,550 --> 00:00:31,403
+como sobre una carretera en verano.
 
 14
-00:00:34,989 --> 00:00:37,786
-La estrella está tan lejos que es solo un punto:
+00:00:32,180 --> 00:00:34,112
+Y cada bolsa desvía un poco la luz.
 
 15
-00:00:37,836 --> 00:00:41,820
-su rayito salta a la derecha, a la izquierda, más fuerte, más débil.
+00:00:34,162 --> 00:00:36,830
+La estrella está tan lejos que es solo un punto:
 
 16
-00:00:41,870 --> 00:00:42,345
-¡Titila!
+00:00:36,880 --> 00:00:40,681
+su rayito salta a la derecha, a la izquierda, más fuerte, más débil…
 
 17
-00:00:43,111 --> 00:00:44,428
-El planeta, más cercano,
+00:00:40,731 --> 00:00:41,184
+¡titila!
 
 18
-00:00:44,478 --> 00:00:46,307
-es un pequeño disco, no un punto.
+00:00:41,950 --> 00:00:43,480
+Pero el planeta, más cercano,
 
 19
-00:00:46,357 --> 00:00:48,812
-Sus rayos pasan por muchas bolsas distintas:
+00:00:43,530 --> 00:00:45,277
+es un pequeño disco, no un punto.
 
 20
-00:00:48,862 --> 00:00:51,652
-los saltos se mezclan, y su luz se queda estable.
+00:00:45,327 --> 00:00:47,674
+Sus rayos pasan por muchas bolsas distintas,
 
 21
-00:00:52,421 --> 00:00:54,758
-¿Y allá arriba, por encima del aire?
+00:00:47,724 --> 00:00:49,308
+así que los saltos se mezclan…
 
 22
-00:00:54,808 --> 00:00:57,741
-Ya nada tiembla: las estrellas brillan fijas.
+00:00:49,358 --> 00:00:50,774
+y su luz se queda estable.
 
 23
-00:00:57,791 --> 00:01:00,443
-Por eso mandamos telescopios al espacio.
+00:00:51,554 --> 00:00:53,719
+¿Y allá arriba, por encima del aire?
 
 24
-00:01:01,232 --> 00:01:03,344
-Por eso titilan las estrellas.
+00:00:53,769 --> 00:00:56,487
+Ya nada tiembla, las estrellas brillan fijas…
 
 25
-00:01:04,748 --> 00:01:06,375
-Las estrellas brillan sin temblar;
+00:00:56,537 --> 00:00:59,060
+¡por eso mandamos telescopios al espacio!
 
 26
-00:01:06,425 --> 00:01:09,631
-es el aire que se mueve sobre nosotros el que hace bailar su luz.
+00:00:59,830 --> 00:01:02,023
+Y por eso titilan las estrellas.
 
 27
-00:01:11,232 --> 00:01:12,760
-Con un adulto, a oscuras:
+00:01:03,348 --> 00:01:04,975
+Las estrellas brillan sin temblar;
 
 28
-00:01:12,810 --> 00:01:15,537
-ilumina el techo a través de un bol de agua.
+00:01:05,025 --> 00:01:08,231
+es el aire que se mueve sobre nosotros el que hace bailar su luz.
 
 29
-00:01:15,587 --> 00:01:18,061
-Remueve el agua: la mancha de luz baila,
+00:01:09,834 --> 00:01:11,379
+Con un adulto, a oscuras:
 
 30
-00:01:18,111 --> 00:01:19,310
-¡como una estrella!
+00:01:11,429 --> 00:01:14,186
+ilumina el techo a través de un bol de agua.
 
 31
-00:01:20,094 --> 00:01:22,118
-¿Y qué es una estrella fugaz?
+00:01:14,236 --> 00:01:16,866
+Remueve el agua, y la mancha de luz baila,
 
 32
-00:01:22,168 --> 00:01:23,669
+00:01:16,916 --> 00:01:18,128
+¡como una estrella!
+
+33
+00:01:18,904 --> 00:01:20,928
+¿Y qué es una estrella fugaz?
+
+34
+00:01:20,978 --> 00:01:22,479
 La respuesta, mañana.

@@ -8,7 +8,7 @@ Por que a chuva tem cheiro? 🌧️ A resposta em um minuto, com Noah, Mila e se
 
 Para lembrar: O cheiro da chuva vem do solo: aromas de bactérias e plantas que as gotas mandam para o ar.
 
-🧪 Para experimentar em casa, com um adulto: num dia seco, regue um pedaço de terra, abaixe-se e respire. O cheiro da chuva, feito por você!
+🧪 Para experimentar em casa, com um adulto: num dia seco, regue um pedaço de terra, abaixe-se e respire… é o cheiro da chuva, feito por você!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

@@ -8,7 +8,7 @@
 
 Para recordar: La luz del relámpago llega enseguida; el sonido del trueno tarda en viajar.
 
-🧪 Para probar en casa, con un adulto: detrás de la ventana, cuando veas el relámpago, cuenta hasta el trueno. Tres segundos por kilómetro: ¡ya sabes dónde está la tormenta!
+🧪 Para probar en casa, con un adulto: detrás de la ventana, en cuanto veas el relámpago, cuenta hasta el trueno… ¡tres segundos son un kilómetro!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

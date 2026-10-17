@@ -8,7 +8,7 @@ Why do snowflakes have six branches? ❄️ The answer in one minute, with Noah,
 
 Remember: Ice builds itself in hexagons; so every snowflake grows with six branches.
 
-🧪 Try it at home, with an adult: on a snowy day, catch snowflakes on a dark glove and look at them with a magnifying glass. Count the branches!
+🧪 Try it at home, with an adult: on a snowy day, catch snowflakes on a dark glove, look at them with a magnifying glass… and count the branches!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

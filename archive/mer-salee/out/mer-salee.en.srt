@@ -1,139 +1,143 @@
 1
-00:00:03,068 --> 00:00:03,373
+00:00:03,068 --> 00:00:03,396
 Yuck!
 
 2
-00:00:03,423 --> 00:00:05,716
-Mila tastes a drop of sea: salty!
+00:00:03,446 --> 00:00:05,744
+This drop of seawater is salty,
 
 3
-00:00:05,766 --> 00:00:08,557
-Yet tap water and river water are fresh.
+00:00:05,794 --> 00:00:07,788
+while river water is fresh.
 
 4
-00:00:08,607 --> 00:00:10,098
-Why is the sea salty?
+00:00:07,838 --> 00:00:09,731
+But why is the sea salty?
 
 5
-00:00:10,888 --> 00:00:13,077
-Noah tastes the stream: no salt.
+00:00:10,555 --> 00:00:11,945
+Noah tastes the stream…
 
 6
-00:00:13,127 --> 00:00:15,737
-And yet, every stream and river flows…
+00:00:11,995 --> 00:00:12,883
+it isn't salty!
 
 7
-00:00:15,787 --> 00:00:16,506
-to the sea.
+00:00:12,933 --> 00:00:13,384
+And yet,
 
 8
-00:00:16,556 --> 00:00:17,116
-Strange!
+00:00:13,434 --> 00:00:16,688
+every stream and river flows all the way to the sea.
 
 9
-00:00:17,882 --> 00:00:19,396
+00:00:17,472 --> 00:00:18,986
 Discovery mission!
 
 10
-00:00:21,912 --> 00:00:22,463
+00:00:21,515 --> 00:00:22,051
 Mini mode!
 
 11
-00:00:22,513 --> 00:00:24,328
+00:00:22,101 --> 00:00:23,868
 Rain is just a tiny bit acidic.
 
 12
-00:00:24,378 --> 00:00:25,471
-Flowing over rocks,
+00:00:23,918 --> 00:00:28,557
+So, flowing over rocks, it wears them down and carries away tiny grains of salt,
 
 13
-00:00:25,521 --> 00:00:28,839
-it wears them down and carries away tiny grains of salt.
+00:00:28,607 --> 00:00:30,366
+too few to taste in the river!
 
 14
-00:00:28,889 --> 00:00:30,694
-Too few to taste in the river!
-
-15
-00:00:31,505 --> 00:00:33,509
+00:00:31,185 --> 00:00:33,159
 But day after day, for millions of years,
 
-16
-00:00:33,559 --> 00:00:35,263
+15
+00:00:33,209 --> 00:00:34,887
 rivers bring their salt to the sea.
 
+16
+00:00:34,937 --> 00:00:37,355
+Then the water goes back up into the sky as vapor,
+
 17
-00:00:35,313 --> 00:00:37,517
-The water goes back up into the sky as vapor,
+00:00:37,405 --> 00:00:38,194
+without the salt…
 
 18
-00:00:37,567 --> 00:00:39,771
-without the salt: it stays, and it piles up.
+00:00:38,244 --> 00:00:39,479
+which stays and piles up.
 
 19
-00:00:40,530 --> 00:00:41,844
-At the bottom of the sea,
+00:00:40,284 --> 00:00:41,872
+And at the bottom of the sea,
 
 20
-00:00:41,894 --> 00:00:45,610
-water heated by volcanoes comes back out full of minerals: more salt!
+00:00:41,922 --> 00:00:45,148
+water heated by volcanoes comes back out full of minerals…
 
 21
-00:00:45,660 --> 00:00:45,991
-In all,
+00:00:45,198 --> 00:00:45,713
+more salt!
 
 22
-00:00:46,041 --> 00:00:49,097
-a glass of sea water holds almost two spoonfuls of salt.
+00:00:45,763 --> 00:00:46,673
+So a glass of sea
 
 23
-00:00:49,871 --> 00:00:51,554
-Two spoonfuls of salt in a glass:
+00:00:46,723 --> 00:00:48,587
+water holds almost two spoonfuls.
 
 24
-00:00:51,604 --> 00:00:53,024
-that's the taste of the sea.
+00:00:49,351 --> 00:00:51,034
+Two spoonfuls of salt in a glass:
 
 25
-00:00:53,074 --> 00:00:55,387
-And since the water always leaves without it,
+00:00:51,084 --> 00:00:52,504
+that's the taste of the sea.
 
 26
-00:00:55,437 --> 00:00:56,697
-the sea will stay salty.
+00:00:52,554 --> 00:00:54,867
+And since the water always leaves without it,
 
 27
-00:00:57,498 --> 00:00:59,297
-That's why the sea is salty.
+00:00:54,917 --> 00:00:56,177
+the sea will stay salty.
 
 28
-00:01:01,025 --> 00:01:03,987
-Rain wears down rocks, rivers carry the salt to the sea,
+00:00:56,960 --> 00:00:58,840
+And that's why the sea is salty.
 
 29
-00:01:04,037 --> 00:01:05,759
-and the water leaves without it.
+00:01:00,505 --> 00:01:03,467
+Rain wears down rocks, rivers carry the salt to the sea,
 
 30
-00:01:06,984 --> 00:01:10,002
-With an adult: put very salty water in a plate,
+00:01:03,517 --> 00:01:05,239
+and the water leaves without it.
 
 31
-00:01:10,052 --> 00:01:10,720
-in the sun.
+00:01:06,492 --> 00:01:09,515
+With an adult: put very salty water in a plate,
 
 32
-00:01:10,770 --> 00:01:12,221
-When the water is gone…
+00:01:09,565 --> 00:01:10,235
+in the sun.
 
 33
-00:01:12,271 --> 00:01:13,838
-the salt is still there!
+00:01:10,285 --> 00:01:11,739
+When the water is gone…
 
 34
-00:01:14,611 --> 00:01:16,665
-And why does the sea rise and fall?
+00:01:11,789 --> 00:01:13,358
+the salt is still there!
 
 35
-00:01:16,715 --> 00:01:17,917
+00:01:14,141 --> 00:01:16,195
+And why does the sea rise and fall?
+
+36
+00:01:16,245 --> 00:01:17,447
 The answer tomorrow.

@@ -1,139 +1,131 @@
 1
-00:00:03,109 --> 00:00:06,037
+00:00:03,109 --> 00:00:05,983
 Mila catches a snowflake on her mitten:
 
 2
-00:00:06,087 --> 00:00:08,405
+00:00:06,033 --> 00:00:08,308
 a tiny star, with six branches.
 
 3
-00:00:08,455 --> 00:00:09,322
-Another one…
+00:00:08,358 --> 00:00:09,582
+Then another one…
 
 4
-00:00:09,372 --> 00:00:10,620
-six branches too!
+00:00:09,632 --> 00:00:12,057
+six too, never five, never seven!
 
 5
-00:00:10,670 --> 00:00:12,453
-Never five, never seven.
-
-6
-00:00:12,503 --> 00:00:13,114
+00:00:12,107 --> 00:00:12,707
 Why six?
 
-7
-00:00:13,900 --> 00:00:16,877
+6
+00:00:13,490 --> 00:00:16,658
 Under the magnifying glass, every snowflake is different,
 
-8
-00:00:16,927 --> 00:00:18,258
+7
+00:00:16,708 --> 00:00:18,126
 but all have six branches.
 
+8
+00:00:18,176 --> 00:00:21,394
+So Noah's drawing, with too many branches, is impossible!
+
 9
-00:00:18,308 --> 00:00:20,276
-Noah draws one with too many branches:
-
-10
-00:00:20,326 --> 00:00:21,600
-impossible in real life!
-
-11
-00:00:22,372 --> 00:00:23,886
+00:00:22,182 --> 00:00:23,696
 Discovery mission!
 
-12
-00:00:26,402 --> 00:00:27,060
+10
+00:00:26,212 --> 00:00:26,870
 Mini mode!
 
-13
-00:00:27,110 --> 00:00:28,193
+11
+00:00:26,920 --> 00:00:28,003
 In an icy cloud,
 
-14
-00:00:28,243 --> 00:00:31,663
+12
+00:00:28,053 --> 00:00:31,473
 a very cold droplet freezes onto a speck of dust.
 
-15
-00:00:31,713 --> 00:00:33,859
+13
+00:00:31,523 --> 00:00:33,669
 Then water vapor turns straight
 
-16
-00:00:33,909 --> 00:00:35,537
+14
+00:00:33,719 --> 00:00:35,347
 into ice all around it.
 
-17
-00:00:36,328 --> 00:00:39,913
+15
+00:00:36,138 --> 00:00:39,723
 When freezing, water molecules always line up the same way:
 
-18
-00:00:39,963 --> 00:00:41,638
+16
+00:00:39,773 --> 00:00:41,448
 in hexagons, with six sides.
 
-19
-00:00:41,688 --> 00:00:43,856
+17
+00:00:41,498 --> 00:00:43,666
 So the crystal grows with six sides,
 
-20
-00:00:43,906 --> 00:00:45,015
+18
+00:00:43,716 --> 00:00:44,825
 then six branches.
 
+19
+00:00:45,601 --> 00:00:49,952
+As it falls, the snowflake travels through air that is more or less cold and humid,
+
+20
+00:00:50,002 --> 00:00:51,702
+so its branches grow differently.
+
 21
-00:00:45,792 --> 00:00:50,269
-As it falls, the snowflake travels through air that is more or less cold and humid:
+00:00:51,752 --> 00:00:53,717
+But since all six live the same story,
 
 22
-00:00:50,319 --> 00:00:51,906
-its branches grow differently.
-
-23
-00:00:51,956 --> 00:00:53,651
-But all six live the same story:
-
-24
-00:00:53,701 --> 00:00:54,574
+00:00:53,767 --> 00:00:54,616
 they stay alike.
 
-25
-00:00:55,341 --> 00:00:58,571
+23
+00:00:55,422 --> 00:00:58,439
 And since no two snowflakes make exactly the same journey,
 
+24
+00:00:58,489 --> 00:00:59,338
+no two are alike…
+
+25
+00:00:59,388 --> 00:01:02,085
+billions of six-branched stars fall, all different!
+
 26
-00:00:58,621 --> 00:00:59,533
-no two are alike.
+00:01:02,880 --> 00:01:05,277
+And that's why snowflakes have six branches.
 
 27
-00:00:59,583 --> 00:01:02,184
-Billions of six-branched stars, all different!
-
-28
-00:01:02,968 --> 00:01:05,283
-That's why snowflakes have six branches.
-
-29
-00:01:06,509 --> 00:01:08,253
+00:01:06,439 --> 00:01:08,183
 Ice builds itself in hexagons;
 
-30
-00:01:08,303 --> 00:01:10,876
+28
+00:01:08,233 --> 00:01:10,806
 so every snowflake grows with six branches.
 
+29
+00:01:11,591 --> 00:01:15,148
+With an adult, on a snowy day: catch snowflakes on a dark glove,
+
+30
+00:01:15,198 --> 00:01:17,234
+look at them with a magnifying glass…
+
 31
-00:01:11,719 --> 00:01:13,402
-With an adult, on a snowy day:
+00:01:17,284 --> 00:01:18,580
+and count the branches!
 
 32
-00:01:13,452 --> 00:01:17,679
-catch snowflakes on a dark glove and look at them with a magnifying glass.
-
-33
-00:01:17,729 --> 00:01:18,827
-Count the branches!
-
-34
-00:01:19,631 --> 00:01:21,573
+00:01:19,371 --> 00:01:21,313
 And why do the seasons change?
 
-35
-00:01:21,623 --> 00:01:22,951
+33
+00:01:21,363 --> 00:01:22,691
 The answer tomorrow.

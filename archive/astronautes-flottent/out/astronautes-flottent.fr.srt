@@ -11,11 +11,11 @@ Noah et Mila flottent dans Curio !
 Mais pourquoi ?
 
 4
-00:00:09,145 --> 00:00:11,610
-Mila lâche son crayon : il ne tombe pas !
+00:00:09,145 --> 00:00:11,583
+Quand Mila lâche son crayon, il ne tombe pas !
 
 5
-00:00:11,795 --> 00:00:15,088
+00:00:11,754 --> 00:00:15,088
 Alors, dans l'espace, il n'y a plus de gravité ?
 
 6
@@ -23,113 +23,113 @@ Alors, dans l'espace, il n'y a plus de gravité ?
 Mission découverte !
 
 7
-00:00:19,902 --> 00:00:20,899
+00:00:19,915 --> 00:00:20,899
 Mode mini !
 
 8
-00:00:21,056 --> 00:00:22,964
-Une boîte, une balle dedans.
+00:00:21,016 --> 00:00:23,005
+On lâche une boîte avec une balle dedans.
 
 9
-00:00:23,122 --> 00:00:25,124
-Je lâche tout : la boîte tombe,
+00:00:23,162 --> 00:00:24,228
+La boîte tombe…
 
 10
-00:00:25,200 --> 00:00:27,719
-et la balle tombe avec elle, à la même vitesse.
+00:00:24,399 --> 00:00:25,762
+et la balle tombe avec elle,
 
 11
-00:00:27,863 --> 00:00:28,806
-Dans la boîte…
+00:00:25,812 --> 00:00:27,040
+à la même vitesse.
 
 12
-00:00:28,923 --> 00:00:30,043
-la balle flotte !
+00:00:27,154 --> 00:00:29,768
+Du coup, dans la boîte, elle flotte !
 
 13
-00:00:30,812 --> 00:00:33,222
-Lance une balle : elle tombe par terre.
+00:00:30,609 --> 00:00:32,992
+Lance une balle, et elle tombe par terre.
 
 14
-00:00:33,339 --> 00:00:35,274
-Plus fort : elle va plus loin.
+00:00:33,163 --> 00:00:34,908
+Plus fort, elle va plus loin.
 
 15
-00:00:35,434 --> 00:00:36,513
-Hyper fort ?
+00:00:35,065 --> 00:00:36,198
+Et hyper fort ?
 
 16
-00:00:36,625 --> 00:00:37,908
+00:00:36,312 --> 00:00:37,581
 Elle tombe toujours…
 
 17
-00:00:38,133 --> 00:00:40,421
+00:00:37,834 --> 00:00:40,081
 mais elle rate la Terre, et tourne autour !
 
 18
-00:00:41,201 --> 00:00:42,470
+00:00:40,871 --> 00:00:42,140
 C'est une orbite !
 
 19
-00:00:42,602 --> 00:00:45,080
+00:00:42,287 --> 00:00:44,779
 Curio va si vite qu'il tombe en ratant la Terre,
 
 20
-00:00:45,142 --> 00:00:46,058
+00:00:44,869 --> 00:00:45,757
 sans arrêt.
 
 21
-00:00:46,204 --> 00:00:47,976
-Noah et Mila tombent avec lui…
+00:00:45,872 --> 00:00:47,833
+Et comme Noah et Mila tombent avec lui…
 
 22
-00:00:48,093 --> 00:00:49,280
-alors ils flottent !
+00:00:47,883 --> 00:00:48,840
+ils flottent !
 
 23
-00:00:50,201 --> 00:00:52,421
+00:00:49,871 --> 00:00:52,091
 Les vrais astronautes, c'est pareil :
 
 24
-00:00:52,511 --> 00:00:54,446
+00:00:52,181 --> 00:00:54,116
 leur station tombe autour de la Terre.
 
 25
-00:00:54,620 --> 00:00:57,723
+00:00:54,290 --> 00:00:57,393
 Et là-haut, la gravité est presque aussi forte qu'ici !
 
 26
-00:00:58,504 --> 00:01:00,684
-Voilà pourquoi les astronautes flottent.
+00:00:58,170 --> 00:01:00,512
+Et voilà pourquoi les astronautes flottent.
 
 27
-00:01:02,001 --> 00:01:04,860
+00:01:01,671 --> 00:01:04,530
 Les astronautes flottent parce qu'ils tombent autour de la Terre,
 
 28
-00:01:04,936 --> 00:01:06,259
+00:01:04,606 --> 00:01:05,929
 sans jamais l'atteindre.
 
 29
-00:01:07,042 --> 00:01:10,118
+00:01:06,711 --> 00:01:09,733
 Avec un adulte : saute d'une petite marche.
 
 30
-00:01:10,233 --> 00:01:11,406
+00:01:09,849 --> 00:01:11,008
 Pendant la chute,
 
 31
-00:01:11,456 --> 00:01:13,010
-ton corps ne sent plus son poids.
+00:01:11,058 --> 00:01:12,448
+ton corps ne sent plus son poids…
 
 32
-00:01:13,127 --> 00:01:14,817
-Une seconde d'astronaute !
+00:01:12,498 --> 00:01:14,066
+une seconde d'astronaute !
 
 33
-00:01:15,611 --> 00:01:17,831
+00:01:14,851 --> 00:01:17,071
 Et pourquoi la Lune change-t-elle de forme ?
 
 34
-00:01:17,947 --> 00:01:19,202
+00:01:17,187 --> 00:01:18,442
 Réponse demain.

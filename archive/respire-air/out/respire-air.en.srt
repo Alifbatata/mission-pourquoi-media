@@ -1,127 +1,123 @@
 1
-00:00:03,052 --> 00:00:05,411
-Mila breathes on the mirror: fog!
+00:00:03,052 --> 00:00:06,080
+When Mila breathes on the mirror, it fogs up!
 
 2
-00:00:05,461 --> 00:00:07,381
-Noah takes a big breath in.
+00:00:06,130 --> 00:00:08,200
+And Noah takes a big breath in…
 
 3
-00:00:07,431 --> 00:00:09,840
-But actually, what do we breathe?
+00:00:08,250 --> 00:00:09,823
+but what do we breathe?
 
 4
-00:00:10,632 --> 00:00:12,549
+00:00:10,612 --> 00:00:12,387
 Noah catches air in a bag.
 
 5
-00:00:12,599 --> 00:00:15,879
-You can't see anything, but the bag is full!
+00:00:12,437 --> 00:00:14,001
+You can't see anything,
 
 6
-00:00:15,929 --> 00:00:18,073
-Mila presses: it pushes back.
+00:00:14,051 --> 00:00:15,686
+and yet the bag is full!
 
 7
-00:00:18,123 --> 00:00:18,955
-Air exists!
+00:00:15,736 --> 00:00:18,894
+Mila presses, and it pushes back: air exists!
 
 8
-00:00:19,732 --> 00:00:21,246
+00:00:19,662 --> 00:00:21,176
 Discovery mission!
 
 9
-00:00:23,762 --> 00:00:24,321
+00:00:23,692 --> 00:00:24,243
 Mini mode!
 
 10
-00:00:24,371 --> 00:00:25,663
-Air is a mix of gases.
+00:00:24,293 --> 00:00:25,565
+Air is a mix of gases…
 
 11
-00:00:25,713 --> 00:00:29,261
-Out of one hundred balls of air: seventy-eight of nitrogen,
+00:00:25,615 --> 00:00:29,171
+out of one hundred balls of air, seventy-eight are nitrogen,
 
 12
-00:00:29,311 --> 00:00:32,422
-twenty-one of oxygen, and a handful of other gases.
+00:00:29,221 --> 00:00:32,406
+twenty-one are oxygen, and a handful are other gases.
 
 13
-00:00:33,222 --> 00:00:36,511
-You breathe in: the air goes down into your lungs,
+00:00:33,208 --> 00:00:36,524
+When you breathe in, the air goes down into your lungs,
 
 14
-00:00:36,561 --> 00:00:37,513
+00:00:36,574 --> 00:00:37,442
 into tiny sacs.
 
 15
-00:00:37,563 --> 00:00:39,784
-The oxygen passes into your blood,
+00:00:37,492 --> 00:00:39,952
+There, the oxygen passes into your blood,
 
 16
-00:00:39,834 --> 00:00:42,639
+00:00:40,002 --> 00:00:42,573
 which brings back a waste: carbon dioxide.
 
 17
-00:00:43,410 --> 00:00:46,021
-You breathe out: a little less oxygen,
+00:00:43,340 --> 00:00:46,828
+And when you breathe out, a little less oxygen comes out,
 
 18
-00:00:46,071 --> 00:00:48,052
+00:00:46,878 --> 00:00:48,628
 a little more carbon dioxide…
 
 19
-00:00:48,102 --> 00:00:49,172
+00:00:48,678 --> 00:00:49,621
 and water vapor.
 
 20
-00:00:49,222 --> 00:00:51,393
-That's what fogs up the mirror!
+00:00:49,671 --> 00:00:51,472
+That's the fog on the mirror!
 
 21
-00:00:52,171 --> 00:00:56,084
-Your body burns food with oxygen to make energy.
+00:00:52,270 --> 00:00:56,423
+With oxygen, your body burns food to make energy.
 
 22
-00:00:56,134 --> 00:00:58,148
-And who makes the oxygen?
+00:00:56,473 --> 00:00:57,881
+But who makes it?
 
 23
-00:00:58,198 --> 00:00:58,726
-Plants!
+00:00:57,931 --> 00:01:00,332
+Plants, so thank you, trees!
 
 24
-00:00:58,776 --> 00:01:00,179
-Thank you, trees.
+00:01:01,131 --> 00:01:02,808
+And that's what we breathe.
 
 25
-00:01:00,954 --> 00:01:02,536
-That's what we breathe.
-
-26
-00:01:04,509 --> 00:01:05,721
+00:01:04,689 --> 00:01:05,901
 Air is a mix of gases;
 
-27
-00:01:05,771 --> 00:01:09,501
+26
+00:01:05,951 --> 00:01:09,681
 your body keeps the oxygen and lets out carbon dioxide and water.
 
-28
-00:01:10,450 --> 00:01:13,329
+27
+00:01:10,630 --> 00:01:13,444
 With an adult: breathe on a cold mirror.
 
+28
+00:01:13,494 --> 00:01:16,236
+This fog is the water from your breath…
+
 29
-00:01:13,379 --> 00:01:16,112
-The fog is the water from your breath.
+00:01:16,286 --> 00:01:18,004
+count how long it stays!
 
 30
-00:01:16,162 --> 00:01:17,919
-Count how long it stays!
-
-31
-00:01:18,681 --> 00:01:21,419
+00:01:18,771 --> 00:01:21,509
 And why do leaves change color in autumn?
 
-32
-00:01:21,469 --> 00:01:22,829
+31
+00:01:21,559 --> 00:01:22,919
 The answer tomorrow.

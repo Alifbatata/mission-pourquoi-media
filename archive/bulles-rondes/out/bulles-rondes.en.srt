@@ -1,131 +1,127 @@
 1
-00:00:03,095 --> 00:00:05,233
-Mila blows: bubbles everywhere!
+00:00:03,082 --> 00:00:06,992
+Mila blows, and bubbles fly everywhere, all perfectly round!
 
 2
-00:00:05,283 --> 00:00:07,138
-All round, perfectly round.
+00:00:07,042 --> 00:00:09,236
+So Noah tries with a square frame…
 
 3
-00:00:07,188 --> 00:00:09,325
-Noah tries with a square frame…
+00:00:09,286 --> 00:00:10,870
+and they're still round!
 
 4
-00:00:09,375 --> 00:00:11,633
-and the bubbles are still round!
-
-5
-00:00:12,410 --> 00:00:16,297
+00:00:11,640 --> 00:00:15,484
 Square, triangle, star: whatever the shape of the frame,
 
-6
-00:00:16,347 --> 00:00:18,828
+5
+00:00:15,534 --> 00:00:17,986
 the bubble always ends up as a ball.
 
-7
-00:00:18,878 --> 00:00:19,159
-Why?
+6
+00:00:18,036 --> 00:00:18,593
+But why?
 
-8
-00:00:19,922 --> 00:00:21,436
+7
+00:00:19,372 --> 00:00:20,886
 Discovery mission!
 
-9
-00:00:23,952 --> 00:00:24,620
+8
+00:00:23,402 --> 00:00:24,070
 Mini mode!
 
-10
-00:00:24,670 --> 00:00:27,782
+9
+00:00:24,120 --> 00:00:27,232
 A bubble is a very thin skin of soapy water,
 
-11
-00:00:27,832 --> 00:00:28,644
+10
+00:00:27,282 --> 00:00:28,094
 full of air.
 
-12
-00:00:28,694 --> 00:00:31,734
+11
+00:00:28,144 --> 00:00:31,184
 This skin is stretched: it pulls to shrink,
 
-13
-00:00:31,784 --> 00:00:33,509
+12
+00:00:31,234 --> 00:00:32,959
 like a blown-up balloon.
 
-14
-00:00:34,292 --> 00:00:35,558
+13
+00:00:33,742 --> 00:00:35,008
 But the air inside stops
 
-15
-00:00:35,608 --> 00:00:37,037
+14
+00:00:35,058 --> 00:00:36,487
 it from shrinking too much.
 
-16
-00:00:37,087 --> 00:00:40,710
+15
+00:00:36,537 --> 00:00:40,160
 So the skin picks the shape that needs the least skin for that air:
 
-17
-00:00:40,760 --> 00:00:41,253
+16
+00:00:40,210 --> 00:00:40,703
 the ball!
 
-18
-00:00:43,335 --> 00:00:45,302
-When two bubbles stick together,
+17
+00:00:42,741 --> 00:00:44,972
+And when two bubbles stick together,
 
-19
-00:00:45,352 --> 00:00:47,760
+18
+00:00:45,022 --> 00:00:47,442
 they share a flat wall: even less skin!
 
-20
-00:00:47,810 --> 00:00:49,714
-And if the skin dries or tears…
+19
+00:00:47,492 --> 00:00:49,406
+But if the skin dries or tears…
 
-21
-00:00:49,764 --> 00:00:50,646
+20
+00:00:49,456 --> 00:00:50,343
 pop, all gone.
 
+21
+00:00:51,138 --> 00:00:53,963
+On a wet hand, the bubble holds without popping,
+
 22
-00:00:51,462 --> 00:00:54,518
-On a wet hand, the bubble holds without popping:
+00:00:54,013 --> 00:00:55,760
+because the skin doesn't tear.
 
 23
-00:00:54,568 --> 00:00:55,941
-the skin doesn't tear.
-
-24
-00:00:55,991 --> 00:00:56,847
+00:00:55,810 --> 00:00:56,598
 Mila rolls it…
 
-25
-00:00:56,897 --> 00:00:57,350
+24
+00:00:56,648 --> 00:00:57,067
 gently!
 
-26
-00:00:58,162 --> 00:01:00,096
-That's why bubbles are round.
+25
+00:00:57,861 --> 00:00:59,877
+And that's why bubbles are round.
 
-27
-00:01:01,631 --> 00:01:04,678
+26
+00:01:01,361 --> 00:01:04,408
 The bubble's skin pulls to be as small as possible,
 
-28
-00:01:04,728 --> 00:01:06,854
+27
+00:01:04,458 --> 00:01:06,584
 and the smallest shape is the ball.
 
-29
-00:01:08,162 --> 00:01:11,479
+28
+00:01:07,862 --> 00:01:11,088
 With an adult: twist a piece of wire into a star,
 
-30
-00:01:11,529 --> 00:01:13,610
+29
+00:01:11,138 --> 00:01:13,161
 dip it in soapy water and blow.
 
-31
-00:01:13,660 --> 00:01:14,485
-Still round?
+30
+00:01:13,211 --> 00:01:14,414
+Is it still round?
 
-32
-00:01:15,261 --> 00:01:17,772
+31
+00:01:15,201 --> 00:01:17,712
 And how do we know dinosaurs existed?
 
-33
-00:01:17,822 --> 00:01:19,206
+32
+00:01:17,762 --> 00:01:19,146
 The answer tomorrow.

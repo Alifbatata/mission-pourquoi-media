@@ -8,7 +8,7 @@ Why do stars twinkle? ✨ The answer in one minute, with Noah, Mila and their la
 
 Remember: Stars shine steadily; it's the moving air above us that makes their light dance.
 
-🧪 Try it at home, with an adult: in the dark, shine a light on the ceiling through a bowl of water. Stir the water: the spot of light dances, like a star!
+🧪 Try it at home, with an adult: in the dark, shine a light on the ceiling through a bowl of water. Stir the water, and the spot of light dances, like a star!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

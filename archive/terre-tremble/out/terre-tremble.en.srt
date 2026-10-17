@@ -1,127 +1,131 @@
 1
-00:00:03,068 --> 00:00:03,203
+00:00:03,054 --> 00:00:03,196
 Oh!
 
 2
-00:00:03,253 --> 00:00:05,910
+00:00:03,246 --> 00:00:06,004
 The cups are rattling, the lamp is swinging…
 
 3
-00:00:05,960 --> 00:00:08,371
-It's not Curio: it's the ground shaking,
+00:00:06,054 --> 00:00:08,812
+and it's not Curio, it's the ground shaking!
 
 4
-00:00:08,421 --> 00:00:09,478
-for a few seconds.
+00:00:08,862 --> 00:00:10,777
+But why does the ground shake?
 
 5
-00:00:09,528 --> 00:00:11,128
-Why does the ground shake?
-
-6
-00:00:11,955 --> 00:00:14,730
+00:00:11,582 --> 00:00:14,290
 Curio recorded everything: a calm line,
 
+6
+00:00:14,340 --> 00:00:15,563
+then a big zigzag!
+
 7
-00:00:14,780 --> 00:00:16,034
-then a big zigzag.
+00:00:15,613 --> 00:00:19,291
+So something moved under their feet, very deep down.
 
 8
-00:00:16,084 --> 00:00:19,488
-Something moved under our feet, very deep down.
-
-9
-00:00:20,262 --> 00:00:21,776
+00:00:20,072 --> 00:00:21,586
 Discovery mission!
 
-10
-00:00:24,292 --> 00:00:24,896
+9
+00:00:24,115 --> 00:00:24,728
 Mini mode!
 
-11
-00:00:24,946 --> 00:00:27,315
+10
+00:00:24,778 --> 00:00:27,181
 Earth's crust is cut into big plates,
 
-12
-00:00:27,365 --> 00:00:28,231
+11
+00:00:27,231 --> 00:00:28,109
 like a puzzle.
 
-13
-00:00:28,281 --> 00:00:31,697
-They move, but very slowly: a few centimeters a year,
+12
+00:00:28,159 --> 00:00:31,556
+And they move very slowly, a few centimeters a year,
 
-14
-00:00:31,747 --> 00:00:33,316
+13
+00:00:31,606 --> 00:00:33,197
 like your nails growing.
 
-15
-00:00:34,159 --> 00:00:35,652
+14
+00:00:34,039 --> 00:00:35,463
 Where two plates touch,
 
-16
-00:00:35,702 --> 00:00:38,069
+15
+00:00:35,513 --> 00:00:37,771
 their edges are rough and get stuck.
 
+16
+00:00:37,821 --> 00:00:39,438
+But the rest keeps moving,
+
 17
-00:00:38,119 --> 00:00:41,425
-The rest keeps moving: the rock twists and twists…
+00:00:39,488 --> 00:00:41,362
+so the rock twists and twists…
 
 18
-00:00:41,475 --> 00:00:43,757
+00:00:41,412 --> 00:00:43,591
 and keeps all that force in store.
 
 19
-00:00:44,540 --> 00:00:45,843
+00:00:44,370 --> 00:00:45,647
 And suddenly, it lets go!
 
 20
-00:00:45,893 --> 00:00:51,092
-The edges slip, all the force comes out as waves that travel through the rock in every direction:
+00:00:45,697 --> 00:00:46,444
+The edges slip,
 
 21
-00:00:51,142 --> 00:00:52,333
-that's the earthquake.
+00:00:46,494 --> 00:00:50,957
+and all the force comes out as waves that travel through the rock in every direction…
 
 22
-00:00:53,544 --> 00:00:55,514
-Like a ruler you bend and bend…
+00:00:51,007 --> 00:00:52,175
+that's the earthquake!
 
 23
-00:00:55,564 --> 00:00:57,533
-and that snaps when you let go!
+00:00:53,374 --> 00:00:55,581
+It's like a ruler you bend and bend…
 
 24
-00:00:57,583 --> 00:01:00,710
-The more force stored, the stronger the shaking.
+00:00:55,631 --> 00:00:57,525
+and that snaps when you let go!
 
 25
-00:01:01,484 --> 00:01:03,310
-That's why the ground shakes.
+00:00:57,575 --> 00:01:00,835
+And the more force stored, the stronger the shaking.
 
 26
-00:01:04,981 --> 00:01:06,939
-Earth's plates move and get stuck;
+00:01:01,601 --> 00:01:03,549
+And that's why the ground shakes.
 
 27
-00:01:06,989 --> 00:01:09,647
-when they suddenly let go, the ground shakes.
+00:01:05,101 --> 00:01:07,059
+Earth's plates move and get stuck;
 
 28
-00:01:11,012 --> 00:01:14,638
-With an adult: press a flexible ruler on the edge of a table,
+00:01:07,109 --> 00:01:09,767
+when they suddenly let go, the ground shakes.
 
 29
-00:01:14,688 --> 00:01:15,903
-bend the end, let go.
+00:01:11,145 --> 00:01:14,692
+With an adult: press a flexible ruler on the edge of a table,
 
 30
-00:01:15,953 --> 00:01:18,123
-Watch the cup next to it: it shakes!
+00:01:14,742 --> 00:01:16,225
+bend the end, then let go…
 
 31
-00:01:18,901 --> 00:01:20,610
-And how are mountains born?
+00:01:16,275 --> 00:01:17,808
+the cup next to it shakes!
 
 32
-00:01:20,660 --> 00:01:21,962
+00:01:18,601 --> 00:01:20,310
+And how are mountains born?
+
+33
+00:01:20,360 --> 00:01:21,662
 The answer tomorrow.

@@ -8,7 +8,7 @@ How does a magnet attract metal? 🧲 The answer in one minute, with Noah, Mila 
 
 Remember: The magnet lines up the tiny magnets inside iron: the iron becomes a magnet too, and it is pulled in.
 
-🧪 Try it at home, with an adult: put paper clips on a sheet of paper and move a magnet underneath. They slide all by themselves! Try with a copper coin: nothing.
+🧪 Try it at home, with an adult: put paper clips on a sheet of paper and move a magnet underneath… they slide all by themselves! But a copper coin doesn't move.
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

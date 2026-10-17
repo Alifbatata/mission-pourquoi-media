@@ -1,127 +1,127 @@
 1
-00:00:03,095 --> 00:00:05,383
-Mila souffle : des bulles partout !
+00:00:03,082 --> 00:00:05,560
+Mila souffle, et des bulles s'envolent partout,
 
 2
-00:00:05,497 --> 00:00:07,812
-Toutes rondes, parfaitement rondes.
+00:00:05,636 --> 00:00:07,068
+toutes parfaitement rondes !
 
 3
-00:00:07,973 --> 00:00:09,935
-Noah essaie avec un cadre carré…
+00:00:07,183 --> 00:00:09,376
+Alors Noah essaie avec un cadre carré…
 
 4
-00:00:10,024 --> 00:00:11,633
-et les bulles sont rondes quand même !
+00:00:09,492 --> 00:00:10,870
+et elles sont rondes quand même !
 
 5
-00:00:12,410 --> 00:00:16,464
+00:00:11,640 --> 00:00:15,681
 Carré, triangle, étoile : peu importe la forme du cadre,
 
 6
-00:00:16,527 --> 00:00:18,203
+00:00:15,757 --> 00:00:17,461
 la bulle finit toujours en boule.
 
 7
-00:00:18,338 --> 00:00:19,159
-Pourquoi ?
+00:00:17,623 --> 00:00:18,593
+Mais pourquoi ?
 
 8
-00:00:19,922 --> 00:00:21,436
+00:00:19,372 --> 00:00:20,886
 Mission découverte !
 
 9
-00:00:23,952 --> 00:00:24,935
+00:00:23,402 --> 00:00:24,385
 Mode mini !
 
 10
-00:00:25,066 --> 00:00:28,005
+00:00:24,516 --> 00:00:27,455
 Une bulle, c'est une peau d'eau savonneuse très fine,
 
 11
-00:00:28,055 --> 00:00:28,984
+00:00:27,505 --> 00:00:28,434
 pleine d'air.
 
 12
-00:00:29,101 --> 00:00:32,122
+00:00:28,551 --> 00:00:31,572
 Cette peau est tendue : elle tire pour se rétrécir,
 
 13
-00:00:32,172 --> 00:00:33,509
+00:00:31,622 --> 00:00:32,959
 comme un ballon gonflé.
 
 14
-00:00:34,292 --> 00:00:36,811
+00:00:33,742 --> 00:00:36,261
 Mais l'air dedans l'empêche de trop rétrécir.
 
 15
-00:00:36,941 --> 00:00:40,288
+00:00:36,391 --> 00:00:39,738
 Alors la peau choisit la forme qui demande le moins de peau pour cet air :
 
 16
-00:00:40,432 --> 00:00:41,253
+00:00:39,882 --> 00:00:40,703
 la boule !
 
 17
-00:00:43,335 --> 00:00:45,963
-Quand deux bulles se collent, elles partagent un mur plat :
+00:00:42,741 --> 00:00:44,200
+Et quand deux bulles se collent,
 
 18
-00:00:46,080 --> 00:00:47,240
-encore moins de peau !
+00:00:44,263 --> 00:00:46,891
+elles partagent un mur plat : encore moins de peau !
 
 19
-00:00:47,352 --> 00:00:49,246
-Et si la peau sèche ou se déchire…
+00:00:47,008 --> 00:00:48,943
+Mais si la peau sèche ou se déchire…
 
 20
-00:00:49,336 --> 00:00:50,646
+00:00:49,047 --> 00:00:50,343
 pop, fini.
 
 21
-00:00:51,462 --> 00:00:54,320
-Sur une main mouillée, la bulle tient sans éclater :
+00:00:51,138 --> 00:00:53,997
+Sur une main mouillée, la bulle tient sans éclater,
 
 22
-00:00:54,491 --> 00:00:55,365
-la peau ne se déchire pas..
+00:00:54,059 --> 00:00:55,042
+car la peau ne se déchire pas.
 
 23
-00:00:55,415 --> 00:00:56,520
+00:00:55,092 --> 00:00:56,225
 Mila la fait rouler…
 
 24
-00:00:56,570 --> 00:00:57,350
+00:00:56,287 --> 00:00:57,067
 doucement !
 
 25
-00:00:58,162 --> 00:01:00,096
-Voilà pourquoi les bulles sont rondes.
+00:00:57,861 --> 00:00:59,877
+Et voilà pourquoi les bulles sont rondes.
 
 26
-00:01:01,631 --> 00:01:04,422
+00:01:01,361 --> 00:01:04,152
 La peau de la bulle tire pour être la plus petite possible,
 
 27
-00:01:04,566 --> 00:01:06,854
+00:01:04,296 --> 00:01:06,584
 et la forme la plus petite, c'est la boule.
 
 28
-00:01:08,162 --> 00:01:11,073
+00:01:07,862 --> 00:01:10,801
 Avec un adulte : tords un fil de fer en étoile,
 
 29
-00:01:11,123 --> 00:01:13,167
+00:01:10,851 --> 00:01:12,881
 trempe-le dans l'eau savonneuse et souffle.
 
 30
-00:01:13,311 --> 00:01:14,485
-Ronde quand même ?
+00:01:13,009 --> 00:01:14,414
+Elle est ronde quand même ?
 
 31
-00:01:15,261 --> 00:01:17,807
+00:01:15,201 --> 00:01:17,747
 Et comment sait-on que les dinosaures ont existé ?
 
 32
-00:01:17,923 --> 00:01:19,206
+00:01:17,863 --> 00:01:19,146
 Réponse demain.

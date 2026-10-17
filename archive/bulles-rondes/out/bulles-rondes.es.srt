@@ -1,127 +1,127 @@
 1
-00:00:03,095 --> 00:00:05,250
-Mila sopla: ¡burbujas por todas partes!
+00:00:03,082 --> 00:00:05,556
+Mila sopla, ¡y salen burbujas por todas partes,
 
 2
-00:00:05,300 --> 00:00:07,456
-Todas redondas, perfectamente redondas.
+00:00:05,606 --> 00:00:07,114
+todas perfectamente redondas!
 
 3
-00:00:07,506 --> 00:00:09,378
-Noah prueba con un marco cuadrado…
+00:00:07,164 --> 00:00:09,424
+Entonces Noah prueba con un marco cuadrado…
 
 4
-00:00:09,428 --> 00:00:11,633
-¡y las burbujas siguen siendo redondas!
+00:00:09,474 --> 00:00:10,870
+¡y siguen siendo redondas!
 
 5
-00:00:12,410 --> 00:00:16,302
+00:00:11,640 --> 00:00:15,460
 Cuadrado, triángulo, estrella: da igual la forma del marco,
 
 6
-00:00:16,352 --> 00:00:18,508
+00:00:15,510 --> 00:00:17,624
 la burbuja siempre acaba en bola.
 
 7
-00:00:18,558 --> 00:00:19,159
-¿Por qué?
+00:00:17,674 --> 00:00:18,593
+Pero ¿por qué?
 
 8
-00:00:19,922 --> 00:00:21,436
+00:00:19,372 --> 00:00:20,886
 ¡Misión descubrimiento!
 
 9
-00:00:23,952 --> 00:00:24,663
+00:00:23,402 --> 00:00:24,113
 ¡Modo mini!
 
 10
-00:00:24,713 --> 00:00:28,126
+00:00:24,163 --> 00:00:27,576
 Una burbuja es una piel de agua jabonosa muy fina,
 
 11
-00:00:28,176 --> 00:00:29,096
+00:00:27,626 --> 00:00:28,546
 llena de aire.
 
 12
-00:00:29,146 --> 00:00:31,935
+00:00:28,596 --> 00:00:31,385
 Esa piel está tensa: tira para encogerse,
 
 13
-00:00:31,985 --> 00:00:33,509
+00:00:31,435 --> 00:00:32,959
 como un globo inflado.
 
 14
-00:00:34,292 --> 00:00:37,037
+00:00:33,742 --> 00:00:36,487
 Pero el aire de dentro le impide encogerse demasiado.
 
 15
-00:00:37,087 --> 00:00:40,728
+00:00:36,537 --> 00:00:40,178
 Entonces la piel elige la forma que necesita menos piel para ese aire:
 
 16
-00:00:40,778 --> 00:00:41,253
+00:00:40,228 --> 00:00:40,703
 ¡la bola!
 
 17
-00:00:43,335 --> 00:00:45,082
-Cuando dos burbujas se pegan,
+00:00:42,741 --> 00:00:44,607
+Y cuando dos burbujas se pegan,
 
 18
-00:00:45,132 --> 00:00:47,746
+00:00:44,657 --> 00:00:47,264
 comparten una pared plana: ¡aún menos piel!
 
 19
-00:00:47,796 --> 00:00:49,729
-Y si la piel se seca o se rompe…
+00:00:47,314 --> 00:00:49,427
+Pero si la piel se seca o se rompe…
 
 20
-00:00:49,779 --> 00:00:50,646
+00:00:49,477 --> 00:00:50,343
 pop, se acabó.
 
 21
-00:00:51,462 --> 00:00:54,496
-Sobre una mano mojada, la burbuja aguanta sin explotar:
+00:00:51,138 --> 00:00:53,1000
+Sobre una mano mojada, la burbuja aguanta sin explotar,
 
 22
-00:00:54,546 --> 00:00:55,618
-la piel no se rompe.
+00:00:54,050 --> 00:00:55,429
+porque la piel no se rompe.
 
 23
-00:00:55,668 --> 00:00:56,683
+00:00:55,479 --> 00:00:56,435
 Mila la hace rodar…
 
 24
-00:00:56,733 --> 00:00:57,350
+00:00:56,485 --> 00:00:57,067
 ¡despacito!
 
 25
-00:00:58,162 --> 00:01:00,096
-Por eso las burbujas son redondas.
+00:00:57,861 --> 00:00:59,877
+Y por eso las burbujas son redondas.
 
 26
-00:01:01,631 --> 00:01:04,894
+00:01:01,361 --> 00:01:04,624
 La piel de la burbuja tira para ser lo más pequeña posible,
 
 27
-00:01:04,944 --> 00:01:06,854
+00:01:04,674 --> 00:01:06,584
 y la forma más pequeña es la bola.
 
 28
-00:01:08,162 --> 00:01:11,430
+00:01:07,862 --> 00:01:11,028
 Con un adulto: dobla un alambre en forma de estrella,
 
 29
-00:01:11,480 --> 00:01:13,496
+00:01:11,078 --> 00:01:13,030
 mójalo en agua con jabón y sopla.
 
 30
-00:01:13,546 --> 00:01:14,485
-¿Redonda igual?
+00:01:13,080 --> 00:01:14,414
+¿Sigue siendo redonda?
 
 31
-00:01:15,261 --> 00:01:17,937
+00:01:15,201 --> 00:01:17,877
 ¿Y cómo sabemos que los dinosaurios existieron?
 
 32
-00:01:17,987 --> 00:01:19,206
+00:01:17,927 --> 00:01:19,146
 La respuesta, mañana.

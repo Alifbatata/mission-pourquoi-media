@@ -8,7 +8,7 @@ Pourquoi la Lune change-t-elle de forme ? 🌙 La réponse en une minute, avec N
 
 À retenir : La Lune est toujours à moitié éclairée par le Soleil ; c'est notre angle de vue qui change.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, dans le noir : une lampe, une balle au bout du bras. Tourne sur toi-même : croissant, quartier, pleine Lune !
+🧪 À essayer à la maison, avec un adulte : dans le noir : allume une lampe, tiens une balle au bout du bras, et tourne sur toi-même… croissant, quartier, pleine Lune !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

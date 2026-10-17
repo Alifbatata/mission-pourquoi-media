@@ -8,7 +8,7 @@ How do clouds form? ☁️ The answer in one minute, with Noah, Mila and their l
 
 Remember: Rising air cools down, and its water vapor turns into billions of tiny droplets: a cloud.
 
-🧪 Try it at home, with an adult: hold a cold lid above a steaming pot. The vapor turns back into drops: a mini cloud!
+🧪 Try it at home, with an adult: hold a cold lid above a steaming pot. The vapor turns back into drops… a mini cloud!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

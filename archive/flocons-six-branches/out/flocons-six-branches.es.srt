@@ -1,143 +1,139 @@
 1
-00:00:03,109 --> 00:00:05,656
+00:00:03,109 --> 00:00:05,423
 Mila atrapa un copo en su manopla:
 
 2
-00:00:05,706 --> 00:00:08,634
+00:00:05,473 --> 00:00:08,136
 una estrella diminuta, con seis brazos.
 
 3
-00:00:08,684 --> 00:00:09,016
-Otro…
+00:00:08,186 --> 00:00:08,901
+Luego otro…
 
 4
-00:00:09,066 --> 00:00:10,085
-¡también seis!
+00:00:08,951 --> 00:00:11,683
+¡también seis, nunca cinco, nunca siete!
 
 5
-00:00:10,135 --> 00:00:11,995
-Nunca cinco, nunca siete.
-
-6
-00:00:12,045 --> 00:00:13,114
+00:00:11,733 --> 00:00:12,707
 ¿Por qué seis?
 
-7
-00:00:13,900 --> 00:00:15,923
+6
+00:00:13,490 --> 00:00:15,601
 Con la lupa, cada copo es distinto,
 
-8
-00:00:15,973 --> 00:00:17,700
+7
+00:00:15,651 --> 00:00:17,454
 pero todos tienen seis brazos.
 
+8
+00:00:17,504 --> 00:00:19,059
+Así que el dibujo de Noah,
+
 9
-00:00:17,750 --> 00:00:19,951
-Noah dibuja uno con demasiados brazos:
+00:00:19,109 --> 00:00:21,394
+con demasiados brazos, ¡es imposible!
 
 10
-00:00:20,001 --> 00:00:21,600
-¡imposible en la vida real!
-
-11
-00:00:22,372 --> 00:00:23,886
+00:00:22,182 --> 00:00:23,696
 ¡Misión descubrimiento!
 
-12
-00:00:26,402 --> 00:00:26,1000
+11
+00:00:26,212 --> 00:00:26,810
 ¡Modo mini!
 
-13
-00:00:27,050 --> 00:00:28,120
+12
+00:00:26,860 --> 00:00:27,930
 En una nube helada,
 
-14
-00:00:28,170 --> 00:00:31,244
+13
+00:00:27,980 --> 00:00:31,054
 una gota muy fría se congela sobre una mota de polvo.
 
-15
-00:00:31,294 --> 00:00:32,717
+14
+00:00:31,104 --> 00:00:32,527
 Luego el vapor de agua se
 
-16
-00:00:32,767 --> 00:00:35,537
+15
+00:00:32,577 --> 00:00:35,347
 convierte directamente en hielo a su alrededor.
 
-17
-00:00:36,328 --> 00:00:39,869
+16
+00:00:36,138 --> 00:00:39,679
 Al congelarse, las moléculas de agua se ordenan siempre igual:
 
-18
-00:00:39,919 --> 00:00:41,490
+17
+00:00:39,729 --> 00:00:41,300
 en hexágonos, de seis lados.
 
-19
-00:00:41,540 --> 00:00:43,807
+18
+00:00:41,350 --> 00:00:43,617
 Así que el cristal crece con seis lados,
 
-20
-00:00:43,857 --> 00:00:45,015
+19
+00:00:43,667 --> 00:00:44,825
 y luego seis brazos.
 
+20
+00:00:45,601 --> 00:00:48,739
+Al caer, el copo atraviesa aire más o menos frío y húmedo,
+
 21
-00:00:45,792 --> 00:00:49,115
-Al caer, el copo atraviesa aire más o menos frío y húmedo:
+00:00:48,789 --> 00:00:50,993
+así que sus brazos crecen de otra manera.
 
 22
-00:00:49,165 --> 00:00:51,034
-sus brazos crecen de otra manera.
+00:00:51,043 --> 00:00:53,357
+Pero como los seis viven la misma historia,
 
 23
-00:00:51,084 --> 00:00:53,244
-Pero los seis viven la misma historia:
-
-24
-00:00:53,294 --> 00:00:54,574
+00:00:53,407 --> 00:00:54,616
 siguen siendo iguales.
 
-25
-00:00:55,341 --> 00:00:57,955
+24
+00:00:55,422 --> 00:00:57,870
 Y como ningún copo hace exactamente el mismo viaje,
 
+25
+00:00:57,920 --> 00:00:58,703
+ninguno es igual…
+
 26
-00:00:58,005 --> 00:00:58,843
-ninguno es igual.
+00:00:58,753 --> 00:01:01,251
+¡caen miles de millones de estrellas de seis brazos,
 
 27
-00:00:58,893 --> 00:01:01,298
-¡Miles de millones de estrellas de seis brazos,
-
-28
-00:01:01,348 --> 00:01:02,184
+00:01:01,301 --> 00:01:02,085
 todas distintas!
 
-29
-00:01:02,968 --> 00:01:05,283
-Por eso los copos tienen seis brazos.
+28
+00:01:02,880 --> 00:01:05,277
+Y por eso los copos tienen seis brazos.
 
-30
-00:01:06,509 --> 00:01:08,497
+29
+00:01:06,439 --> 00:01:08,427
 El hielo se construye en hexágonos;
 
-31
-00:01:08,547 --> 00:01:10,876
+30
+00:01:08,477 --> 00:01:10,806
 por eso cada copo crece con seis brazos.
 
-32
-00:01:11,719 --> 00:01:13,748
+31
+00:01:11,591 --> 00:01:13,566
 Con un adulto, un día de nieve:
 
+32
+00:01:13,616 --> 00:01:17,159
+atrapa copos en un guante oscuro, míralos con una lupa…
+
 33
-00:01:13,798 --> 00:01:17,503
-atrapa copos en un guante oscuro y míralos con una lupa.
+00:01:17,209 --> 00:01:18,580
+¡y cuenta los brazos!
 
 34
-00:01:17,553 --> 00:01:18,827
-¡Cuenta los brazos!
-
-35
-00:01:19,631 --> 00:01:21,633
+00:01:19,371 --> 00:01:21,373
 ¿Y por qué cambian las estaciones?
 
-36
-00:01:21,683 --> 00:01:22,951
+35
+00:01:21,423 --> 00:01:22,691
 La respuesta, mañana.

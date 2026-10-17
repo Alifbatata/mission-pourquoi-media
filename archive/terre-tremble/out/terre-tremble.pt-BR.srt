@@ -1,131 +1,139 @@
 1
-00:00:03,068 --> 00:00:03,226
+00:00:03,054 --> 00:00:03,234
 Oh!
 
 2
-00:00:03,276 --> 00:00:05,797
+00:00:03,284 --> 00:00:06,063
 As xícaras tremem, a lâmpada balança…
 
 3
-00:00:05,847 --> 00:00:08,160
-Não é o Curio: é o chão que treme,
+00:00:06,113 --> 00:00:07,286
+e não é o Curio,
 
 4
-00:00:08,210 --> 00:00:09,550
-por alguns segundos.
+00:00:07,336 --> 00:00:08,739
+é o chão que treme!
 
 5
-00:00:09,600 --> 00:00:11,128
-Por que a terra treme?
+00:00:08,789 --> 00:00:10,777
+Mas por que a terra treme?
 
 6
-00:00:11,955 --> 00:00:14,376
+00:00:11,582 --> 00:00:13,963
 O Curio gravou tudo: uma linha tranquila,
 
 7
-00:00:14,426 --> 00:00:16,123
-depois um zigue-zague grande.
+00:00:14,013 --> 00:00:15,683
+depois um zigue-zague grande!
 
 8
-00:00:16,173 --> 00:00:18,835
-Alguma coisa se mexeu embaixo dos nossos pés,
+00:00:15,733 --> 00:00:18,648
+Então alguma coisa se mexeu embaixo dos pés deles,
 
 9
-00:00:18,885 --> 00:00:19,488
+00:00:18,698 --> 00:00:19,291
 bem fundo.
 
 10
-00:00:20,262 --> 00:00:21,776
+00:00:20,072 --> 00:00:21,586
 Missão descoberta!
 
 11
-00:00:24,292 --> 00:00:24,792
+00:00:24,115 --> 00:00:24,629
 Modo mini!
 
 12
-00:00:24,842 --> 00:00:27,323
+00:00:24,679 --> 00:00:27,224
 A crosta da Terra é cortada em grandes placas,
 
 13
-00:00:27,373 --> 00:00:28,534
+00:00:27,274 --> 00:00:28,465
 como um quebra-cabeça.
 
 14
-00:00:28,584 --> 00:00:30,240
-Elas se movem, mas bem devagar:
+00:00:28,515 --> 00:00:30,044
+E elas se movem bem devagar,
 
 15
-00:00:30,290 --> 00:00:33,317
+00:00:30,094 --> 00:00:33,197
 alguns centímetros por ano, como as suas unhas crescem.
 
 16
-00:00:34,159 --> 00:00:36,014
+00:00:34,039 --> 00:00:35,763
 Onde duas placas se tocam,
 
 17
-00:00:36,064 --> 00:00:38,285
+00:00:35,813 --> 00:00:37,878
 as bordas são ásperas e travam.
 
 18
-00:00:38,335 --> 00:00:41,875
-O resto continua avançando: a rocha torce, torce…
+00:00:37,928 --> 00:00:39,993
+Mas o resto continua avançando,
 
 19
-00:00:41,925 --> 00:00:43,757
-e guarda toda essa força.
+00:00:40,043 --> 00:00:41,836
+então a rocha torce, torce…
 
 20
-00:00:44,540 --> 00:00:45,747
-E de repente, solta!
+00:00:41,886 --> 00:00:43,591
+e guarda toda essa força.
 
 21
-00:00:45,797 --> 00:00:51,403
-As bordas deslizam, toda a força sai em ondas que atravessam a rocha em todas as direções:
+00:00:44,370 --> 00:00:45,569
+E de repente, solta!
 
 22
-00:00:51,453 --> 00:00:52,333
-é o terremoto.
+00:00:45,619 --> 00:00:46,755
+As bordas deslizam,
 
 23
-00:00:53,544 --> 00:00:55,927
-Como uma régua que você dobra, dobra…
+00:00:46,805 --> 00:00:51,251
+e toda a força sai em ondas que atravessam a rocha em todas as direções…
 
 24
-00:00:55,977 --> 00:00:57,636
-e que estala quando solta!
+00:00:51,301 --> 00:00:52,175
+é o terremoto!
 
 25
-00:00:57,686 --> 00:01:00,710
-Quanto mais força guardada, mais forte sacode.
+00:00:53,374 --> 00:00:55,899
+É como uma régua que você dobra, dobra…
 
 26
-00:01:01,484 --> 00:01:03,310
-É por isso que a terra treme.
+00:00:55,949 --> 00:00:57,616
+e que estala quando solta!
 
 27
-00:01:04,981 --> 00:01:07,203
-As placas da Terra se movem e travam;
+00:00:57,666 --> 00:01:00,835
+E quanto mais força guardada, mais forte sacode.
 
 28
-00:01:07,253 --> 00:01:09,647
-quando soltam de repente, o chão treme.
+00:01:01,601 --> 00:01:03,549
+E é por isso que a terra treme.
 
 29
-00:01:11,012 --> 00:01:14,829
-Com um adulto: prenda uma régua flexível na beira de uma mesa,
+00:01:05,101 --> 00:01:07,323
+As placas da Terra se movem e travam;
 
 30
-00:01:14,879 --> 00:01:16,139
-dobre a ponta, solte.
+00:01:07,373 --> 00:01:09,767
+quando soltam de repente, o chão treme.
 
 31
-00:01:16,189 --> 00:01:18,123
-Olhe o copo ao lado: ele treme!
+00:01:11,145 --> 00:01:14,817
+Com um adulto: prenda uma régua flexível na beira de uma mesa,
 
 32
-00:01:18,901 --> 00:01:20,648
-E como nascem as montanhas?
+00:01:14,867 --> 00:01:16,498
+dobre a ponta, depois solte…
 
 33
-00:01:20,698 --> 00:01:21,962
+00:01:16,548 --> 00:01:17,808
+o copo ao lado treme!
+
+34
+00:01:18,601 --> 00:01:20,348
+E como nascem as montanhas?
+
+35
+00:01:20,398 --> 00:01:21,662
 A resposta, amanhã.

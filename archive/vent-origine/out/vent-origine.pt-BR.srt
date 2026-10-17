@@ -1,151 +1,143 @@
 1
-00:00:03,068 --> 00:00:04,756
-No alto do morro, venta forte!
+00:00:03,052 --> 00:00:04,009
+No alto do morro,
 
 2
-00:00:04,806 --> 00:00:06,610
-A pipa da Mila puxa feito louca.
+00:00:04,059 --> 00:00:07,089
+venta tão forte que a pipa da Mila puxa feito louca!
 
 3
-00:00:06,660 --> 00:00:07,711
-O Noah se pergunta:
+00:00:07,139 --> 00:00:09,568
+Mas de onde vem todo esse ar que empurra?
 
 4
-00:00:07,761 --> 00:00:09,904
-de onde vem todo esse ar que empurra?
-
-5
-00:00:10,680 --> 00:00:12,071
+00:00:10,350 --> 00:00:11,734
 Na praia, de tarde,
 
+5
+00:00:11,784 --> 00:00:14,149
+a fita da Mila voa para a terra.
+
 6
-00:00:12,121 --> 00:00:15,028
-a fita da Mila sempre voa para a terra.
+00:00:14,199 --> 00:00:15,431
+Já o Noah sente a
 
 7
-00:00:15,078 --> 00:00:17,303
-O Noah repara: a areia queima,
+00:00:15,481 --> 00:00:17,846
+areia queimando e a água fresca…
 
 8
-00:00:17,353 --> 00:00:18,820
-mas a água é fresca.
+00:00:17,896 --> 00:00:19,028
+será uma pista?
 
 9
-00:00:18,870 --> 00:00:19,628
-Uma pista?
-
-10
-00:00:20,422 --> 00:00:21,936
+00:00:19,812 --> 00:00:21,326
 Missão descoberta!
 
-11
-00:00:24,452 --> 00:00:25,048
+10
+00:00:23,842 --> 00:00:24,421
 Modo mini!
 
-12
-00:00:25,098 --> 00:00:26,470
+11
+00:00:24,471 --> 00:00:25,805
 O Sol esquenta a terra
 
-13
-00:00:26,520 --> 00:00:27,893
+12
+00:00:25,855 --> 00:00:27,190
 mais rápido que o mar.
 
+13
+00:00:27,240 --> 00:00:30,399
+Em cima dela, o ar esquenta, fica mais leve e sobe,
+
 14
-00:00:27,943 --> 00:00:30,802
-Sobre a terra, o ar esquenta, fica mais leve…
+00:00:30,449 --> 00:00:32,651
+então sobra menos ar perto do chão.
 
 15
-00:00:30,852 --> 00:00:31,255
-e sobe.
+00:00:33,430 --> 00:00:35,722
+Sobre o mar, o ar fresco é mais apertado,
 
 16
-00:00:31,305 --> 00:00:33,180
-Sobra menos ar perto do chão.
+00:00:35,772 --> 00:00:38,636
+então ele desliza para a terra para ocupar o lugar…
 
 17
-00:00:33,950 --> 00:00:34,538
-Sobre o mar,
+00:00:38,686 --> 00:00:39,607
+e isso é o vento!
 
 18
-00:00:34,588 --> 00:00:36,400
-o ar é mais fresco e mais apertado.
-
-19
-00:00:36,450 --> 00:00:39,112
-Então ele desliza para a terra para ocupar o lugar:
-
-20
-00:00:39,162 --> 00:00:39,910
-isso é o vento!
-
-21
-00:00:39,960 --> 00:00:40,601
+00:00:39,657 --> 00:00:40,349
 E lá em cima,
 
-22
-00:00:40,651 --> 00:00:42,303
+19
+00:00:40,399 --> 00:00:42,227
 o ar resfriado volta para o mar.
 
+20
+00:00:43,028 --> 00:00:45,416
+Em toda a Terra é igual: mais ar,
+
+21
+00:00:45,466 --> 00:00:48,223
+pressão alta; menos ar, pressão baixa.
+
+22
+00:00:48,273 --> 00:00:49,922
+Então o ar sempre corre
+
 23
-00:00:42,353 --> 00:00:42,832
-Um ciclo.
+00:00:49,972 --> 00:00:51,523
+do mais para o menos.
 
 24
-00:00:43,618 --> 00:00:46,427
-Em toda a Terra é igual: onde tem mais ar,
+00:00:52,318 --> 00:00:53,071
+Mas de noite,
 
 25
-00:00:46,477 --> 00:00:49,286
-a pressão é alta; onde tem menos, é baixa.
+00:00:53,121 --> 00:00:55,358
+a terra esfria mais rápido que o mar…
 
 26
-00:00:49,336 --> 00:00:51,991
-O ar sempre corre do mais para o menos.
+00:00:55,408 --> 00:00:56,471
+e tudo se inverte!
 
 27
-00:00:52,829 --> 00:00:55,863
-De noite, a terra esfria mais rápido que o mar:
+00:00:56,521 --> 00:00:57,830
+A fita voa para o mar,
 
 28
-00:00:55,913 --> 00:00:56,913
-tudo se inverte!
+00:00:57,880 --> 00:00:59,796
+levada por um vento mais suave.
 
 29
-00:00:56,963 --> 00:00:58,357
-A fita voa para o mar.
+00:01:00,625 --> 00:01:02,071
+E é daí que vem o vento.
 
 30
-00:00:58,407 --> 00:01:00,900
-Um vento mais suave, mas ao contrário.
-
-31
-00:01:01,702 --> 00:01:03,106
-É daí que vem o vento.
-
-32
-00:01:05,229 --> 00:01:06,998
+00:01:04,139 --> 00:01:05,908
 O Sol esquenta o ar de forma desigual;
 
-33
-00:01:07,048 --> 00:01:10,207
+31
+00:01:05,958 --> 00:01:09,117
 o ar quente sobe e o ar fresco corre para o lugar: isso é o vento.
 
-34
-00:01:11,171 --> 00:01:11,980
+32
+00:01:10,084 --> 00:01:10,879
 Com um adulto:
 
-35
-00:01:12,030 --> 00:01:15,479
+33
+00:01:10,929 --> 00:01:14,317
 segure uma tirinha de papel acima de um aquecedor quente.
 
-36
-00:01:15,529 --> 00:01:17,738
-Ela voa para cima: o ar quente sobe!
+34
+00:01:14,367 --> 00:01:16,960
+Ela voa para cima, porque o ar quente sobe!
 
-37
-00:01:18,671 --> 00:01:20,522
+35
+00:01:17,741 --> 00:01:19,592
 E como as nuvens se formam?
 
-38
-00:01:20,572 --> 00:01:21,909
+36
+00:01:19,642 --> 00:01:20,979
 A resposta, amanhã.

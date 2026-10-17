@@ -1,139 +1,143 @@
 1
-00:00:03,052 --> 00:00:03,961
-Look at the sky!
+00:00:03,095 --> 00:00:03,957
+Look, up there,
 
 2
-00:00:04,011 --> 00:00:06,356
-Green curtains dancing, without a sound.
+00:00:04,007 --> 00:00:06,571
+green curtains are dancing without a sound!
 
 3
-00:00:06,406 --> 00:00:07,375
-No fire, no lamp…
+00:00:06,621 --> 00:00:07,787
+But why does the sky
 
 4
-00:00:07,425 --> 00:00:09,880
-Why does the sky light up near the poles?
+00:00:07,837 --> 00:00:09,296
+light up near the poles?
 
 5
-00:00:10,660 --> 00:00:14,192
-Mila takes out her compass: the needle points north,
+00:00:10,060 --> 00:00:13,712
+Mila takes out her compass, and the needle points north,
 
 6
-00:00:14,242 --> 00:00:15,982
-right where the sky glows.
+00:00:13,762 --> 00:00:15,431
+right where the sky glows…
 
 7
-00:00:16,032 --> 00:00:16,465
-A clue!
+00:00:15,481 --> 00:00:17,597
+A clue: Earth is a giant magnet!
 
 8
-00:00:16,515 --> 00:00:18,168
-Earth is a giant magnet…
-
-9
-00:00:18,942 --> 00:00:20,456
+00:00:18,362 --> 00:00:19,876
 Discovery mission!
 
-10
-00:00:22,972 --> 00:00:23,559
+9
+00:00:22,392 --> 00:00:22,979
 Mini mode!
 
-11
-00:00:23,609 --> 00:00:25,600
+10
+00:00:23,029 --> 00:00:25,020
 The Sun doesn't only give light:
 
-12
-00:00:25,650 --> 00:00:29,808
+11
+00:00:25,070 --> 00:00:29,228
 it constantly blows billions of tiny electric specks toward Earth.
 
-13
-00:00:29,858 --> 00:00:31,261
+12
+00:00:29,278 --> 00:00:30,681
 That's the solar wind.
 
-14
-00:00:32,042 --> 00:00:33,540
+13
+00:00:31,478 --> 00:00:33,067
 Luckily, Earth is a giant magnet:
 
-15
-00:00:33,590 --> 00:00:35,134
+14
+00:00:33,117 --> 00:00:34,756
 its magnetic field forms a shield.
 
+15
+00:00:34,806 --> 00:00:36,346
+That shield deflects the specks…
+
 16
-00:00:35,184 --> 00:00:38,370
-It deflects the specks, and guides some of them toward the two poles,
+00:00:36,396 --> 00:00:38,581
+and guides some of them toward the two poles,
 
 17
-00:00:38,420 --> 00:00:39,545
+00:00:38,631 --> 00:00:39,824
 sliding along its lines.
 
 18
-00:00:41,040 --> 00:00:43,534
+00:00:40,645 --> 00:00:43,057
 Way up high, a hundred kilometers up,
 
 19
-00:00:43,584 --> 00:00:45,116
+00:00:43,107 --> 00:00:44,587
 the specks hit the air.
 
 20
-00:00:45,166 --> 00:00:48,073
-Oxygen glows green, nitrogen blue and pink,
+00:00:44,637 --> 00:00:47,647
+So oxygen glows green, nitrogen blue and pink,
 
 21
-00:00:48,123 --> 00:00:49,242
-like a neon sign.
+00:00:47,697 --> 00:00:48,778
+like a neon sign…
 
 22
-00:00:49,292 --> 00:00:50,530
-That's the aurora!
+00:00:48,828 --> 00:00:50,026
+that's the aurora!
 
 23
-00:00:51,328 --> 00:00:53,366
-And it glows in a ring around both poles:
+00:00:50,818 --> 00:00:52,843
+Auroras form a ring around both poles:
 
 24
-00:00:53,416 --> 00:00:56,371
+00:00:52,893 --> 00:00:56,065
 northern lights in the north, southern lights in the south.
 
 25
-00:00:56,421 --> 00:00:57,848
-When the Sun blows very hard,
+00:00:56,115 --> 00:00:58,522
+And when the Sun blows hard, the ring widens…
 
 26
-00:00:57,898 --> 00:01:00,190
-the ring widens and we see them farther away.
+00:00:58,572 --> 00:00:59,937
+we see them farther away!
 
 27
-00:01:00,962 --> 00:01:03,563
-That's why the sky lights up near the poles.
+00:01:00,710 --> 00:01:01,909
+And that's why the sky
 
 28
-00:01:04,461 --> 00:01:07,954
-Specks from the Sun, guided to the poles by Earth's magnet,
+00:01:01,959 --> 00:01:03,378
+lights up near the poles.
 
 29
-00:01:08,004 --> 00:01:09,806
-make the air glow way up high.
+00:01:04,211 --> 00:01:07,704
+Specks from the Sun, guided to the poles by Earth's magnet,
 
 30
-00:01:10,964 --> 00:01:13,804
-With an adult: bring a magnet near a compass.
+00:01:07,754 --> 00:01:09,556
+make the air glow way up high.
 
 31
-00:01:13,854 --> 00:01:14,895
-The needle turns!
+00:01:10,728 --> 00:01:13,297
+With an adult: bring a magnet near a compass…
 
 32
-00:01:14,945 --> 00:01:16,179
-It feels the magnet,
+00:01:13,347 --> 00:01:14,519
+and the needle turns!
 
 33
-00:01:16,229 --> 00:01:17,963
-just as it feels the Earth.
+00:01:14,569 --> 00:01:15,684
+It feels the magnet,
 
 34
-00:01:18,741 --> 00:01:20,783
-And why does rain have a smell?
+00:01:15,734 --> 00:01:17,305
+just as it feels the Earth.
 
 35
-00:01:20,833 --> 00:01:22,183
+00:01:18,211 --> 00:01:20,253
+And why does rain have a smell?
+
+36
+00:01:20,303 --> 00:01:21,653
 The answer tomorrow.

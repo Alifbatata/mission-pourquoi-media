@@ -1,127 +1,131 @@
 1
-00:00:03,082 --> 00:00:06,225
+00:00:03,109 --> 00:00:06,241
 Noah corta un huevo duro: cáscara, clara, yema.
 
 2
-00:00:06,275 --> 00:00:09,012
+00:00:06,291 --> 00:00:09,017
 Y bajo nuestros pies, ¿cómo es la Tierra?
 
 3
-00:00:09,062 --> 00:00:09,487
+00:00:09,067 --> 00:00:09,491
 ¿Hueca?
 
 4
-00:00:09,537 --> 00:00:10,557
+00:00:09,541 --> 00:00:10,557
 ¿Llena de lava?
 
 5
-00:00:11,330 --> 00:00:12,425
+00:00:11,330 --> 00:00:12,385
 Mila cava y cava…
 
 6
-00:00:12,475 --> 00:00:13,099
+00:00:12,435 --> 00:00:13,035
 ¡un metro!
 
 7
-00:00:13,149 --> 00:00:14,447
-Pero el centro de la
+00:00:13,085 --> 00:00:16,611
+Pero el centro de la Tierra está a seis mil kilómetros,
 
 8
-00:00:14,497 --> 00:00:16,738
-Tierra está a seis mil kilómetros.
+00:00:16,661 --> 00:00:18,677
+¡demasiado lejos para una pala!
 
 9
-00:00:16,788 --> 00:00:18,405
-¡Con la pala, imposible!
-
-10
-00:00:19,182 --> 00:00:20,696
+00:00:19,472 --> 00:00:20,986
 ¡Misión descubrimiento!
 
-11
-00:00:23,212 --> 00:00:23,831
+10
+00:00:23,502 --> 00:00:24,121
 ¡Modo mini!
 
-12
-00:00:23,881 --> 00:00:26,386
+11
+00:00:24,171 --> 00:00:26,676
 Primero la corteza, fina como una cáscara.
 
-13
-00:00:26,436 --> 00:00:29,611
+12
+00:00:26,726 --> 00:00:29,901
 Luego el manto: tres mil kilómetros de roca ardiente,
 
-14
-00:00:29,661 --> 00:00:31,790
+13
+00:00:29,951 --> 00:00:32,080
 tan caliente que está casi fundida.
 
+14
+00:00:32,850 --> 00:00:36,115
+En el centro, el núcleo de hierro y níquel es líquido por fuera,
+
 15
-00:00:32,560 --> 00:00:36,269
-En el centro, el núcleo, de hierro y níquel: líquido por fuera,
+00:00:36,165 --> 00:00:38,239
+y es él quien fabrica el campo magnético…
 
 16
-00:00:36,319 --> 00:00:40,079
-y es él quien fabrica el campo magnético; sólido en el corazón.
+00:00:38,289 --> 00:00:39,635
+pero sólido en el corazón.
 
 17
-00:00:40,862 --> 00:00:41,807
+00:00:40,852 --> 00:00:41,776
 ¿Cómo lo sabemos?
 
 18
-00:00:41,857 --> 00:00:45,201
-Gracias a los terremotos: sus ondas atraviesan el planeta,
+00:00:41,826 --> 00:00:45,211
+Gracias a los terremotos, cuyas ondas atraviesan el planeta,
 
 19
-00:00:45,251 --> 00:00:47,308
+00:00:45,261 --> 00:00:47,273
 y el núcleo líquido detiene algunas.
 
 20
-00:00:47,358 --> 00:00:49,114
-¡Una radiografía de la Tierra!
+00:00:47,323 --> 00:00:49,212
+¡Es una radiografía de la Tierra!
 
 21
-00:00:49,912 --> 00:00:53,436
-Curio, en modo mini, flota al borde del núcleo:
+00:00:50,022 --> 00:00:53,281
+Curio, en modo mini, flota al borde del núcleo,
 
 22
-00:00:53,486 --> 00:00:55,870
-metal fundido que gira despacio.
+00:00:53,331 --> 00:00:55,886
+donde el metal fundido gira despacio…
 
 23
-00:00:55,920 --> 00:00:57,213
+00:00:55,936 --> 00:00:57,133
 ¡Rápido, subimos!
 
 24
-00:00:57,994 --> 00:00:59,007
-Eso es lo que esconde
+00:00:57,910 --> 00:00:58,643
+Y eso es lo que
 
 25
-00:00:59,057 --> 00:01:00,323
-el interior de la Tierra.
+00:00:58,693 --> 00:01:00,415
+esconde el interior de la Tierra.
 
 26
-00:01:01,491 --> 00:01:03,855
+00:01:01,411 --> 00:01:03,775
 Bajo la corteza, un manto de roca ardiente,
 
 27
-00:01:03,905 --> 00:01:07,611
+00:01:03,825 --> 00:01:07,531
 y luego un núcleo de hierro: líquido por fuera, sólido por dentro.
 
 28
-00:01:08,402 --> 00:01:10,760
+00:01:08,321 --> 00:01:10,657
 Con un adulto: corta un huevo duro.
 
 29
-00:01:10,810 --> 00:01:13,856
-La cáscara es la corteza; la clara, el manto;
+00:01:10,707 --> 00:01:13,043
+Su cáscara es la corteza, la clara,
 
 30
-00:01:13,906 --> 00:01:17,622
-la yema, el núcleo, ¡que en realidad tiene dos partes!
+00:01:13,093 --> 00:01:15,156
+el manto, y la yema, el núcleo…
 
 31
-00:01:18,382 --> 00:01:20,918
-¿Y por qué entran en erupción los volcanes?
+00:01:15,206 --> 00:01:17,524
+¡que en realidad tiene dos partes!
 
 32
-00:01:20,968 --> 00:01:22,231
+00:01:18,302 --> 00:01:20,838
+¿Y por qué entran en erupción los volcanes?
+
+33
+00:01:20,888 --> 00:01:22,151
 La respuesta, mañana.

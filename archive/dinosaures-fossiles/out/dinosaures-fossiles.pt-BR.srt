@@ -1,131 +1,135 @@
 1
-00:00:03,051 --> 00:00:04,945
-No museu, um esqueleto imenso!
+00:00:03,052 --> 00:00:05,096
+No museu, se ergue um esqueleto imenso!
 
 2
-00:00:04,995 --> 00:00:07,862
-Os dinossauros sumiram há muito, muito tempo.
+00:00:05,146 --> 00:00:07,726
+Mas os dinossauros sumiram há muito, muito tempo…
 
 3
-00:00:07,912 --> 00:00:10,764
-Então, como a gente sabe que eles existiram?
+00:00:07,776 --> 00:00:10,139
+então, como a gente sabe que eles existiram?
 
 4
-00:00:11,552 --> 00:00:14,069
-Esses ossos não são ossos de verdade:
+00:00:10,924 --> 00:00:13,281
+Esses ossos não são ossos de verdade…
 
 5
-00:00:14,119 --> 00:00:15,387
-eles viraram pedra.
+00:00:13,331 --> 00:00:14,517
+eles viraram pedra!
 
 6
-00:00:15,437 --> 00:00:15,942
-Fósseis!
+00:00:14,567 --> 00:00:15,297
+São fósseis,
 
 7
-00:00:15,992 --> 00:00:18,281
-A Mila acha eles frios e pesados.
+00:00:15,347 --> 00:00:17,624
+e a Mila acha eles frios e pesados.
 
 8
-00:00:19,062 --> 00:00:20,576
+00:00:18,412 --> 00:00:19,926
 Missão descoberta!
 
 9
-00:00:23,092 --> 00:00:23,709
+00:00:22,442 --> 00:00:23,038
 Modo mini!
 
 10
-00:00:23,759 --> 00:00:26,114
+00:00:23,088 --> 00:00:25,365
 Um dinossauro morre perto de um rio.
 
 11
-00:00:26,164 --> 00:00:28,385
-A pele e os músculos somem rápido.
+00:00:25,415 --> 00:00:27,562
+A pele e os músculos somem rápido,
 
 12
-00:00:28,435 --> 00:00:31,057
-Depois a areia e a lama cobrem os ossos,
+00:00:27,612 --> 00:00:31,426
+depois a areia e a lama cobrem os ossos, camada por camada.
 
 13
-00:00:31,107 --> 00:00:32,309
-camada por camada.
-
-14
-00:00:33,090 --> 00:00:36,751
+00:00:32,200 --> 00:00:35,846
 Debaixo da terra, a água entra nos ossos e deixa minerais:
 
-15
-00:00:36,801 --> 00:00:38,670
+14
+00:00:35,896 --> 00:00:37,757
 o osso vira pedra, aos poucos.
 
+15
+00:00:37,807 --> 00:00:38,394
+E em cima,
+
 16
-00:00:38,720 --> 00:00:41,791
-Em cima, as camadas são esmagadas e viram rocha.
+00:00:38,444 --> 00:00:40,929
+as camadas são esmagadas e viram rocha.
 
 17
-00:00:42,572 --> 00:00:43,802
-Milhões de anos depois,
+00:00:41,701 --> 00:00:44,088
+Milhões de anos depois, a rocha se desgasta,
 
 18
-00:00:43,852 --> 00:00:45,972
-a rocha se desgasta e o fóssil aparece.
+00:00:44,138 --> 00:00:45,140
+e o fóssil aparece.
 
 19
-00:00:46,022 --> 00:00:46,696
-A idade dele?
+00:00:45,190 --> 00:00:45,971
+E a idade dele?
 
 20
-00:00:46,746 --> 00:00:49,200
+00:00:46,021 --> 00:00:48,463
 As cinzas vulcânicas em volta têm um relógio:
 
 21
-00:00:49,250 --> 00:00:51,642
+00:00:48,513 --> 00:00:50,895
 átomos que mudam numa velocidade conhecida.
 
 22
-00:00:52,434 --> 00:00:56,692
-Ossos, dentes, pegadas, ovos: milhares de fósseis no mundo.
+00:00:51,698 --> 00:00:53,575
+Ossos, dentes, pegadas, ovos…
 
 23
-00:00:56,742 --> 00:00:58,590
-Virar fóssil é muito raro…
+00:00:53,625 --> 00:00:56,035
+existem milhares de fósseis no mundo!
 
 24
-00:00:58,640 --> 00:01:01,268
-mas em milhões de anos, dá bastante!
+00:00:56,085 --> 00:00:57,763
+Virar fóssil é muito raro…
 
 25
-00:01:02,052 --> 00:01:02,954
-É assim que a gente
+00:00:57,813 --> 00:01:00,206
+mas em milhões de anos, dá bastante!
 
 26
-00:01:03,004 --> 00:01:04,707
-sabe que os dinossauros existiram.
+00:01:00,990 --> 00:01:01,697
+E é assim que a
 
 27
-00:01:05,554 --> 00:01:07,633
-Os ossos dos dinossauros viraram pedra:
+00:01:01,747 --> 00:01:03,767
+gente sabe que os dinossauros existiram.
 
 28
-00:01:07,683 --> 00:01:10,030
-os fósseis são a prova de que eles viveram.
+00:01:04,544 --> 00:01:06,623
+Os ossos dos dinossauros viraram pedra:
 
 29
-00:01:11,068 --> 00:01:12,056
-Com um adulto:
+00:01:06,673 --> 00:01:09,020
+os fósseis são a prova de que eles viveram.
 
 30
-00:01:12,106 --> 00:01:15,984
-afunde uma concha ou um brinquedo na massinha e tire.
+00:01:10,041 --> 00:01:10,934
+Com um adulto:
 
 31
-00:01:16,034 --> 00:01:18,628
-Sua marca é um fóssil em miniatura!
+00:01:10,984 --> 00:01:14,908
+afunde uma concha ou um brinquedo na massinha, depois tire…
 
 32
-00:01:19,432 --> 00:01:20,702
-E de onde vem o vento?
+00:01:14,958 --> 00:01:17,316
+sua marca é um fóssil em miniatura!
 
 33
-00:01:20,752 --> 00:01:21,892
+00:01:18,112 --> 00:01:19,382
+E de onde vem o vento?
+
+34
+00:01:19,432 --> 00:01:20,572
 A resposta, amanhã.

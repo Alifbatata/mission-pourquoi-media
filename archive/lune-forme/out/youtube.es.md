@@ -8,7 +8,7 @@
 
 Para recordar: La Luna siempre está iluminada por la mitad por el Sol; lo que cambia es nuestro ángulo de vista.
 
-🧪 Para probar en casa, con un adulto: a oscuras, con una lámpara encendida, sostén una pelota con el brazo estirado. Gira despacio sobre ti mismo: ¡creciente, cuarto, Luna llena!
+🧪 Para probar en casa, con un adulto: a oscuras, enciende una lámpara, sostén una pelota con el brazo estirado y gira despacio sobre ti mismo… ¡creciente, cuarto, Luna llena!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

@@ -8,7 +8,7 @@ Why does the ground shake? 🌍 The answer in one minute, with Noah, Mila and th
 
 Remember: Earth's plates move and get stuck; when they suddenly let go, the ground shakes.
 
-🧪 Try it at home, with an adult: press a flexible ruler on the edge of a table, bend the end, let go. Watch the cup next to it: it shakes!
+🧪 Try it at home, with an adult: press a flexible ruler on the edge of a table, bend the end, then let go… the cup next to it shakes!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

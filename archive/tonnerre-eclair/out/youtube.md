@@ -8,7 +8,7 @@ Pourquoi entend-on le tonnerre après l'éclair ? ⚡ La réponse en une minute,
 
 À retenir : La lumière de l'éclair arrive tout de suite ; le son du tonnerre, lui, met du temps à voyager.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, derrière la fenêtre : à l'éclair, compte jusqu'au tonnerre. Trois secondes par kilomètre !
+🧪 À essayer à la maison, avec un adulte : derrière la fenêtre : dès l'éclair, compte jusqu'au tonnerre… trois secondes, c'est un kilomètre !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

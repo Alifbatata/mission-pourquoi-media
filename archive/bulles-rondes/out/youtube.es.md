@@ -8,7 +8,7 @@
 
 Para recordar: La piel de la burbuja tira para ser lo más pequeña posible, y la forma más pequeña es la bola.
 
-🧪 Para probar en casa, con un adulto: dobla un alambre en forma de estrella, mójalo en agua con jabón y sopla. ¿Redonda igual?
+🧪 Para probar en casa, con un adulto: dobla un alambre en forma de estrella, mójalo en agua con jabón y sopla. ¿Sigue siendo redonda?
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

@@ -1,135 +1,127 @@
 1
-00:00:03,054 --> 00:00:03,347
-¡Pop!
+00:00:03,082 --> 00:00:04,705
+En la olla, ¡hace pop, pop!
 
 2
-00:00:03,397 --> 00:00:03,691
-¡Pop!
+00:00:04,755 --> 00:00:08,300
+Los granitos duros se convierten en grandes nubes blancas…
 
 3
-00:00:03,741 --> 00:00:04,445
-En la olla,
+00:00:08,350 --> 00:00:09,962
+pero ¿qué pasa ahí dentro?
 
 4
-00:00:04,495 --> 00:00:08,426
-los granitos duros se convierten en grandes nubes blancas.
-
-5
-00:00:08,476 --> 00:00:09,917
-¿Qué pasa ahí dentro?
-
-6
-00:00:10,725 --> 00:00:12,879
+00:00:10,782 --> 00:00:12,726
 Mila mira un grano con la lupa:
 
-7
-00:00:12,929 --> 00:00:15,510
+5
+00:00:12,776 --> 00:00:15,107
 una cáscara dura, lisa, bien cerrada.
 
+6
+00:00:15,157 --> 00:00:17,424
+Y dentro se esconde un poco de agua…
+
+7
+00:00:17,474 --> 00:00:18,568
+¡esa es la clave!
+
 8
-00:00:15,560 --> 00:00:16,221
-¿Y dentro?
-
-9
-00:00:16,271 --> 00:00:18,140
-Un poco de agua, escondida.
-
-10
-00:00:18,190 --> 00:00:19,399
-¡Esa es la clave!
-
-11
-00:00:20,162 --> 00:00:21,676
+00:00:19,342 --> 00:00:20,856
 ¡Misión descubrimiento!
 
-12
-00:00:24,192 --> 00:00:24,921
+9
+00:00:23,372 --> 00:00:24,049
 ¡Modo mini!
 
-13
-00:00:24,971 --> 00:00:28,110
-Dentro del grano: almidón, un poco de agua y,
+10
+00:00:24,099 --> 00:00:27,221
+Dentro del grano hay almidón, un poco de agua y,
 
-14
-00:00:28,160 --> 00:00:30,235
+11
+00:00:27,271 --> 00:00:29,204
 alrededor, una cáscara sólida.
 
+12
+00:00:29,254 --> 00:00:32,095
+Cuando calentamos, el agua se vuelve vapor.
+
+13
+00:00:32,890 --> 00:00:35,798
+Este vapor quiere salir, pero la cáscara está cerrada,
+
+14
+00:00:35,848 --> 00:00:37,496
+así que la presión sube y sube…
+
 15
-00:00:30,285 --> 00:00:32,836
-Calentamos: el agua se vuelve vapor.
+00:00:37,546 --> 00:00:39,413
+¡y hacia los ciento ochenta grados,
 
 16
-00:00:33,620 --> 00:00:36,707
-El vapor quiere salir, pero la cáscara está cerrada:
+00:00:39,463 --> 00:00:40,559
+la cáscara se rompe!
 
 17
-00:00:36,757 --> 00:00:38,094
-la presión sube y sube…
+00:00:41,892 --> 00:00:45,732
+De golpe, la presión cae, y el almidón blandito se hincha como una espuma,
 
 18
-00:00:38,144 --> 00:00:41,402
-¡Hacia los ciento ochenta grados, la cáscara se rompe!
+00:00:45,782 --> 00:00:47,466
+y luego se endurece al enfriarse…
 
 19
-00:00:42,638 --> 00:00:43,964
-De golpe, la presión cae:
+00:00:47,516 --> 00:00:49,724
+¡es una palomita blanca, mucho más grande!
 
 20
-00:00:44,014 --> 00:00:47,984
-el almidón blandito se hincha como una espuma y se endurece al enfriarse.
-
-21
-00:00:48,034 --> 00:00:50,181
-¡Una palomita blanca, mucho más grande!
-
-22
-00:00:50,951 --> 00:00:52,858
+00:00:50,514 --> 00:00:52,165
 ¿Y los granos que no estallan?
 
+21
+00:00:52,215 --> 00:00:55,056
+Su cáscara está agrietada, o están demasiado secos,
+
+22
+00:00:55,106 --> 00:00:56,587
+así que la presión no sube…
+
 23
-00:00:52,908 --> 00:00:55,533
-Cáscara agrietada o grano demasiado seco:
+00:00:56,637 --> 00:00:57,147
+¡sin pop!
 
 24
-00:00:55,583 --> 00:00:58,078
-el vapor se escapa, la presión no sube.
+00:00:57,930 --> 00:01:00,191
+Y por eso estallan las palomitas.
 
 25
-00:00:58,128 --> 00:00:58,715
-¡Sin pop!
-
-26
-00:00:59,494 --> 00:01:01,647
-Por eso estallan las palomitas.
-
-27
-00:01:03,008 --> 00:01:04,657
+00:01:01,448 --> 00:01:03,097
 El agua del grano se vuelve vapor,
 
-28
-00:01:04,707 --> 00:01:08,054
+26
+00:01:03,147 --> 00:01:06,494
 la presión rompe la cáscara y el almidón se hincha como una espuma.
 
-29
-00:01:08,990 --> 00:01:09,778
+27
+00:01:07,430 --> 00:01:08,218
 Con un adulto:
 
-30
-00:01:09,828 --> 00:01:12,652
+28
+00:01:08,268 --> 00:01:11,092
 mira los granos a través de una tapa de cristal.
 
-31
-00:01:12,702 --> 00:01:13,609
+29
+00:01:11,142 --> 00:01:12,049
 Cuenta los pops…
 
-32
-00:01:13,659 --> 00:01:16,174
+30
+00:01:12,099 --> 00:01:14,614
 ¡y busca la cáscara dura en cada palomita!
 
-33
-00:01:16,961 --> 00:01:18,249
+31
+00:01:15,401 --> 00:01:16,689
 ¿Y qué respiramos?
 
-34
-00:01:18,299 --> 00:01:19,859
+32
+00:01:16,739 --> 00:01:18,299
 La respuesta, mañana.

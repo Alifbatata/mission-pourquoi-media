@@ -15,113 +15,121 @@ But what are they made of?
 And where do they come from?
 
 5
-00:00:11,722 --> 00:00:15,250
-In the kitchen, Noah holds a cold lid above the pot:
+00:00:11,708 --> 00:00:12,708
+In the kitchen,
 
 6
-00:00:15,300 --> 00:00:16,351
-fog, then drops!
+00:00:12,758 --> 00:00:15,228
+Noah holds a cold lid above the pot…
 
 7
-00:00:16,401 --> 00:00:17,521
-Mila has a hunch:
+00:00:15,278 --> 00:00:17,258
+and the fog turns into drops!
 
 8
-00:00:17,571 --> 00:00:19,429
-could a cloud be like that?
+00:00:17,308 --> 00:00:19,198
+Could a cloud be like that?
 
 9
-00:00:20,212 --> 00:00:21,726
+00:00:19,972 --> 00:00:21,486
 Discovery mission!
 
 10
-00:00:24,242 --> 00:00:24,865
+00:00:24,002 --> 00:00:24,650
 Mini mode!
 
 11
-00:00:24,915 --> 00:00:26,346
-The Sun warms the sea,
+00:00:24,700 --> 00:00:27,442
+The Sun warms the sea, lakes and rivers:
 
 12
-00:00:26,396 --> 00:00:28,703
-lakes and rivers: water evaporates.
+00:00:27,492 --> 00:00:31,490
+water evaporates into invisible vapor, mixed with the air.
 
 13
-00:00:28,753 --> 00:00:31,936
-It becomes vapor, invisible, mixed with the air.
+00:00:31,540 --> 00:00:33,216
+And this warm air rises.
 
 14
-00:00:31,986 --> 00:00:33,265
-And warm air rises.
-
-15
-00:00:34,051 --> 00:00:35,636
+00:00:34,001 --> 00:00:35,602
 As it rises, the air cools.
 
+15
+00:00:35,652 --> 00:00:37,926
+And cold air can't hold as much vapor…
+
 16
-00:00:35,686 --> 00:00:37,938
-And cold air can't hold as much vapor:
+00:00:37,976 --> 00:00:41,840
+so it sticks onto tiny specks of dust and turns back into water,
 
 17
-00:00:37,988 --> 00:00:42,470
-it sticks onto tiny specks of dust and turns back into water, in droplets.
+00:00:41,890 --> 00:00:42,624
+in droplets.
 
 18
-00:00:43,285 --> 00:00:47,130
-Billions of droplets, so small and so light that they float:
+00:00:43,412 --> 00:00:44,705
+Billions of droplets,
 
 19
-00:00:47,180 --> 00:00:48,104
-that's a cloud!
+00:00:44,755 --> 00:00:47,136
+so small and so light that they float…
 
 20
-00:00:48,154 --> 00:00:50,312
-When they grow and stick together,
+00:00:47,186 --> 00:00:48,095
+that's a cloud!
 
 21
-00:00:50,362 --> 00:00:51,660
-they fall: it rains.
+00:00:48,145 --> 00:00:50,526
+And when they grow and stick together,
 
 22
-00:00:52,430 --> 00:00:55,458
-Inside, it's mist: drops all over the canopy!
+00:00:50,576 --> 00:00:51,855
+they fall: it rains.
 
 23
-00:00:55,508 --> 00:00:58,331
-A cloud is almost something you can touch…
+00:00:52,632 --> 00:00:55,614
+Inside, it's mist, and drops cover the canopy!
 
 24
-00:00:58,381 --> 00:00:59,544
-and it's all wet.
+00:00:55,664 --> 00:00:58,382
+A cloud is almost something you can touch…
 
 25
-00:01:00,389 --> 00:01:02,378
-That's how clouds form.
+00:00:58,432 --> 00:00:59,552
+and it's all wet.
 
 26
+00:01:00,330 --> 00:01:02,469
+And that's how clouds form.
+
+27
 00:01:03,875 --> 00:01:05,090
 Rising air cools down,
 
-27
+28
 00:01:05,140 --> 00:01:08,935
 and its water vapor turns into billions of tiny droplets: a cloud.
 
-28
-00:01:09,832 --> 00:01:10,815
+29
+00:01:09,831 --> 00:01:10,811
 With an adult:
 
-29
-00:01:10,865 --> 00:01:13,544
+30
+00:01:10,861 --> 00:01:13,532
 hold a cold lid above a steaming pot.
 
-30
-00:01:13,594 --> 00:01:16,986
-The vapor turns back into drops: a mini cloud!
-
 31
-00:01:17,751 --> 00:01:20,403
-And why do snowflakes have six branches?
+00:01:13,582 --> 00:01:15,885
+The vapor turns back into drops…
 
 32
-00:01:20,453 --> 00:01:21,804
+00:01:15,935 --> 00:01:16,891
+a mini cloud!
+
+33
+00:01:17,681 --> 00:01:20,333
+And why do snowflakes have six branches?
+
+34
+00:01:20,383 --> 00:01:21,734
 The answer tomorrow.

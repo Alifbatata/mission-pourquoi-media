@@ -8,7 +8,7 @@
 
 Para recordar: Las estrellas brillan sin temblar; es el aire que se mueve sobre nosotros el que hace bailar su luz.
 
-🧪 Para probar en casa, con un adulto: a oscuras, ilumina el techo a través de un bol de agua. Remueve el agua: la mancha de luz baila, ¡como una estrella!
+🧪 Para probar en casa, con un adulto: a oscuras, ilumina el techo a través de un bol de agua. Remueve el agua, y la mancha de luz baila, ¡como una estrella!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

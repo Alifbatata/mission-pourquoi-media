@@ -8,7 +8,7 @@ What do we breathe? 🌬️ The answer in one minute, with Noah, Mila and their 
 
 Remember: Air is a mix of gases; your body keeps the oxygen and lets out carbon dioxide and water.
 
-🧪 Try it at home, with an adult: breathe on a cold mirror. The fog is the water from your breath. Count how long it stays!
+🧪 Try it at home, with an adult: breathe on a cold mirror. This fog is the water from your breath… count how long it stays!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

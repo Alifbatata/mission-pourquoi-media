@@ -8,7 +8,7 @@
 
 Para recordar: Los huesos de los dinosaurios se volvieron piedra: los fósiles son la prueba de que vivieron.
 
-🧪 Para probar en casa, con un adulto: hunde una concha o un juguete en plastilina y retíralo. ¡Tu huella es un fósil en miniatura!
+🧪 Para probar en casa, con un adulto: hunde una concha o un juguete en plastilina y luego retíralo… ¡tu huella es un fósil en miniatura!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

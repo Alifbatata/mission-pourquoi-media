@@ -1,131 +1,131 @@
 1
-00:00:03,052 --> 00:00:05,829
-Mila souffle sur le miroir : de la buée !
+00:00:03,052 --> 00:00:04,919
+Quand Mila souffle sur le miroir,
 
 2
-00:00:05,976 --> 00:00:07,503
-Noah inspire un grand coup.
+00:00:05,036 --> 00:00:06,414
+il se couvre de buée !
 
 3
-00:00:07,620 --> 00:00:09,840
-Mais au fait, qu'est-ce qu'on respire ?
+00:00:06,529 --> 00:00:08,233
+Et Noah inspire un grand coup…
 
 4
-00:00:10,632 --> 00:00:12,839
-Noah attrape de l'air dans un sac.
+00:00:08,459 --> 00:00:09,823
+mais qu'est-ce qu'on respire ?
 
 5
-00:00:12,968 --> 00:00:15,202
-On ne voit rien, mais le sac est plein !
+00:00:10,612 --> 00:00:12,819
+Noah attrape de l'air dans un sac.
 
 6
-00:00:15,319 --> 00:00:17,607
-Mila appuie : ça résiste.
+00:00:12,934 --> 00:00:13,971
+On ne voit rien,
 
 7
-00:00:17,767 --> 00:00:18,955
-L'air existe !
+00:00:14,021 --> 00:00:15,481
+et pourtant le sac est plein !
 
 8
-00:00:19,732 --> 00:00:21,246
-Mission découverte !
+00:00:15,614 --> 00:00:18,894
+Mila appuie, et ça résiste : l'air existe !
 
 9
-00:00:23,762 --> 00:00:24,745
-Mode mini !
+00:00:19,662 --> 00:00:21,176
+Mission découverte !
 
 10
-00:00:24,916 --> 00:00:26,647
-L'air est un mélange de gaz.
+00:00:23,692 --> 00:00:24,675
+Mode mini !
 
 11
-00:00:26,778 --> 00:00:29,581
-Sur cent boules d'air : soixante-dix-huit d'azote,
+00:00:24,846 --> 00:00:26,291
+L'air est un mélange de gaz…
 
 12
-00:00:29,631 --> 00:00:32,422
-vingt et une d'oxygène, et une poignée d'autres gaz.
+00:00:26,341 --> 00:00:29,457
+sur cent boules d'air, soixante-dix-huit sont de l'azote,
 
 13
-00:00:33,222 --> 00:00:35,849
-Tu inspires : l'air descend dans tes poumons,
+00:00:29,507 --> 00:00:32,406
+vingt et une de l'oxygène, et une poignée d'autres gaz.
 
 14
-00:00:36,007 --> 00:00:37,697
-jusqu'à de minuscules sacs.
+00:00:33,208 --> 00:00:35,808
+Quand tu inspires, l'air descend dans tes poumons,
 
 15
-00:00:37,811 --> 00:00:39,691
-L'oxygène passe dans ton sang,
+00:00:36,020 --> 00:00:37,683
+jusqu'à de minuscules sacs.
 
 16
-00:00:39,767 --> 00:00:42,639
-qui rapporte un déchet : le gaz carbonique.
+00:00:37,812 --> 00:00:39,692
+L'oxygène y passe dans ton sang,
 
 17
-00:00:43,410 --> 00:00:46,106
-Quand tu souffles, il ressort un peu moins d'oxygène,
+00:00:39,755 --> 00:00:42,573
+qui rapporte un déchet : le gaz carbonique.
 
 18
-00:00:46,168 --> 00:00:47,722
-un peu plus de gaz carbonique…
+00:00:43,340 --> 00:00:46,171
+Et quand tu souffles, il ressort un peu moins d'oxygène,
 
 19
-00:00:47,839 --> 00:00:48,959
-et de la vapeur d'eau.
+00:00:46,248 --> 00:00:47,734
+un peu plus de gaz carbonique…
 
 20
-00:00:49,078 --> 00:00:51,393
-C'est elle, la buée sur le miroir !
+00:00:47,851 --> 00:00:48,970
+et de la vapeur d'eau.
 
 21
-00:00:52,171 --> 00:00:53,412
-Ton corps brûle la nourriture
+00:00:49,102 --> 00:00:51,472
+C'est elle, la buée sur le miroir !
 
 22
-00:00:53,462 --> 00:00:55,682
-avec l'oxygène pour faire de l'énergie.
+00:00:52,270 --> 00:00:53,593
+Avec l'oxygène,
 
 23
-00:00:55,799 --> 00:00:57,475
-Et qui fabrique l'oxygène ?
+00:00:53,656 --> 00:00:56,243
+ton corps brûle la nourriture pour faire de l'énergie.
 
 24
-00:00:57,591 --> 00:00:58,643
-Les plantes !
+00:00:56,418 --> 00:00:57,769
+Mais qui le fabrique ?
 
 25
-00:00:58,761 --> 00:01:00,179
-Merci les arbres.
+00:00:57,881 --> 00:01:00,332
+Les plantes, alors merci les arbres !
 
 26
-00:01:00,954 --> 00:01:02,536
-Voilà ce qu'on respire.
+00:01:01,131 --> 00:01:02,808
+Et voilà ce qu'on respire.
 
 27
-00:01:04,509 --> 00:01:06,145
+00:01:04,689 --> 00:01:06,325
 L'air est un mélange de gaz ;
 
 28
-00:01:06,234 --> 00:01:09,501
+00:01:06,414 --> 00:01:09,681
 ton corps garde l'oxygène et rejette du gaz carbonique et de l'eau.
 
 29
-00:01:10,450 --> 00:01:13,594
+00:01:10,630 --> 00:01:13,774
 Avec un adulte : souffle sur un miroir froid.
 
 30
-00:01:13,770 --> 00:01:16,003
-La buée, c'est l'eau de ton souffle.
+00:01:13,909 --> 00:01:16,250
+Cette buée, c'est l'eau de ton souffle…
 
 31
-00:01:16,161 --> 00:01:17,919
-Compte combien de temps elle reste !
+00:01:16,300 --> 00:01:18,004
+compte combien de temps elle reste !
 
 32
-00:01:18,681 --> 00:01:21,431
+00:01:18,771 --> 00:01:21,521
 Et pourquoi les feuilles changent-elles de couleur en automne ?
 
 33
-00:01:21,560 --> 00:01:22,829
+00:01:21,650 --> 00:01:22,919
 Réponse demain.

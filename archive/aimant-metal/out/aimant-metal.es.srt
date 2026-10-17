@@ -15,125 +15,129 @@ Los clips saltan hacia él.
 ¿Cómo lo hace, sin tocarlos?
 
 5
-00:00:11,515 --> 00:00:14,125
-Mila lo prueba todo: una llave, ¡hop!
+00:00:11,529 --> 00:00:14,637
+Entonces Mila lo prueba todo: una llave, ¡hop!
 
 6
-00:00:14,175 --> 00:00:15,203
+00:00:14,687 --> 00:00:15,667
 Un clavo, ¡hop!
 
 7
-00:00:15,253 --> 00:00:17,720
-Pero la moneda de cobre, el corcho,
+00:00:15,717 --> 00:00:17,315
+Pero la moneda de cobre,
 
 8
-00:00:17,770 --> 00:00:20,502
-el juguete de plástico: nada se mueve.
+00:00:17,365 --> 00:00:19,650
+el corcho, el juguete de plástico…
 
 9
-00:00:21,292 --> 00:00:22,806
-¡Misión descubrimiento!
-
-10
-00:00:25,335 --> 00:00:25,968
-¡Modo mini!
-
-11
-00:00:26,018 --> 00:00:28,575
-Alrededor del imán hay una zona invisible:
-
-12
-00:00:28,625 --> 00:00:29,754
-el campo magnético.
-
-13
-00:00:29,804 --> 00:00:32,548
-Es más fuerte en los dos extremos, los polos,
-
-14
-00:00:32,598 --> 00:00:34,522
-y atraviesa el aire y el papel.
-
-15
-00:00:35,359 --> 00:00:38,227
-El hierro está lleno de mini-imanes desordenados.
-
-16
-00:00:38,277 --> 00:00:39,656
-El imán se acerca: ¡hop,
-
-17
-00:00:39,706 --> 00:00:41,859
-todos se alinean en el mismo sentido!
-
-18
-00:00:41,909 --> 00:00:44,232
-El hierro se vuelve imán, y es atraído.
-
-19
-00:00:45,021 --> 00:00:45,724
-En el cobre,
-
-20
-00:00:45,774 --> 00:00:49,173
-el oro o el plástico no hay mini-imanes que se alineen.
-
-21
-00:00:49,223 --> 00:00:51,180
-Así que el imán no tiene agarre:
-
-22
-00:00:51,230 --> 00:00:52,109
+00:00:19,700 --> 00:00:20,661
 nada se mueve.
 
+10
+00:00:21,452 --> 00:00:22,966
+¡Misión descubrimiento!
+
+11
+00:00:25,482 --> 00:00:26,111
+¡Modo mini!
+
+12
+00:00:26,161 --> 00:00:28,706
+Alrededor del imán hay una zona invisible…
+
+13
+00:00:28,756 --> 00:00:29,881
+el campo magnético.
+
+14
+00:00:29,931 --> 00:00:32,661
+Es más fuerte en los dos extremos, los polos,
+
+15
+00:00:32,711 --> 00:00:34,627
+y atraviesa el aire y el papel.
+
+16
+00:00:35,482 --> 00:00:38,231
+El hierro está lleno de mini-imanes desordenados.
+
+17
+00:00:38,281 --> 00:00:40,002
+Cuando el imán se acerca, ¡hop,
+
+18
+00:00:40,052 --> 00:00:41,772
+se alinean en el mismo sentido!
+
+19
+00:00:41,822 --> 00:00:44,564
+Entonces el hierro se vuelve imán, y es atraído.
+
+20
+00:00:45,382 --> 00:00:47,775
+Pero en el cobre, el oro o el plástico,
+
+21
+00:00:47,825 --> 00:00:49,466
+ningún mini-imán se alinea.
+
+22
+00:00:49,516 --> 00:00:51,471
+Así que el imán no tiene agarre…
+
 23
-00:00:52,922 --> 00:00:53,963
-¿Y dos imanes?
+00:00:51,521 --> 00:00:52,398
+nada se mueve.
 
 24
-00:00:54,013 --> 00:00:56,691
-Polo contra polo igual, se repelen.
+00:00:53,174 --> 00:00:54,166
+¿Y dos imanes?
 
 25
-00:00:56,741 --> 00:00:58,172
-Da la vuelta a uno…
+00:00:54,216 --> 00:00:56,769
+Polo contra polo igual, se repelen.
 
 26
-00:00:58,222 --> 00:00:59,625
-¡clac, se atrapan!
+00:00:56,819 --> 00:00:58,555
+Pero da la vuelta a uno…
 
 27
-00:01:00,400 --> 00:01:02,824
-Así atrae un imán el metal.
+00:00:58,605 --> 00:00:59,944
+¡clac, se atrapan!
 
 28
-00:01:03,959 --> 00:01:06,418
-El imán alinea los mini-imanes del hierro:
+00:01:00,730 --> 00:01:03,249
+Y así atrae un imán el metal.
 
 29
-00:01:06,468 --> 00:01:09,277
-el hierro se vuelve imán también, y es atraído.
+00:01:04,289 --> 00:01:06,748
+El imán alinea los mini-imanes del hierro:
 
 30
-00:01:10,085 --> 00:01:12,752
-Con un adulto: clips sobre una hoja,
+00:01:06,798 --> 00:01:09,607
+el hierro se vuelve imán también, y es atraído.
 
 31
-00:01:12,802 --> 00:01:13,883
-un imán debajo.
+00:01:10,402 --> 00:01:11,223
+Con un adulto:
 
 32
-00:01:13,933 --> 00:01:15,317
-¡Se deslizan solos!
+00:01:11,273 --> 00:01:14,398
+pon clips sobre una hoja y pasa un imán por debajo…
 
 33
-00:01:15,367 --> 00:01:18,159
-Prueba con una moneda de cobre: nada.
+00:01:14,448 --> 00:01:15,581
+¡se deslizan solos!
 
 34
-00:01:18,940 --> 00:01:21,148
-¿Y qué esconde el interior de la Tierra?
+00:01:15,631 --> 00:01:17,934
+Pero una moneda de cobre no se mueve.
 
 35
-00:01:21,198 --> 00:01:22,383
+00:01:18,700 --> 00:01:20,908
+¿Y qué esconde el interior de la Tierra?
+
+36
+00:01:20,958 --> 00:01:22,143
 La respuesta, mañana.

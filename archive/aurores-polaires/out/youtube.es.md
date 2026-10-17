@@ -8,7 +8,7 @@
 
 Para recordar: Granitos venidos del Sol, guiados hacia los polos por el imán de la Tierra, hacen brillar el aire allá arriba.
 
-🧪 Para probar en casa, con un adulto: acerca un imán a una brújula. ¡La aguja gira! Siente el imán, igual que siente la Tierra.
+🧪 Para probar en casa, con un adulto: acerca un imán a una brújula… ¡y la aguja gira! Siente el imán, igual que siente la Tierra.
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

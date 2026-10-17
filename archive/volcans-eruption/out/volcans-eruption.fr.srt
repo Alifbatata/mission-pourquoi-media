@@ -11,125 +11,129 @@ Mila recule, Noah ouvre grand les yeux.
 Qu'est-ce qui pousse tout ça dehors ?
 
 4
-00:00:10,608 --> 00:00:12,502
-Mila secoue une bouteille de soda.
+00:00:10,635 --> 00:00:12,488
+Mila secoue une bouteille de soda et…
 
 5
-00:00:12,619 --> 00:00:13,344
-Pop !
+00:00:12,632 --> 00:00:14,418
+pop, ça gicle partout !
 
 6
-00:00:13,475 --> 00:00:14,839
-Ça gicle partout.
-
-7
-00:00:14,969 --> 00:00:16,170
+00:00:14,548 --> 00:00:15,749
 Noah est trempé…
 
-8
-00:00:16,274 --> 00:00:17,325
+7
+00:00:15,825 --> 00:00:16,836
 et il a une idée.
 
-9
-00:00:18,102 --> 00:00:19,616
+8
+00:00:17,622 --> 00:00:19,136
 Mission découverte !
 
-10
-00:00:22,132 --> 00:00:23,102
+9
+00:00:21,665 --> 00:00:22,635
 Mode mini !
 
-11
-00:00:23,214 --> 00:00:25,774
-Sous le volcan, la roche brûlante fond :
+10
+00:00:22,748 --> 00:00:25,266
+Sous le volcan, la roche brûlante fond…
 
-12
-00:00:25,836 --> 00:00:26,820
+11
+00:00:25,316 --> 00:00:26,313
 c'est le magma.
 
+12
+00:00:26,431 --> 00:00:28,854
+Et ce magma, plus léger que la roche,
+
 13
-00:00:26,938 --> 00:00:29,605
-Plus léger que la roche autour, il remonte,
+00:00:28,904 --> 00:00:30,771
+remonte comme une bulle dans le sirop.
 
 14
-00:00:29,655 --> 00:00:31,169
-comme une bulle dans le sirop.
+00:00:31,560 --> 00:00:32,680
+Dans ce magma,
 
 15
-00:00:31,961 --> 00:00:33,013
-Dans le magma,
-
-16
-00:00:33,211 --> 00:00:35,214
+00:00:32,878 --> 00:00:34,840
 du gaz est écrasé par la pression.
 
+16
+00:00:34,957 --> 00:00:37,122
+Mais en montant, la pression baisse…
+
 17
-00:00:35,330 --> 00:00:38,690
-En montant, la pression baisse : le gaz fait des bulles,
+00:00:37,321 --> 00:00:38,548
+et le gaz fait des bulles,
 
 18
-00:00:38,740 --> 00:00:40,294
+00:00:38,598 --> 00:00:40,139
 qui poussent le magma dehors !
 
 19
-00:00:41,098 --> 00:00:42,870
+00:00:40,924 --> 00:00:42,655
 Si le magma monte doucement,
 
 20
-00:00:42,946 --> 00:00:45,736
-le gaz s'échappe tranquillement : la lave coule.
+00:00:42,731 --> 00:00:45,536
+le gaz s'échappe tranquillement, et la lave coule.
 
 21
-00:00:45,881 --> 00:00:48,291
-S'il monte vite, le gaz sort d'un coup :
+00:00:45,693 --> 00:00:48,143
+Mais s'il monte vite, le gaz sort d'un coup…
 
 22
-00:00:48,476 --> 00:00:50,383
+00:00:48,193 --> 00:00:50,128
 boum, le volcan explose !
 
 23
-00:00:51,162 --> 00:00:55,352
-Dehors, le magma s'appelle la lave : rouge, brûlante,
+00:00:50,901 --> 00:00:53,583
+Dehors, le magma s'appelle la lave.
 
 24
-00:00:55,483 --> 00:00:57,581
-elle coule puis refroidit en roche noire.
+00:00:53,717 --> 00:00:55,679
+Rouge et brûlante, elle coule,
 
 25
-00:00:57,740 --> 00:01:00,259
-Le volcan grandit, petit à petit.
+00:00:55,755 --> 00:00:57,350
+puis refroidit en roche noire…
 
 26
-00:01:01,024 --> 00:01:03,462
-Voilà pourquoi les volcans entrent en éruption.
+00:00:57,589 --> 00:00:59,918
+et le volcan grandit, petit à petit.
 
 27
-00:01:04,565 --> 00:01:06,772
-Le magma remonte parce qu'il est plus léger,
+00:01:00,720 --> 00:01:03,225
+Et voilà pourquoi les volcans entrent en éruption.
 
 28
-00:01:06,861 --> 00:01:08,755
-et ses bulles de gaz le poussent dehors.
+00:01:04,265 --> 00:01:06,472
+Le magma remonte parce qu'il est plus léger,
 
 29
-00:01:10,020 --> 00:01:11,832
-Dehors, avec un adulte :
+00:01:06,561 --> 00:01:08,455
+et ses bulles de gaz le poussent dehors.
 
 30
-00:01:11,922 --> 00:01:14,061
-secoue une bouteille de soda et ouvre-la.
+00:01:09,720 --> 00:01:11,532
+Dehors, avec un adulte :
 
 31
-00:01:14,180 --> 00:01:16,074
-Les bulles poussent le soda dehors,
+00:01:11,622 --> 00:01:13,761
+secoue une bouteille de soda et ouvre-la.
 
 32
-00:01:16,150 --> 00:01:17,786
-comme le gaz pousse le magma !
+00:01:13,880 --> 00:01:15,774
+Les bulles poussent le soda dehors,
 
 33
-00:01:18,562 --> 00:01:21,095
-Et comment le son voyage-t-il jusqu'à nos oreilles ?
+00:01:15,850 --> 00:01:17,486
+comme le gaz pousse le magma !
 
 34
-00:01:21,209 --> 00:01:22,478
+00:01:18,262 --> 00:01:20,795
+Et comment le son voyage-t-il jusqu'à nos oreilles ?
+
+35
+00:01:20,909 --> 00:01:22,178
 Réponse demain.

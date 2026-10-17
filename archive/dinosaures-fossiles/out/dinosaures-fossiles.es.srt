@@ -1,131 +1,131 @@
 1
-00:00:03,051 --> 00:00:05,127
-¡En el museo, un esqueleto inmenso!
+00:00:03,052 --> 00:00:05,143
+¡En el museo se alza un esqueleto inmenso!
 
 2
-00:00:05,177 --> 00:00:08,345
-Los dinosaurios desaparecieron hace muchísimo tiempo.
+00:00:05,193 --> 00:00:08,100
+Pero los dinosaurios desaparecieron hace muchísimo tiempo…
 
 3
-00:00:08,395 --> 00:00:10,764
-Entonces, ¿cómo sabemos que existieron?
+00:00:08,150 --> 00:00:10,139
+entonces, ¿cómo sabemos que existieron?
 
 4
-00:00:11,552 --> 00:00:13,992
-Estos huesos no son huesos de verdad:
+00:00:10,924 --> 00:00:13,213
+Estos huesos no son huesos de verdad…
 
 5
-00:00:14,042 --> 00:00:15,338
-se volvieron piedra.
+00:00:13,263 --> 00:00:14,540
+¡se volvieron piedra!
 
 6
-00:00:15,388 --> 00:00:15,943
-¡Fósiles!
+00:00:14,590 --> 00:00:15,299
+Son fósiles,
 
 7
-00:00:15,993 --> 00:00:18,281
-A Mila le parecen fríos y pesados.
+00:00:15,349 --> 00:00:17,624
+y a Mila le parecen fríos y pesados.
 
 8
-00:00:19,062 --> 00:00:20,576
+00:00:18,412 --> 00:00:19,926
 ¡Misión descubrimiento!
 
 9
-00:00:23,092 --> 00:00:23,727
+00:00:22,442 --> 00:00:23,055
 ¡Modo mini!
 
 10
-00:00:23,777 --> 00:00:25,969
+00:00:23,105 --> 00:00:25,225
 Un dinosaurio muere cerca de un río.
 
 11
-00:00:26,019 --> 00:00:28,584
-Su piel y sus músculos desaparecen rápido.
+00:00:25,275 --> 00:00:27,758
+Su piel y sus músculos desaparecen rápido,
 
 12
-00:00:28,634 --> 00:00:31,325
-Luego la arena y el barro cubren sus huesos,
+00:00:27,808 --> 00:00:31,426
+luego la arena y el barro cubren sus huesos, capa tras capa.
 
 13
-00:00:31,375 --> 00:00:32,309
-capa tras capa.
-
-14
-00:00:33,090 --> 00:00:36,710
+00:00:32,200 --> 00:00:35,807
 Bajo tierra, el agua se filtra en los huesos y deja minerales:
 
-15
-00:00:36,760 --> 00:00:39,018
+14
+00:00:35,857 --> 00:00:38,107
 el hueso se vuelve piedra, poco a poco.
 
+15
+00:00:38,157 --> 00:00:38,638
+Y arriba,
+
 16
-00:00:39,068 --> 00:00:41,791
-Arriba, las capas se aplastan y se hacen roca.
+00:00:38,688 --> 00:00:40,929
+las capas se aplastan y se hacen roca.
 
 17
-00:00:42,572 --> 00:00:43,864
-Millones de años después,
+00:00:41,701 --> 00:00:44,110
+Millones de años después, la roca se desgasta,
 
 18
-00:00:43,914 --> 00:00:45,957
-la roca se desgasta y el fósil aparece.
+00:00:44,160 --> 00:00:45,125
+y el fósil aparece.
 
 19
-00:00:46,007 --> 00:00:46,440
-¿Su edad?
+00:00:45,175 --> 00:00:45,713
+¿Y su edad?
 
 20
-00:00:46,490 --> 00:00:49,231
+00:00:45,763 --> 00:00:48,493
 Las cenizas volcánicas de alrededor tienen un reloj:
 
 21
-00:00:49,281 --> 00:00:51,642
+00:00:48,543 --> 00:00:50,895
 átomos que cambian a una velocidad conocida.
 
 22
-00:00:52,434 --> 00:00:54,576
-Huesos, dientes, huellas, huevos:
+00:00:51,698 --> 00:00:53,682
+Huesos, dientes, huellas, huevos…
 
 23
-00:00:54,626 --> 00:00:56,502
-miles de fósiles en el mundo.
+00:00:53,732 --> 00:00:55,778
+¡hay miles de fósiles en el mundo!
 
 24
-00:00:56,552 --> 00:00:58,694
+00:00:55,828 --> 00:00:57,813
 Convertirse en fósil es muy raro…
 
 25
-00:00:58,744 --> 00:01:01,268
+00:00:57,863 --> 00:01:00,206
 ¡pero en millones de años, son muchos!
 
 26
-00:01:02,052 --> 00:01:04,707
-Así sabemos que los dinosaurios existieron.
+00:01:00,990 --> 00:01:03,767
+Y así sabemos que los dinosaurios existieron.
 
 27
-00:01:05,554 --> 00:01:07,937
+00:01:04,544 --> 00:01:06,927
 Los huesos de los dinosaurios se volvieron piedra:
 
 28
-00:01:07,987 --> 00:01:10,030
+00:01:06,977 --> 00:01:09,020
 los fósiles son la prueba de que vivieron.
 
 29
-00:01:11,068 --> 00:01:12,026
+00:01:10,041 --> 00:01:10,909
 Con un adulto:
 
 30
-00:01:12,076 --> 00:01:15,986
-hunde una concha o un juguete en plastilina y retíralo.
+00:01:10,959 --> 00:01:14,906
+hunde una concha o un juguete en plastilina y luego retíralo…
 
 31
-00:01:16,036 --> 00:01:18,628
-¡Tu huella es un fósil en miniatura!
+00:01:14,956 --> 00:01:17,316
+¡tu huella es un fósil en miniatura!
 
 32
-00:01:19,432 --> 00:01:20,787
+00:01:18,112 --> 00:01:19,467
 ¿Y de dónde viene el viento?
 
 33
-00:01:20,837 --> 00:01:21,892
+00:01:19,517 --> 00:01:20,572
 La respuesta, mañana.

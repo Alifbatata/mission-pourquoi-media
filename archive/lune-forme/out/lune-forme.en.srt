@@ -1,127 +1,123 @@
 1
-00:00:03,051 --> 00:00:05,523
-Tonight, the Moon is a thin crescent.
+00:00:03,054 --> 00:00:05,283
+Tonight, the Moon is a thin crescent,
 
 2
-00:00:05,573 --> 00:00:07,908
-Last week, it was completely round!
+00:00:05,333 --> 00:00:07,684
+but last week, it was completely round!
 
 3
-00:00:07,958 --> 00:00:10,003
+00:00:07,734 --> 00:00:09,582
 Did someone eat a piece of it?
 
 4
-00:00:10,845 --> 00:00:12,817
+00:00:10,388 --> 00:00:12,364
 Mila drew it all: every night,
 
 5
-00:00:12,867 --> 00:00:14,569
+00:00:12,414 --> 00:00:14,121
 the Moon changes a little.
 
 6
-00:00:14,619 --> 00:00:16,978
+00:00:14,171 --> 00:00:16,535
 And yet, it's always the same Moon!
 
 7
-00:00:17,762 --> 00:00:19,276
+00:00:17,312 --> 00:00:18,826
 Discovery mission!
 
 8
-00:00:21,792 --> 00:00:22,474
+00:00:21,342 --> 00:00:21,967
 Mini mode!
 
 9
-00:00:22,524 --> 00:00:24,232
-The Sun always lights up
+00:00:22,017 --> 00:00:25,074
+The Sun always lights up one half of the Moon,
 
 10
-00:00:24,282 --> 00:00:25,771
-one half of the Moon.
+00:00:25,124 --> 00:00:25,546
+always!
 
 11
-00:00:25,821 --> 00:00:26,284
-Always!
+00:00:25,596 --> 00:00:28,095
+And the other half stays in the dark.
 
 12
-00:00:26,334 --> 00:00:28,751
-The other half stays in the dark.
-
-13
-00:00:29,541 --> 00:00:30,897
+00:00:28,871 --> 00:00:30,295
 But the Moon goes around
 
-14
-00:00:30,947 --> 00:00:32,127
+13
+00:00:30,345 --> 00:00:31,585
 the Earth in a month.
 
-15
-00:00:32,177 --> 00:00:33,006
-From your home,
+14
+00:00:31,635 --> 00:00:32,753
+So, from your home,
 
-16
-00:00:33,056 --> 00:00:36,571
+15
+00:00:32,803 --> 00:00:36,488
 you see its lit half from an angle that changes every night.
 
+16
+00:00:37,871 --> 00:00:39,944
+A small piece is a crescent.
+
 17
-00:00:38,540 --> 00:00:40,600
-A small piece: a crescent.
+00:00:39,994 --> 00:00:41,764
+Half of it is a quarter.
 
 18
-00:00:40,650 --> 00:00:42,385
-Half of it: a quarter.
+00:00:41,814 --> 00:00:43,508
+And the whole lit half…
 
 19
-00:00:42,435 --> 00:00:45,144
-The whole lit half: the full Moon!
+00:00:43,558 --> 00:00:44,797
+is the full Moon!
 
 20
-00:00:45,194 --> 00:00:46,442
-Then it shrinks…
+00:00:44,847 --> 00:00:47,350
+Then it shrinks and starts again.
 
 21
-00:00:46,492 --> 00:00:48,115
-and it starts again.
+00:00:48,121 --> 00:00:51,216
+And from space, Curio sees the Moon half and half,
 
 22
-00:00:48,880 --> 00:00:51,971
-Seen from space, Curio sees the Moon half and half:
-
-23
-00:00:52,021 --> 00:00:54,928
+00:00:51,266 --> 00:00:54,235
 one side facing the Sun, the other in the night.
 
+23
+00:00:54,285 --> 00:00:55,858
+So it never lost a piece!
+
 24
-00:00:54,978 --> 00:00:56,333
-It never lost a piece!
+00:00:56,641 --> 00:00:58,943
+And that's why the Moon changes shape.
 
 25
-00:00:57,128 --> 00:00:59,348
-That's why the Moon changes shape.
-
-26
-00:01:00,669 --> 00:01:02,967
+00:01:00,199 --> 00:01:02,497
 The Moon is always half lit by the Sun;
 
-27
-00:01:03,017 --> 00:01:05,185
+26
+00:01:02,547 --> 00:01:04,715
 it's our viewing angle that changes.
 
+27
+00:01:05,641 --> 00:01:08,462
+With an adult, in the dark: turn on a lamp,
+
 28
-00:01:06,169 --> 00:01:08,708
-With an adult, in the dark: a lamp,
+00:01:08,512 --> 00:01:11,935
+hold a ball at arm's length, and turn around slowly…
 
 29
-00:01:08,758 --> 00:01:10,706
-and a ball at arm's length.
+00:01:11,985 --> 00:01:13,921
+crescent, quarter, full Moon!
 
 30
-00:01:10,756 --> 00:01:14,381
-Turn around slowly: crescent, quarter, full Moon!
-
-31
-00:01:15,160 --> 00:01:17,812
+00:01:14,691 --> 00:01:17,361
 And why do we hear thunder after lightning?
 
-32
-00:01:17,862 --> 00:01:19,119
+31
+00:01:17,411 --> 00:01:18,676
 The answer tomorrow.

@@ -8,7 +8,7 @@ Comment les poissons respirent-ils sous l'eau ? 🐟 La réponse en une minute, 
 
 À retenir : Les poissons attrapent l'oxygène caché dans l'eau grâce à leurs branchies.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, devant un aquarium : compte combien de fois le poisson ouvre la bouche en une minute. Regarde ses fentes bouger !
+🧪 À essayer à la maison, avec un adulte : devant un aquarium : compte combien de fois le poisson ouvre la bouche en une minute, et regarde ses fentes bouger !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

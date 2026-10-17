@@ -1,135 +1,135 @@
 1
-00:00:03,052 --> 00:00:05,200
-Mila sopla sobre el espejo: ¡vaho!
+00:00:03,052 --> 00:00:05,076
+Cuando Mila sopla sobre el espejo,
 
 2
-00:00:05,250 --> 00:00:07,527
-Noah toma una gran bocanada de aire.
+00:00:05,126 --> 00:00:06,174
+¡se llena de vaho!
 
 3
-00:00:07,577 --> 00:00:09,840
-Pero, en realidad, ¿qué respiramos?
+00:00:06,224 --> 00:00:08,492
+Y Noah toma una gran bocanada de aire…
 
 4
-00:00:10,632 --> 00:00:12,811
-Noah atrapa aire en una bolsa.
+00:00:08,542 --> 00:00:09,823
+pero ¿qué respiramos?
 
 5
-00:00:12,861 --> 00:00:15,858
-No se ve nada, ¡pero la bolsa está llena!
+00:00:10,612 --> 00:00:12,582
+Noah atrapa aire en una bolsa.
 
 6
-00:00:15,908 --> 00:00:17,716
-Mila aprieta: se resiste.
+00:00:12,632 --> 00:00:13,525
+No se ve nada,
 
 7
-00:00:17,766 --> 00:00:18,955
-¡El aire existe!
+00:00:13,575 --> 00:00:15,882
+¡y sin embargo la bolsa está llena!
 
 8
-00:00:19,732 --> 00:00:21,246
-¡Misión descubrimiento!
+00:00:15,932 --> 00:00:18,894
+Mila aprieta, y se resiste: ¡el aire existe!
 
 9
-00:00:23,762 --> 00:00:24,378
-¡Modo mini!
+00:00:19,662 --> 00:00:21,176
+¡Misión descubrimiento!
 
 10
-00:00:24,428 --> 00:00:26,255
-El aire es una mezcla de gases.
+00:00:23,692 --> 00:00:24,289
+¡Modo mini!
 
 11
-00:00:26,305 --> 00:00:29,465
-De cien bolitas de aire: setenta y ocho de nitrógeno,
+00:00:24,339 --> 00:00:26,115
+El aire es una mezcla de gases…
 
 12
-00:00:29,515 --> 00:00:32,422
-veintiuna de oxígeno y un puñado de otros gases.
+00:00:26,165 --> 00:00:29,471
+de cien bolitas de aire, setenta y ocho son de nitrógeno,
 
 13
-00:00:33,222 --> 00:00:35,573
-Inspiras: el aire baja a tus pulmones,
+00:00:29,521 --> 00:00:32,406
+veintiuna de oxígeno, y un puñado de otros gases.
 
 14
-00:00:35,623 --> 00:00:37,470
-hasta unos saquitos diminutos.
+00:00:33,208 --> 00:00:35,759
+Cuando inspiras, el aire baja a tus pulmones,
 
 15
-00:00:37,520 --> 00:00:39,239
-El oxígeno pasa a tu sangre,
+00:00:35,809 --> 00:00:37,493
+hasta unos saquitos diminutos.
 
 16
-00:00:39,289 --> 00:00:42,639
-que trae de vuelta un desecho: el dióxido de carbono.
+00:00:37,543 --> 00:00:39,459
+Allí, el oxígeno pasa a tu sangre,
 
 17
-00:00:43,410 --> 00:00:45,805
-Espiras: un poco menos de oxígeno,
+00:00:39,509 --> 00:00:42,573
+que trae de vuelta un desecho: el dióxido de carbono.
 
 18
-00:00:45,855 --> 00:00:48,251
-un poco más de dióxido de carbono…
+00:00:43,340 --> 00:00:46,413
+Y cuando espiras, sale un poco menos de oxígeno,
 
 19
-00:00:48,301 --> 00:00:49,401
-y vapor de agua.
+00:00:46,463 --> 00:00:48,624
+un poco más de dióxido de carbono…
 
 20
-00:00:49,451 --> 00:00:51,393
-¡Ese es el vaho del espejo!
+00:00:48,674 --> 00:00:49,665
+y vapor de agua.
 
 21
-00:00:52,171 --> 00:00:53,832
-Tu cuerpo quema la comida
+00:00:49,715 --> 00:00:51,472
+¡Ese es el vaho del espejo!
 
 22
-00:00:53,882 --> 00:00:56,159
-con el oxígeno para hacer energía.
+00:00:52,270 --> 00:00:53,211
+Con el oxígeno,
 
 23
-00:00:56,209 --> 00:00:58,076
-¿Y quién fabrica el oxígeno?
+00:00:53,261 --> 00:00:56,185
+tu cuerpo quema la comida para hacer energía.
 
 24
-00:00:58,126 --> 00:00:58,966
-¡Las plantas!
+00:00:56,235 --> 00:00:57,705
+Pero ¿quién lo fabrica?
 
 25
-00:00:59,016 --> 00:01:00,179
-Gracias, árboles.
+00:00:57,755 --> 00:01:00,332
+Las plantas, así que ¡gracias, árboles!
 
 26
-00:01:00,954 --> 00:01:02,536
-Eso es lo que respiramos.
+00:01:01,131 --> 00:01:02,808
+Y eso es lo que respiramos.
 
 27
-00:01:04,509 --> 00:01:06,006
+00:01:04,689 --> 00:01:06,186
 El aire es una mezcla de gases;
 
 28
-00:01:06,056 --> 00:01:09,501
+00:01:06,236 --> 00:01:09,681
 tu cuerpo se queda con el oxígeno y suelta dióxido de carbono y agua.
 
 29
-00:01:10,450 --> 00:01:13,359
+00:01:10,630 --> 00:01:13,448
 Con un adulto: sopla sobre un espejo frío.
 
 30
-00:01:13,409 --> 00:01:15,685
-El vaho es el agua de tu aliento.
+00:01:13,498 --> 00:01:15,837
+Este vaho es el agua de tu aliento…
 
 31
-00:01:15,735 --> 00:01:17,919
-¡Cuenta cuánto tiempo se queda!
+00:01:15,887 --> 00:01:18,004
+¡cuenta cuánto tiempo se queda!
 
 32
-00:01:18,681 --> 00:01:19,869
+00:01:18,771 --> 00:01:19,959
 ¿Y por qué las hojas
 
 33
-00:01:19,919 --> 00:01:21,479
+00:01:20,009 --> 00:01:21,569
 cambian de color en otoño?
 
 34
-00:01:21,529 --> 00:01:22,829
+00:01:21,619 --> 00:01:22,919
 La respuesta, mañana.

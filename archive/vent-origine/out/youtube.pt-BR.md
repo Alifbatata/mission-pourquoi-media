@@ -8,7 +8,7 @@ De onde vem o vento? 🌬️ A resposta em um minuto, com Noah, Mila e seu veíc
 
 Para lembrar: O Sol esquenta o ar de forma desigual; o ar quente sobe e o ar fresco corre para o lugar: isso é o vento.
 
-🧪 Para experimentar em casa, com um adulto: segure uma tirinha de papel acima de um aquecedor quente. Ela voa para cima: o ar quente sobe!
+🧪 Para experimentar em casa, com um adulto: segure uma tirinha de papel acima de um aquecedor quente. Ela voa para cima, porque o ar quente sobe!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

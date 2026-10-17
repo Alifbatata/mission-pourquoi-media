@@ -8,7 +8,7 @@ Pourquoi la mer monte et descend ? 🌙 La réponse en une minute, avec Noah, Mi
 
 À retenir : La Lune tire sur l'eau des océans : deux bosses d'eau, et la Terre tourne dessous.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, à la plage : plante un bâton au bord de l'eau. Une heure plus tard : la mer a bougé ! Elle monte, ou elle descend ?
+🧪 À essayer à la maison, avec un adulte : à la plage : plante un bâton au bord de l'eau. Une heure plus tard, la mer a bougé… alors, elle monte ou elle descend ?
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

@@ -1,139 +1,127 @@
 1
-00:00:03,109 --> 00:00:05,768
-O peixe abre e fecha a boca sem parar.
+00:00:03,109 --> 00:00:05,464
+O peixe abre e fecha a boca sem parar,
 
 2
-00:00:05,818 --> 00:00:06,980
-Ele está bebendo?
+00:00:05,514 --> 00:00:06,794
+mas não está bebendo!
 
 3
-00:00:07,030 --> 00:00:07,265
-Não!
-
-4
-00:00:07,315 --> 00:00:08,620
+00:00:06,844 --> 00:00:07,996
 A Mila vê as fendas
 
+4
+00:00:08,046 --> 00:00:09,516
+dele se mexendo no lado…
+
 5
-00:00:08,670 --> 00:00:10,473
-que se mexem no lado dele.
+00:00:09,566 --> 00:00:11,022
+ele respira, mas o quê?
 
 6
-00:00:10,523 --> 00:00:11,329
-Ele respira…
+00:00:11,808 --> 00:00:13,774
+Na água tem oxigênio invisível,
 
 7
-00:00:11,379 --> 00:00:12,092
-mas o quê?
+00:00:13,824 --> 00:00:15,791
+dissolvido como açúcar no suco…
 
 8
-00:00:12,871 --> 00:00:15,483
-Na água tem oxigênio, invisível,
+00:00:15,841 --> 00:00:18,118
+e as bolhinhas no copo provam isso!
 
 9
-00:00:15,533 --> 00:00:18,061
-dissolvido como açúcar no suco.
-
-10
-00:00:18,111 --> 00:00:19,807
-As bolhinhas no copo?
-
-11
-00:00:19,857 --> 00:00:20,689
-Uma prova!
-
-12
-00:00:21,462 --> 00:00:22,976
+00:00:18,892 --> 00:00:20,406
 Missão descoberta!
 
-13
-00:00:25,492 --> 00:00:26,101
+10
+00:00:22,922 --> 00:00:23,501
 Modo mini!
 
-14
-00:00:26,151 --> 00:00:28,542
+11
+00:00:23,551 --> 00:00:25,831
 No ar, o oxigênio está em todo lugar.
 
-15
-00:00:28,592 --> 00:00:29,994
-Na água tem bem menos:
+12
+00:00:25,881 --> 00:00:27,467
+Mas na água tem bem menos,
 
-16
-00:00:30,044 --> 00:00:34,002
-precisa de uma ferramenta especial para pegar: as brânquias!
+13
+00:00:27,517 --> 00:00:31,673
+então precisa de uma ferramenta especial para pegar: as brânquias!
 
-17
-00:00:34,829 --> 00:00:37,313
+14
+00:00:32,499 --> 00:00:34,937
 O peixe engole água e empurra sobre as brânquias:
 
-18
-00:00:37,363 --> 00:00:39,899
+15
+00:00:34,987 --> 00:00:37,476
 milhares de filamentos vermelhos cheios de sangue.
 
-19
-00:00:39,949 --> 00:00:41,502
+16
+00:00:37,526 --> 00:00:39,051
 O oxigênio passa para o sangue,
 
+17
+00:00:39,101 --> 00:00:40,421
+e a água sai pelas fendas.
+
+18
+00:00:41,440 --> 00:00:44,075
+Mas fora da água, os filamentos grudam e secam…
+
+19
+00:00:44,125 --> 00:00:45,047
+e o peixe sufoca.
+
 20
-00:00:41,552 --> 00:00:42,793
-a água sai pelas fendas.
-
-21
-00:00:43,770 --> 00:00:46,313
-Fora da água, os filamentos grudam e secam:
-
-22
-00:00:46,363 --> 00:00:47,217
-o peixe sufoca.
-
-23
-00:00:47,267 --> 00:00:48,785
+00:00:45,097 --> 00:00:46,532
 Com a gente é o contrário:
 
-24
-00:00:48,835 --> 00:00:51,850
+21
+00:00:46,582 --> 00:00:49,439
 nossos pulmões não sabem tirar o oxigênio da água.
 
-25
-00:00:52,675 --> 00:00:53,165
-De perto:
+22
+00:00:50,232 --> 00:00:50,720
+De perto,
 
-26
-00:00:53,215 --> 00:00:56,944
+23
+00:00:50,770 --> 00:00:54,493
 a água desliza sobre as brânquias como sobre um pente vermelho.
 
+24
+00:00:54,543 --> 00:00:56,588
+Mas quem coloca o oxigênio na água?
+
+25
+00:00:56,638 --> 00:00:58,495
+É o plâncton, algas minúsculas!
+
+26
+00:00:59,270 --> 00:01:01,667
+E é assim que os peixes respiram debaixo d'água.
+
 27
-00:00:56,994 --> 00:00:58,923
-E quem coloca o oxigênio na água?
-
-28
-00:00:58,973 --> 00:01:00,833
-Plantas minúsculas: o plâncton!
-
-29
-00:01:01,628 --> 00:01:03,889
-É assim que os peixes respiram debaixo d'água.
-
-30
-00:01:05,128 --> 00:01:06,888
+00:01:02,788 --> 00:01:04,548
 Os peixes pegam o oxigênio escondido
 
-31
-00:01:06,938 --> 00:01:08,598
+28
+00:01:04,598 --> 00:01:06,258
 na água graças às suas brânquias.
 
-32
-00:01:10,111 --> 00:01:15,413
+29
+00:01:07,788 --> 00:01:12,927
 Com um adulto, na frente de um aquário: conte quantas vezes o peixe abre a boca em um minuto,
 
-33
-00:01:15,463 --> 00:01:17,362
+30
+00:01:12,977 --> 00:01:14,818
 e olhe as fendas dele se mexendo!
 
-34
-00:01:18,151 --> 00:01:20,251
+31
+00:01:15,591 --> 00:01:17,691
 E por que as bolhas são redondas?
 
-35
-00:01:20,301 --> 00:01:21,539
+32
+00:01:17,741 --> 00:01:18,979
 A resposta, amanhã.

@@ -8,7 +8,7 @@ How are caves carved out? 🕳️ The answer in one minute, with Noah, Mila and 
 
 Remember: Rainwater, slightly acidic, dissolves limestone drop by drop: millions of years later, a cave.
 
-🧪 Try it at home, with an adult: put a piece of chalk in a glass of vinegar. Bubbles! Come back the next day: the chalk has melted away.
+🧪 Try it at home, with an adult: put a piece of natural chalk in some vinegar… it makes bubbles! And the next day, the chalk has shrunk!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

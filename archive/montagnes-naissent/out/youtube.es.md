@@ -8,7 +8,7 @@
 
 Para recordar: Dos placas se empujan, la roca se pliega y sube: muy despacio, nace una montaña.
 
-🧪 Para probar en casa, con un adulto: pon toallas planas y empújalas desde los dos lados. ¡Los pliegues que suben son tus montañas!
+🧪 Para probar en casa, con un adulto: pon toallas planas, luego empújalas desde los dos lados… ¡los pliegues que suben son tus montañas!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

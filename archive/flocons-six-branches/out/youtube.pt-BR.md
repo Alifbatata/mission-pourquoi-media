@@ -8,7 +8,7 @@ Por que os flocos de neve têm seis pontas? ❄️ A resposta em um minuto, com 
 
 Para lembrar: O gelo se constrói em hexágonos; por isso cada floco cresce com seis pontas.
 
-🧪 Para experimentar em casa, com um adulto: num dia de neve, pegue flocos numa luva escura e olhe com uma lupa. Conte as pontas!
+🧪 Para experimentar em casa, com um adulto: num dia de neve, pegue flocos numa luva escura, olhe com uma lupa… e conte as pontas!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

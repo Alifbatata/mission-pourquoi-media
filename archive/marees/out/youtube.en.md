@@ -8,7 +8,7 @@ Why does the sea rise and fall? 🌙 The answer in one minute, with Noah, Mila a
 
 Remember: The Moon pulls on the ocean's water: two bulges of water, and the Earth turns beneath them.
 
-🧪 Try it at home, with an adult: at the beach, plant a stick where the sea reaches. Come back an hour later: it has moved! Rising or falling?
+🧪 Try it at home, with an adult: at the beach, plant a stick where the sea reaches. An hour later, the sea has moved… so, is it rising or falling?
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

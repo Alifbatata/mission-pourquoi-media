@@ -8,7 +8,7 @@ Pourquoi les saisons changent-elles ? 🍂 La réponse en une minute, avec Noah,
 
 À retenir : La Terre est penchée : la moitié penchée vers le Soleil a l'été, l'autre a l'hiver.
 
-🧪 À essayer à la maison, avec un adulte : éclaire une feuille avec une lampe, en face, puis en biais. En biais, la tache est plus grande et plus pâle : l'hiver !
+🧪 À essayer à la maison, avec un adulte : éclaire une feuille avec une lampe, en face, puis en biais. En biais, la tache est plus grande et plus pâle… c'est l'hiver !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

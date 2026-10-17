@@ -8,7 +8,7 @@ Como um ímã atrai o metal? 🧲 A resposta em um minuto, com Noah, Mila e seu 
 
 Para lembrar: O ímã alinha os mini-ímãs do ferro: o ferro vira ímã também, e é atraído.
 
-🧪 Para experimentar em casa, com um adulto: coloque clipes sobre uma folha de papel e passe um ímã por baixo. Eles deslizam sozinhos! Tente com uma moeda de cobre: nada.
+🧪 Para experimentar em casa, com um adulto: coloque clipes sobre uma folha e passe um ímã por baixo… eles deslizam sozinhos! Mas uma moeda de cobre não se mexe.
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

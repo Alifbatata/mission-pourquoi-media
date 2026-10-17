@@ -8,7 +8,7 @@
 
 Para recordar: El imán alinea los mini-imanes del hierro: el hierro se vuelve imán también, y es atraído.
 
-🧪 Para probar en casa, con un adulto: pon clips sobre una hoja de papel y mueve un imán por debajo. ¡Se deslizan solos! Prueba con una moneda de cobre: nada.
+🧪 Para probar en casa, con un adulto: pon clips sobre una hoja y pasa un imán por debajo… ¡se deslizan solos! Pero una moneda de cobre no se mueve.
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

@@ -1,139 +1,143 @@
 1
-00:00:03,109 --> 00:00:04,867
-The same tree: blossoms in spring,
+00:00:03,109 --> 00:00:05,349
+The same tree has blossoms in spring,
 
 2
-00:00:04,917 --> 00:00:06,622
-leaves in summer, snow in winter.
+00:00:05,399 --> 00:00:07,391
+leaves in summer, snow in winter…
 
 3
-00:00:06,672 --> 00:00:08,431
-Every year, the seasons come back.
+00:00:07,441 --> 00:00:09,731
+Why do the seasons change every year?
 
 4
-00:00:08,481 --> 00:00:09,704
-But why do they change?
-
-5
-00:00:10,508 --> 00:00:12,152
+00:00:10,528 --> 00:00:12,221
 Noah thinks Earth gets closer
 
-6
-00:00:12,202 --> 00:00:13,379
+5
+00:00:12,271 --> 00:00:13,483
 to the Sun in summer.
 
+6
+00:00:13,533 --> 00:00:15,106
+But Mila takes out a globe…
+
 7
-00:00:13,429 --> 00:00:15,833
-Mila takes out a globe: look, it's tilted!
+00:00:15,156 --> 00:00:15,827
+it's tilted!
 
 8
-00:00:15,883 --> 00:00:16,759
+00:00:15,877 --> 00:00:16,779
 That's the key.
 
 9
-00:00:17,552 --> 00:00:19,066
+00:00:17,572 --> 00:00:19,086
 Discovery mission!
 
 10
-00:00:21,582 --> 00:00:22,039
+00:00:21,602 --> 00:00:22,059
 Mini mode!
 
 11
-00:00:22,089 --> 00:00:23,968
+00:00:22,109 --> 00:00:23,988
 Earth goes around the Sun in one year,
 
 12
-00:00:24,018 --> 00:00:26,810
+00:00:24,038 --> 00:00:26,830
 and its axis stays tilted, always in the same direction.
 
 13
-00:00:26,860 --> 00:00:29,043
+00:00:26,880 --> 00:00:29,063
 So sometimes the North leans toward the Sun,
 
 14
-00:00:29,093 --> 00:00:30,717
+00:00:29,113 --> 00:00:30,737
 sometimes it leans away from it.
 
 15
-00:00:31,514 --> 00:00:34,977
-Leaning toward the Sun, the North gets the rays head-on:
+00:00:31,530 --> 00:00:34,730
+Leaning toward the Sun, the North gets the rays head-on,
 
 16
-00:00:35,027 --> 00:00:37,360
-they heat strongly, and days are long.
+00:00:34,780 --> 00:00:37,167
+so it heats up strongly and days are long…
 
 17
-00:00:37,410 --> 00:00:38,113
-It's summer!
+00:00:37,217 --> 00:00:37,864
+it's summer!
 
 18
-00:00:38,163 --> 00:00:41,939
-Leaning away, the rays come in at a slant and days are short:
+00:00:37,914 --> 00:00:40,533
+But leaning away, it gets the rays at a slant,
 
 19
-00:00:41,989 --> 00:00:42,428
-winter.
+00:00:40,583 --> 00:00:41,636
+and days are short…
 
 20
-00:00:43,238 --> 00:00:45,057
-And during the North's summer,
+00:00:41,686 --> 00:00:42,382
+it's winter.
 
 21
-00:00:45,107 --> 00:00:48,483
-the South leans the other way: down there, it's winter!
+00:00:43,188 --> 00:00:46,744
+During the North's summer, the South leans the other way,
 
 22
-00:00:48,533 --> 00:00:50,277
-Six months later, they swap.
+00:00:46,794 --> 00:00:48,452
+so down there, it's winter!
 
 23
-00:00:51,265 --> 00:00:52,353
-What about distance?
+00:00:48,502 --> 00:00:50,526
+And six months later, they swap.
 
 24
-00:00:52,403 --> 00:00:55,880
-Surprise: Earth is even a little closer to the Sun in January,
+00:00:51,311 --> 00:00:52,555
+And what about distance?
 
 25
-00:00:55,930 --> 00:00:57,473
-in the middle of our winter.
+00:00:52,605 --> 00:00:55,843
+In fact, Earth is even a little closer to the Sun in January,
 
 26
-00:00:57,523 --> 00:00:58,888
-Distance hardly matters.
+00:00:55,893 --> 00:00:57,352
+in the middle of our winter!
 
 27
-00:00:59,671 --> 00:01:01,592
-That's why the seasons change.
+00:00:57,402 --> 00:00:58,857
+So distance hardly matters.
 
 28
-00:01:03,229 --> 00:01:06,295
-Earth is tilted: the half tilted toward the Sun has summer,
+00:00:59,640 --> 00:01:01,602
+And that's why the seasons change.
 
 29
-00:01:06,345 --> 00:01:07,718
-the other half has winter.
+00:01:03,199 --> 00:01:06,265
+Earth is tilted: the half tilted toward the Sun has summer,
 
 30
-00:01:08,702 --> 00:01:11,884
-With an adult: shine a flashlight on a sheet of paper,
+00:01:06,315 --> 00:01:07,688
+the other half has winter.
 
 31
-00:01:11,934 --> 00:01:13,680
-straight on, then at an angle.
+00:01:08,685 --> 00:01:11,910
+With an adult: shine a flashlight on a sheet of paper,
 
 32
-00:01:13,730 --> 00:01:14,398
-At an angle,
+00:01:11,960 --> 00:01:13,729
+straight on, then at an angle.
 
 33
-00:01:14,448 --> 00:01:17,022
-the spot is bigger and weaker: like winter!
+00:01:13,779 --> 00:01:16,337
+At an angle, the spot is bigger and weaker…
 
 34
-00:01:17,811 --> 00:01:19,561
-And why is the sea salty?
+00:01:16,387 --> 00:01:17,114
+like winter!
 
 35
-00:01:19,611 --> 00:01:21,051
+00:01:17,881 --> 00:01:19,631
+And why is the sea salty?
+
+36
+00:01:19,681 --> 00:01:21,121
 The answer tomorrow.

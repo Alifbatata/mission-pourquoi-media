@@ -8,7 +8,7 @@ Why do astronauts float? 🧑‍🚀 The answer in one minute, with Noah, Mila a
 
 Remember: Astronauts float because they fall around the Earth, without ever reaching it.
 
-🧪 Try it at home, with an adult: jump off a small step. During the fall, your body doesn't feel its weight. One second as an astronaut!
+🧪 Try it at home, with an adult: jump off a small step. During the fall, your body doesn't feel its weight… one second as an astronaut!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

@@ -8,7 +8,7 @@ Why does the Moon change shape? 🌙 The answer in one minute, with Noah, Mila a
 
 Remember: The Moon is always half lit by the Sun; it's our viewing angle that changes.
 
-🧪 Try it at home, with an adult: in the dark, with a lamp on, hold a ball at arm's length. Turn around slowly: crescent, quarter, full Moon!
+🧪 Try it at home, with an adult: in the dark, turn on a lamp, hold a ball at arm's length, and turn around slowly… crescent, quarter, full Moon!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

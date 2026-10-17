@@ -8,7 +8,7 @@ How do we know dinosaurs existed? 🦖 The answer in one minute, with Noah, Mila
 
 Remember: Dinosaur bones turned to stone: fossils are the proof that they lived.
 
-🧪 Try it at home, with an adult: press a shell or a toy into modelling clay, then lift it off. Your print is a miniature fossil!
+🧪 Try it at home, with an adult: press a shell or a toy into modelling clay, then lift it off… your print is a miniature fossil!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

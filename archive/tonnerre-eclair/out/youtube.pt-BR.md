@@ -8,7 +8,7 @@ Por que ouvimos o trovão depois do relâmpago? ⚡ A resposta em um minuto, com
 
 Para lembrar: A luz do relâmpago chega na hora; o som do trovão demora para viajar.
 
-🧪 Para experimentar em casa, com um adulto: atrás da janela, quando vir o relâmpago, conte até o trovão. Três segundos por quilômetro: você sabe onde está a tempestade!
+🧪 Para experimentar em casa, com um adulto: atrás da janela, assim que vir o relâmpago, conte até o trovão… três segundos são um quilômetro!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

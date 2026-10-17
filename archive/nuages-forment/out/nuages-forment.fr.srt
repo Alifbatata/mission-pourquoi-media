@@ -11,109 +11,125 @@ Les nuages changent de forme sans arrêt.
 Mais de quoi sont-ils faits, et d'où viennent-ils ?
 
 4
-00:00:11,722 --> 00:00:15,463
-Dans la cuisine, Noah tient un couvercle froid au-dessus de la casserole :
+00:00:11,708 --> 00:00:12,814
+Dans la cuisine,
 
 5
-00:00:15,594 --> 00:00:17,406
-de la buée, puis des gouttes !
+00:00:12,931 --> 00:00:15,463
+Noah tient un couvercle froid au-dessus de la casserole…
 
 6
-00:00:17,535 --> 00:00:19,429
-Un nuage, ce serait ça ?
+00:00:15,648 --> 00:00:17,148
+et la buée devient des gouttes !
 
 7
-00:00:20,212 --> 00:00:21,726
-Mission découverte !
+00:00:17,263 --> 00:00:19,198
+Un nuage, ce serait ça ?
 
 8
-00:00:24,242 --> 00:00:25,225
-Mode mini !
+00:00:19,972 --> 00:00:21,486
+Mission découverte !
 
 9
-00:00:25,396 --> 00:00:28,445
-Le Soleil chauffe la mer, les lacs, les rivières :
+00:00:24,002 --> 00:00:24,985
+Mode mini !
 
 10
-00:00:28,820 --> 00:00:31,815
-l'eau s'évapore en vapeur invisible, mélangée à l'air.
+00:00:25,156 --> 00:00:28,219
+Le Soleil chauffe la mer, les lacs, les rivières :
 
 11
-00:00:31,928 --> 00:00:33,265
-Et l'air chaud monte.
+00:00:28,594 --> 00:00:31,643
+l'eau s'évapore en vapeur invisible, mélangée à l'air.
 
 12
-00:00:34,051 --> 00:00:36,162
-En montant, l'air refroidit.
+00:00:31,756 --> 00:00:33,216
+Et cet air chaud monte.
 
 13
-00:00:36,283 --> 00:00:38,394
-L'air froid ne garde pas autant de vapeur :
+00:00:34,001 --> 00:00:36,112
+En montant, l'air refroidit.
 
 14
-00:00:38,688 --> 00:00:42,470
-elle se colle sur des poussières minuscules et redevient de l'eau, en gouttelettes.
+00:00:36,233 --> 00:00:38,371
+Et l'air froid ne garde pas autant de vapeur…
 
 15
-00:00:43,285 --> 00:00:46,660
-Des milliards de gouttelettes, si petites et si légères qu'elles flottent :
+00:00:38,638 --> 00:00:41,577
+alors elle se colle sur des poussières minuscules et redevient de l'eau,
 
 16
-00:00:46,763 --> 00:00:48,358
-c'est ça, un nuage !
+00:00:41,627 --> 00:00:42,624
+en gouttelettes.
 
 17
-00:00:48,489 --> 00:00:50,124
-Quand elles grossissent et se collent,
+00:00:43,412 --> 00:00:44,871
+Des milliards de gouttelettes,
 
 18
-00:00:50,174 --> 00:00:51,660
-elles tombent : il pleut.
+00:00:44,934 --> 00:00:46,855
+si petites et si légères qu'elles flottent…
 
 19
-00:00:52,430 --> 00:00:54,256
-Dedans, c'est de la brume :
+00:00:46,972 --> 00:00:48,553
+c'est ça, un nuage !
 
 20
-00:00:54,373 --> 00:00:56,145
-des gouttes partout sur la verrière !
+00:00:48,670 --> 00:00:50,387
+Et quand elles grossissent et se collent,
 
 21
-00:00:56,264 --> 00:00:58,469
-Un nuage, ça se touche presque…
+00:00:50,437 --> 00:00:51,855
+elles tombent : il pleut.
 
 22
-00:00:58,519 --> 00:00:59,544
-et c'est tout mouillé.
+00:00:52,632 --> 00:00:54,445
+Dedans, c'est de la brume,
 
 23
-00:01:00,389 --> 00:01:02,378
-Voilà comment se forment les nuages.
+00:00:54,507 --> 00:00:56,170
+et des gouttes couvrent la verrière !
 
 24
+00:00:56,286 --> 00:00:58,491
+Un nuage, ça se touche presque…
+
+25
+00:00:58,541 --> 00:00:59,552
+et c'est tout mouillé.
+
+26
+00:01:00,330 --> 00:01:02,469
+Et voilà comment se forment les nuages.
+
+27
 00:01:03,875 --> 00:01:05,416
 L'air qui monte refroidit,
 
-25
+28
 00:01:05,560 --> 00:01:08,935
 et sa vapeur d'eau se change en milliards de gouttelettes : un nuage.
 
-26
-00:01:09,832 --> 00:01:11,033
+29
+00:01:09,831 --> 00:01:11,059
 Avec un adulte :
 
-27
-00:01:11,123 --> 00:01:13,954
+30
+00:01:11,135 --> 00:01:13,940
 tiens un couvercle froid au-dessus d'une casserole qui fume.
 
-28
-00:01:14,114 --> 00:01:16,986
-La vapeur redevient des gouttes : un mini-nuage !
+31
+00:01:14,101 --> 00:01:15,708
+La vapeur redevient des gouttes…
 
-29
-00:01:17,751 --> 00:01:20,420
+32
+00:01:15,758 --> 00:01:16,891
+un mini-nuage !
+
+33
+00:01:17,681 --> 00:01:20,350
 Et pourquoi les flocons de neige ont-ils six branches ?
 
-30
-00:01:20,535 --> 00:01:21,804
+34
+00:01:20,465 --> 00:01:21,734
 Réponse demain.

@@ -1,139 +1,147 @@
 1
-00:00:03,109 --> 00:00:04,943
-Un mismo árbol: flores en primavera,
+00:00:03,109 --> 00:00:05,379
+El mismo árbol tiene flores en primavera,
 
 2
-00:00:04,993 --> 00:00:06,775
-hojas en verano, nieve en invierno.
+00:00:05,429 --> 00:00:07,360
+hojas en verano, nieve en invierno…
 
 3
-00:00:06,825 --> 00:00:08,502
-Cada año, las estaciones vuelven.
+00:00:07,410 --> 00:00:09,731
+¿Por qué cambian las estaciones cada año?
 
 4
-00:00:08,552 --> 00:00:09,704
-Pero ¿por qué cambian?
-
-5
-00:00:10,508 --> 00:00:11,789
+00:00:10,528 --> 00:00:11,834
 Noah cree que la Tierra
 
-6
-00:00:11,839 --> 00:00:13,352
+5
+00:00:11,884 --> 00:00:13,427
 se acerca al Sol en verano.
 
+6
+00:00:13,477 --> 00:00:14,842
+Pero Mila saca un globo…
+
 7
-00:00:13,402 --> 00:00:15,783
-Mila saca un globo: ¡mira, está inclinado!
+00:00:14,892 --> 00:00:15,785
+¡está inclinado!
 
 8
-00:00:15,833 --> 00:00:16,759
+00:00:15,835 --> 00:00:16,779
 Esa es la clave.
 
 9
-00:00:17,552 --> 00:00:19,066
+00:00:17,572 --> 00:00:19,086
 ¡Misión descubrimiento!
 
 10
-00:00:21,582 --> 00:00:22,063
+00:00:21,602 --> 00:00:22,083
 ¡Modo mini!
 
 11
-00:00:22,113 --> 00:00:23,997
+00:00:22,133 --> 00:00:24,017
 La Tierra da la vuelta al Sol en un año,
 
 12
-00:00:24,047 --> 00:00:26,704
+00:00:24,067 --> 00:00:26,724
 y su eje sigue inclinado, siempre en la misma dirección.
 
 13
-00:00:26,754 --> 00:00:29,072
+00:00:26,774 --> 00:00:29,092
 Así que a veces el Norte se inclina hacia el Sol,
 
 14
-00:00:29,122 --> 00:00:30,717
+00:00:29,142 --> 00:00:30,737
 y a veces se inclina lejos de él.
 
 15
-00:00:31,514 --> 00:00:35,023
-Inclinado hacia el Sol, el Norte recibe los rayos de frente:
+00:00:31,530 --> 00:00:34,769
+Inclinado hacia el Sol, el Norte recibe los rayos de frente,
 
 16
-00:00:35,073 --> 00:00:37,396
-calientan fuerte, y los días son largos.
+00:00:34,819 --> 00:00:37,290
+así que calienta fuerte y los días son largos…
 
 17
-00:00:37,446 --> 00:00:38,048
-¡Es verano!
+00:00:37,340 --> 00:00:37,893
+¡es verano!
 
 18
-00:00:38,098 --> 00:00:38,997
-Inclinado lejos,
+00:00:37,943 --> 00:00:40,469
+Pero inclinado lejos, recibe los rayos de lado,
 
 19
-00:00:39,047 --> 00:00:42,428
-los rayos llegan de lado y los días son cortos: invierno.
+00:00:40,519 --> 00:00:41,674
+y los días son cortos…
 
 20
-00:00:43,238 --> 00:00:44,919
-Y durante el verano del Norte,
+00:00:41,724 --> 00:00:42,382
+es invierno.
 
 21
-00:00:44,969 --> 00:00:48,150
-el Sur se inclina hacia el otro lado: ¡allí es invierno!
+00:00:43,188 --> 00:00:46,863
+Durante el verano del Norte, el Sur se inclina hacia el otro lado,
 
 22
-00:00:48,200 --> 00:00:50,277
-Seis meses después, se intercambian.
+00:00:46,913 --> 00:00:48,331
+así que allí ¡es invierno!
 
 23
-00:00:51,265 --> 00:00:52,099
-¿Y la distancia?
+00:00:48,381 --> 00:00:50,526
+Y seis meses después, se intercambian.
 
 24
-00:00:52,149 --> 00:00:55,855
-Sorpresa: la Tierra está incluso un poco más cerca del Sol en enero,
+00:00:51,311 --> 00:00:52,016
+¿Y la distancia?
 
 25
-00:00:55,905 --> 00:00:57,292
-en pleno invierno nuestro.
+00:00:52,066 --> 00:00:55,223
+De hecho, la Tierra está incluso un poco más cerca del Sol en enero,
 
 26
-00:00:57,342 --> 00:00:58,888
-La distancia casi no cuenta.
+00:00:55,273 --> 00:00:57,109
+¡en pleno invierno del hemisferio norte!
 
 27
-00:00:59,671 --> 00:01:01,592
-Por eso cambian las estaciones.
+00:00:57,159 --> 00:00:58,857
+Así que la distancia casi no cuenta.
 
 28
-00:01:03,229 --> 00:01:06,569
-La Tierra está inclinada: la mitad inclinada hacia el Sol tiene verano,
+00:00:59,640 --> 00:01:01,602
+Y por eso cambian las estaciones.
 
 29
-00:01:06,619 --> 00:01:07,718
-la otra tiene invierno.
+00:01:03,199 --> 00:01:06,539
+La Tierra está inclinada: la mitad inclinada hacia el Sol tiene verano,
 
 30
-00:01:08,702 --> 00:01:11,606
-Con un adulto: ilumina una hoja con una linterna,
+00:01:06,589 --> 00:01:07,688
+la otra tiene invierno.
 
 31
-00:01:11,656 --> 00:01:13,174
-de frente y luego de lado.
+00:01:08,685 --> 00:01:11,650
+Con un adulto: ilumina una hoja con una linterna,
 
 32
-00:01:13,224 --> 00:01:15,887
-De lado, la mancha es más grande y más débil:
+00:01:11,700 --> 00:01:13,250
+de frente y luego de lado.
 
 33
-00:01:15,937 --> 00:01:17,022
-¡como el invierno!
+00:01:13,300 --> 00:01:13,742
+De lado,
 
 34
-00:01:17,811 --> 00:01:19,613
-¿Y por qué el mar es salado?
+00:01:13,792 --> 00:01:15,957
+la mancha es más grande y más débil…
 
 35
-00:01:19,663 --> 00:01:21,051
+00:01:16,007 --> 00:01:17,114
+¡como el invierno!
+
+36
+00:01:17,881 --> 00:01:19,683
+¿Y por qué el mar es salado?
+
+37
+00:01:19,733 --> 00:01:21,121
 La respuesta, mañana.

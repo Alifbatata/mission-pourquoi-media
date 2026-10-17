@@ -8,7 +8,7 @@ Qu'est-ce qu'on respire ? 🌬️ La réponse en une minute, avec Noah, Mila et 
 
 À retenir : L'air est un mélange de gaz ; ton corps garde l'oxygène et rejette du gaz carbonique et de l'eau.
 
-🧪 À essayer à la maison, avec un adulte : souffle sur un miroir froid. La buée, c'est l'eau de ton souffle. Compte combien de temps elle reste !
+🧪 À essayer à la maison, avec un adulte : souffle sur un miroir froid. Cette buée, c'est l'eau de ton souffle… compte combien de temps elle reste !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

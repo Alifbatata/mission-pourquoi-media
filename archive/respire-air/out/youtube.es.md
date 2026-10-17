@@ -8,7 +8,7 @@
 
 Para recordar: El aire es una mezcla de gases; tu cuerpo se queda con el oxígeno y suelta dióxido de carbono y agua.
 
-🧪 Para probar en casa, con un adulto: sopla sobre un espejo frío. El vaho es el agua de tu aliento. ¡Cuenta cuánto tiempo se queda!
+🧪 Para probar en casa, con un adulto: sopla sobre un espejo frío. Este vaho es el agua de tu aliento… ¡cuenta cuánto tiempo se queda!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

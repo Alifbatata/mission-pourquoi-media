@@ -1,127 +1,131 @@
 1
-00:00:03,068 --> 00:00:04,867
-Mmm, ça sent la pluie !
+00:00:03,082 --> 00:00:06,144
+Mmm, après l'averse, ça sent la terre mouillée !
 
 2
-00:00:05,024 --> 00:00:07,326
-L'odeur de terre mouillée après l'averse.
+00:00:06,288 --> 00:00:08,726
+Pourtant, l'eau du robinet ne sent rien…
 
 3
-00:00:07,511 --> 00:00:09,500
-Pourtant l'eau du robinet ne sent rien.
+00:00:08,883 --> 00:00:10,791
+Alors d'où vient l'odeur de la pluie ?
 
 4
-00:00:09,658 --> 00:00:11,280
-D'où vient l'odeur de la pluie ?
+00:00:11,615 --> 00:00:12,992
+Noah renifle un verre d'eau…
 
 5
-00:00:12,129 --> 00:00:14,607
-Noah renifle un verre d'eau : rien.
+00:00:13,042 --> 00:00:13,672
+rien !
 
 6
-00:00:14,751 --> 00:00:17,555
-Mila renifle de la terre mouillée : c'est là !
+00:00:13,843 --> 00:00:15,791
+Mais Mila renifle de la terre mouillée,
 
 7
-00:00:17,713 --> 00:00:20,015
-L'odeur vient du sol, pas de l'eau.
+00:00:15,841 --> 00:00:16,634
+et c'est là !
 
 8
-00:00:20,782 --> 00:00:22,296
-Mission découverte !
+00:00:16,792 --> 00:00:19,093
+L'odeur vient du sol, pas de l'eau.
 
 9
-00:00:24,812 --> 00:00:25,809
-Mode mini !
+00:00:19,872 --> 00:00:21,386
+Mission découverte !
 
 10
-00:00:25,922 --> 00:00:26,947
-Dans la terre,
+00:00:23,915 --> 00:00:24,899
+Mode mini !
 
 11
-00:00:27,132 --> 00:00:30,751
-des bactéries minuscules fabriquent un parfum : la géosmine.
+00:00:25,013 --> 00:00:25,997
+Dans la terre,
 
 12
-00:00:30,869 --> 00:00:32,654
-Les plantes y laissent aussi des huiles,
+00:00:26,182 --> 00:00:29,802
+des bactéries minuscules fabriquent un parfum : la géosmine.
 
 13
-00:00:32,731 --> 00:00:33,769
-les jours secs.
+00:00:29,916 --> 00:00:31,511
+Et les plantes y laissent des huiles,
 
 14
-00:00:33,928 --> 00:00:35,428
-Plein de parfums endormis !
+00:00:31,601 --> 00:00:32,393
+les jours secs…
 
 15
-00:00:36,204 --> 00:00:37,567
-Une goutte tombe sur la terre
+00:00:32,443 --> 00:00:33,930
+plein de parfums endormis !
 
 16
-00:00:37,617 --> 00:00:39,579
-et emprisonne de petites bulles d'air.
+00:00:34,724 --> 00:00:35,355
+Et là,
 
 17
-00:00:39,751 --> 00:00:43,560
-Les bulles remontent, éclatent, et projettent un brouillard minuscule,
+00:00:35,472 --> 00:00:38,276
+une goutte tombe sur la terre et emprisonne des bulles d'air.
 
 18
-00:00:43,623 --> 00:00:44,837
-chargé de parfums !
+00:00:38,406 --> 00:00:40,246
+Ces bulles remontent, éclatent…
 
 19
-00:00:45,611 --> 00:00:47,614
-Ces parfums volent jusqu'à ton nez.
+00:00:40,417 --> 00:00:43,561
+et projettent un brouillard minuscule, chargé de parfums !
 
 20
-00:00:47,731 --> 00:00:49,258
-Et ton nez est un champion :
+00:00:44,341 --> 00:00:46,344
+Ces parfums volent jusqu'à ton nez.
 
 21
-00:00:49,456 --> 00:00:52,179
-il sent la géosmine même à une goutte dans une piscine !
+00:00:46,461 --> 00:00:47,988
+Et ton nez est un champion :
 
 22
-00:00:53,642 --> 00:00:56,242
-Voilà pourquoi ça sent plus fort après des jours sans pluie :
+00:00:48,186 --> 00:00:50,909
+il sent la géosmine même à une goutte dans une piscine !
 
 23
-00:00:56,359 --> 00:00:58,063
-les parfums se sont accumulés.
+00:00:52,340 --> 00:00:54,953
+Après des jours sans pluie, ça sent plus fort,
 
 24
-00:00:58,177 --> 00:01:01,186
-Une petite pluie douce, et hop, tout s'envole.
+00:00:55,003 --> 00:00:56,979
+parce que les parfums se sont accumulés.
 
 25
-00:01:01,978 --> 00:01:04,021
-Voilà pourquoi la pluie a une odeur.
+00:00:57,097 --> 00:01:00,145
+Une petite pluie douce, et hop, tout s'envole !
 
 26
-00:01:05,505 --> 00:01:07,263
-L'odeur de la pluie vient du sol :
+00:01:00,930 --> 00:01:03,014
+Et voilà pourquoi la pluie a une odeur.
 
 27
-00:01:07,407 --> 00:01:10,402
-des parfums de bactéries et de plantes que les gouttes envoient dans l'air.
+00:01:04,475 --> 00:01:06,233
+L'odeur de la pluie vient du sol :
 
 28
-00:01:11,978 --> 00:01:14,144
-Avec un adulte, un jour sec :
+00:01:06,377 --> 00:01:09,372
+des parfums de bactéries et de plantes que les gouttes envoient dans l'air.
 
 29
-00:01:14,369 --> 00:01:17,146
-arrose un coin de terre, penche-toi et respire.
+00:01:10,948 --> 00:01:12,991
+Avec un adulte, un jour sec :
 
 30
-00:01:17,318 --> 00:01:19,633
-L'odeur de la pluie, faite par toi !
+00:01:13,190 --> 00:01:15,790
+arrose un coin de terre, penche-toi et respire…
 
 31
-00:01:20,411 --> 00:01:22,509
-Et pourquoi les étoiles scintillent-elles ?
+00:01:15,934 --> 00:01:18,141
+c'est l'odeur de la pluie, faite par toi !
 
 32
-00:01:22,638 --> 00:01:23,921
+00:01:18,921 --> 00:01:21,019
+Et pourquoi les étoiles scintillent-elles ?
+
+33
+00:01:21,148 --> 00:01:22,431
 Réponse demain.

@@ -8,7 +8,7 @@ Comment se creusent les grottes ? 🕳️ La réponse en une minute, avec Noah, 
 
 À retenir : L'eau de pluie, un peu acide, dissout le calcaire goutte à goutte : des millions d'années plus tard, une grotte.
 
-🧪 À essayer à la maison, avec un adulte : pose un bout de craie dans un verre de vinaigre. Des bulles ! Le lendemain, la craie a fondu.
+🧪 À essayer à la maison, avec un adulte : pose un bout de craie naturelle dans du vinaigre… ça fait des bulles ! Et le lendemain, la craie a rétréci !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

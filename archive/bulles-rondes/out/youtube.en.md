@@ -8,7 +8,7 @@ Why are bubbles round? 🫧 The answer in one minute, with Noah, Mila and their 
 
 Remember: The bubble's skin pulls to be as small as possible, and the smallest shape is the ball.
 
-🧪 Try it at home, with an adult: twist a piece of wire into a star, dip it in soapy water and blow. Still round?
+🧪 Try it at home, with an adult: twist a piece of wire into a star, dip it in soapy water and blow. Is it still round?
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

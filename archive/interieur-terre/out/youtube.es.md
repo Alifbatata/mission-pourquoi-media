@@ -8,7 +8,7 @@
 
 Para recordar: Bajo la corteza, un manto de roca ardiente, y luego un núcleo de hierro: líquido por fuera, sólido por dentro.
 
-🧪 Para probar en casa, con un adulto: corta un huevo duro por la mitad. La cáscara es la corteza; la clara, el manto; la yema, el núcleo, ¡que en realidad tiene dos partes!
+🧪 Para probar en casa, con un adulto: corta un huevo duro. Su cáscara es la corteza, la clara, el manto, y la yema, el núcleo… ¡que en realidad tiene dos partes!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

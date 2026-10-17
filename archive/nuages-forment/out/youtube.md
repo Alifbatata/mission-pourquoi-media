@@ -8,7 +8,7 @@ Comment se forment les nuages ? ☁️ La réponse en une minute, avec Noah, Mil
 
 À retenir : L'air qui monte refroidit, et sa vapeur d'eau se change en milliards de gouttelettes : un nuage.
 
-🧪 À essayer à la maison, avec un adulte : tiens un couvercle froid au-dessus d'une casserole qui fume. La vapeur redevient des gouttes : un mini-nuage !
+🧪 À essayer à la maison, avec un adulte : tiens un couvercle froid au-dessus d'une casserole qui fume. La vapeur redevient des gouttes… un mini-nuage !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

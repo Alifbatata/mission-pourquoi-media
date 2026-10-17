@@ -1,143 +1,143 @@
 1
-00:00:03,068 --> 00:00:03,385
+00:00:03,068 --> 00:00:03,402
 ¡Puaj!
 
 2
-00:00:03,435 --> 00:00:05,646
-Mila prueba una gota de mar: ¡salada!
+00:00:03,452 --> 00:00:05,260
+Esta gota de mar está salada,
 
 3
-00:00:05,696 --> 00:00:06,991
-Pero el agua del grifo
+00:00:05,310 --> 00:00:07,695
+mientras que el agua del río es dulce.
 
 4
-00:00:07,041 --> 00:00:08,458
-y la del río son dulces.
+00:00:07,745 --> 00:00:09,731
+Pero ¿por qué el mar es salado?
 
 5
-00:00:08,508 --> 00:00:10,098
-¿Por qué el mar es salado?
+00:00:10,555 --> 00:00:11,896
+Noah prueba el arroyo…
 
 6
-00:00:10,888 --> 00:00:12,914
-Noah prueba el arroyo: nada de sal.
+00:00:11,946 --> 00:00:12,908
+¡no está salado!
 
 7
-00:00:12,964 --> 00:00:15,702
-Y sin embargo, todos los arroyos y ríos corren…
+00:00:12,958 --> 00:00:13,793
+Y sin embargo,
 
 8
-00:00:15,752 --> 00:00:16,473
-hasta el mar.
+00:00:13,843 --> 00:00:16,688
+todos los arroyos y ríos corren hasta el mar.
 
 9
-00:00:16,523 --> 00:00:17,116
-¡Qué raro!
-
-10
-00:00:17,882 --> 00:00:19,396
+00:00:17,472 --> 00:00:18,986
 ¡Misión descubrimiento!
 
-11
-00:00:21,912 --> 00:00:22,514
+10
+00:00:21,515 --> 00:00:22,081
 ¡Modo mini!
 
-12
-00:00:22,564 --> 00:00:24,295
+11
+00:00:22,131 --> 00:00:23,762
 La lluvia es un poquito ácida.
 
+12
+00:00:23,812 --> 00:00:28,019
+Así que, al correr sobre las rocas, las desgasta y se lleva granitos de sal,
+
 13
-00:00:24,345 --> 00:00:25,837
-Al correr sobre las rocas,
+00:00:28,069 --> 00:00:30,366
+¡demasiado pocos para notarlos en el río!
 
 14
-00:00:25,887 --> 00:00:28,211
-las desgasta y se lleva granitos de sal.
-
-15
-00:00:28,261 --> 00:00:30,694
-¡Demasiado pocos para notarlos en el río!
-
-16
-00:00:31,505 --> 00:00:33,913
+00:00:31,185 --> 00:00:33,536
 Pero día tras día, durante millones de años,
 
-17
-00:00:33,963 --> 00:00:35,588
+15
+00:00:33,586 --> 00:00:35,173
 los ríos llevan su sal al mar.
 
+16
+00:00:35,223 --> 00:00:37,410
+Luego el agua vuelve al cielo como vapor,
+
+17
+00:00:37,460 --> 00:00:38,010
+sin la sal…
+
 18
-00:00:35,638 --> 00:00:38,213
-El agua vuelve al cielo como vapor, sin la sal:
+00:00:38,060 --> 00:00:39,479
+que se queda y se acumula.
 
 19
-00:00:38,263 --> 00:00:39,771
-ella se queda y se acumula.
+00:00:40,284 --> 00:00:41,548
+Y en el fondo del mar,
 
 20
-00:00:40,530 --> 00:00:41,646
-En el fondo del mar,
+00:00:41,598 --> 00:00:44,654
+agua calentada por volcanes sale llena de minerales…
 
 21
-00:00:41,696 --> 00:00:45,259
-agua calentada por volcanes sale llena de minerales: ¡más sal!
+00:00:44,704 --> 00:00:45,192
+¡más sal!
 
 22
-00:00:45,309 --> 00:00:45,784
-En total,
+00:00:45,242 --> 00:00:46,566
+Así que un vaso de agua
 
 23
-00:00:45,834 --> 00:00:49,097
-un vaso de agua de mar tiene casi dos cucharadas de sal.
+00:00:46,616 --> 00:00:48,587
+de mar tiene casi dos cucharadas.
 
 24
-00:00:49,871 --> 00:00:51,746
+00:00:49,351 --> 00:00:51,226
 Dos cucharadas de sal en un vaso:
 
 25
-00:00:51,796 --> 00:00:53,147
+00:00:51,276 --> 00:00:52,627
 ese es el sabor del mar.
 
 26
-00:00:53,197 --> 00:00:55,364
+00:00:52,677 --> 00:00:54,844
 Y como el agua siempre se va sin ella,
 
 27
-00:00:55,414 --> 00:00:56,697
+00:00:54,894 --> 00:00:56,177
 el mar seguirá salado.
 
 28
-00:00:57,498 --> 00:00:59,297
-Por eso el mar es salado.
+00:00:56,960 --> 00:00:58,840
+Y por eso el mar es salado.
 
 29
-00:01:01,025 --> 00:01:04,317
+00:01:00,505 --> 00:01:03,797
 La lluvia desgasta las rocas, los ríos llevan la sal al mar,
 
 30
-00:01:04,367 --> 00:01:05,759
+00:01:03,847 --> 00:01:05,239
 y el agua se va sin ella.
 
 31
-00:01:06,984 --> 00:01:10,221
+00:01:06,492 --> 00:01:09,735
 Con un adulto: pon agua muy salada en un plato,
 
 32
-00:01:10,271 --> 00:01:10,711
+00:01:09,785 --> 00:01:10,225
 al sol.
 
 33
-00:01:10,761 --> 00:01:12,529
+00:01:10,275 --> 00:01:12,047
 Cuando el agua desaparece…
 
 34
-00:01:12,579 --> 00:01:13,838
+00:01:12,097 --> 00:01:13,358
 ¡la sal sigue ahí!
 
 35
-00:01:14,611 --> 00:01:16,506
+00:01:14,141 --> 00:01:16,036
 ¿Y por qué el mar sube y baja?
 
 36
-00:01:16,556 --> 00:01:17,917
+00:01:16,086 --> 00:01:17,447
 La respuesta, mañana.

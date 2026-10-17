@@ -3,133 +3,137 @@
 Mila attrape un flocon sur sa moufle :
 
 2
-00:00:05,364 --> 00:00:07,408
+00:00:05,378 --> 00:00:07,353
 une étoile minuscule à six branches.
 
 3
-00:00:07,520 --> 00:00:09,414
-Un autre : six aussi !
+00:00:07,511 --> 00:00:08,344
+Puis un autre…
 
 4
-00:00:09,546 --> 00:00:11,779
-Jamais cinq, jamais sept..
+00:00:08,394 --> 00:00:11,389
+six aussi, jamais cinq, jamais sept !
 
 5
-00:00:11,940 --> 00:00:13,114
+00:00:11,519 --> 00:00:12,707
 Pourquoi six ?
 
 6
-00:00:13,900 --> 00:00:16,324
+00:00:13,490 --> 00:00:15,900
 À la loupe, chaque flocon est différent,
 
 7
-00:00:16,427 --> 00:00:17,818
+00:00:16,004 --> 00:00:17,408
 mais tous ont six branches.
 
 8
-00:00:17,994 --> 00:00:20,010
-Noah en dessine un avec trop de branches :
+00:00:17,598 --> 00:00:19,056
+Alors le dessin de Noah,
 
 9
-00:00:20,086 --> 00:00:21,600
-impossible dans la vraie vie !
+00:00:19,106 --> 00:00:21,394
+avec trop de branches, est impossible !
 
 10
-00:00:22,372 --> 00:00:23,886
+00:00:22,182 --> 00:00:23,696
 Mission découverte !
 
 11
-00:00:26,402 --> 00:00:27,385
+00:00:26,212 --> 00:00:27,195
 Mode mini !
 
 12
-00:00:27,502 --> 00:00:28,961
+00:00:27,312 --> 00:00:28,771
 Dans un nuage glacé,
 
 13
-00:00:29,119 --> 00:00:31,638
+00:00:28,929 --> 00:00:31,448
 une goutte très froide gèle sur un grain de poussière.
 
 14
-00:00:31,755 --> 00:00:34,436
+00:00:31,565 --> 00:00:34,246
 Puis la vapeur d'eau devient directement de la glace,
 
 15
-00:00:34,486 --> 00:00:35,537
+00:00:34,296 --> 00:00:35,347
 tout autour.
 
 16
-00:00:36,328 --> 00:00:39,282
+00:00:36,138 --> 00:00:39,092
 En gelant, les molécules d'eau se rangent toujours pareil :
 
 17
-00:00:39,412 --> 00:00:41,279
+00:00:39,222 --> 00:00:41,089
 en hexagones, à six côtés.
 
 18
-00:00:41,437 --> 00:00:43,725
+00:00:41,247 --> 00:00:43,535
 Le cristal grandit donc avec six côtés,
 
 19
-00:00:43,828 --> 00:00:45,015
+00:00:43,638 --> 00:00:44,825
 puis six branches.
 
 20
-00:00:45,792 --> 00:00:49,439
-En tombant, le flocon traverse de l'air plus ou moins froid et humide :
+00:00:45,601 --> 00:00:49,234
+En tombant, le flocon traverse de l'air plus ou moins froid et humide,
 
 21
-00:00:49,610 --> 00:00:51,219
-ses branches poussent autrement.
+00:00:49,351 --> 00:00:51,041
+alors ses branches poussent autrement.
 
 22
-00:00:51,348 --> 00:00:53,256
-Mais les six vivent la même histoire :
+00:00:51,173 --> 00:00:53,337
+Mais comme les six vivent la même histoire,
 
 23
-00:00:53,359 --> 00:00:54,574
+00:00:53,387 --> 00:00:54,616
 elles restent pareilles.
 
 24
-00:00:55,341 --> 00:00:57,669
+00:00:55,422 --> 00:00:57,628
 Et comme aucun flocon ne fait le même voyage,
 
 25
-00:00:57,719 --> 00:00:58,879
-aucun n'est pareil.
+00:00:57,691 --> 00:00:58,688
+aucun n'est pareil…
 
 26
-00:00:59,040 --> 00:01:02,184
-Des milliards d'étoiles à six branches, toutes différentes !
+00:00:58,859 --> 00:01:00,847
+il tombe des milliards d'étoiles à six branches,
 
 27
-00:01:02,968 --> 00:01:05,283
-Voilà pourquoi les flocons ont six branches.
+00:01:00,897 --> 00:01:02,085
+toutes différentes !
 
 28
-00:01:06,509 --> 00:01:08,430
-La glace se construit en hexagones ;
+00:01:02,880 --> 00:01:05,277
+Et voilà pourquoi les flocons ont six branches.
 
 29
-00:01:08,547 --> 00:01:10,876
-chaque flocon pousse donc avec six branches.
+00:01:06,439 --> 00:01:08,360
+La glace se construit en hexagones ;
 
 30
-00:01:11,719 --> 00:01:13,912
-Avec un adulte, un jour de neige :
+00:01:08,477 --> 00:01:10,806
+chaque flocon pousse donc avec six branches.
 
 31
-00:01:14,001 --> 00:01:17,485
-attrape des flocons sur un gant foncé, regarde-les à la loupe.
+00:01:11,591 --> 00:01:13,798
+Avec un adulte, un jour de neige :
 
 32
-00:01:17,599 --> 00:01:18,827
-Compte les branches !
+00:01:13,914 --> 00:01:17,249
+attrape des flocons sur un gant foncé, regarde-les à la loupe…
 
 33
-00:01:19,631 --> 00:01:21,579
-Et pourquoi les saisons changent-elles ?
+00:01:17,338 --> 00:01:18,580
+et compte les branches !
 
 34
-00:01:21,695 --> 00:01:22,951
+00:01:19,371 --> 00:01:21,319
+Et pourquoi les saisons changent-elles ?
+
+35
+00:01:21,435 --> 00:01:22,691
 Réponse demain.

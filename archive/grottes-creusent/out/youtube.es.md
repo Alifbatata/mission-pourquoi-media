@@ -8,7 +8,7 @@
 
 Para recordar: El agua de lluvia, un poco ácida, disuelve la caliza gota a gota: millones de años después, una cueva.
 
-🧪 Para probar en casa, con un adulto: pon un trozo de tiza en un vaso de vinagre. ¡Burbujas! Vuelve al día siguiente: la tiza se ha deshecho.
+🧪 Para probar en casa, con un adulto: pon un trozo de tiza natural en vinagre… ¡hace burbujas! ¡Y al día siguiente, la tiza ha encogido!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

@@ -8,7 +8,7 @@ Comment naissent les montagnes ? 🏔️ La réponse en une minute, avec Noah, M
 
 À retenir : Deux plaques se poussent, la roche se plisse et monte : très lentement, une montagne naît.
 
-🧪 À essayer à la maison, avec un adulte : pose des serviettes à plat et pousse-les des deux côtés. Les plis qui montent, ce sont tes montagnes !
+🧪 À essayer à la maison, avec un adulte : pose des serviettes à plat, puis pousse-les des deux côtés… les plis qui montent, ce sont tes montagnes !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

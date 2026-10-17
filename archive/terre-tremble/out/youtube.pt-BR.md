@@ -8,7 +8,7 @@ Por que a terra treme? 🌍 A resposta em um minuto, com Noah, Mila e seu veícu
 
 Para lembrar: As placas da Terra se movem e travam; quando soltam de repente, o chão treme.
 
-🧪 Para experimentar em casa, com um adulto: prenda uma régua flexível na beira de uma mesa, dobre a ponta, solte. Olhe o copo ao lado: ele treme!
+🧪 Para experimentar em casa, com um adulto: prenda uma régua flexível na beira de uma mesa, dobre a ponta, depois solte… o copo ao lado treme!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

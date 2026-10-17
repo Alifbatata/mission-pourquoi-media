@@ -1,123 +1,127 @@
 1
-00:00:03,082 --> 00:00:04,880
+00:00:03,082 --> 00:00:04,867
 Waouh, elle est immense !
 
 2
-00:00:05,024 --> 00:00:07,815
-Noah demande : qui a posé cette montagne là ?
+00:00:05,038 --> 00:00:07,394
+Noah se demande qui a posé cette montagne là…
 
 3
-00:00:07,929 --> 00:00:08,926
-Personne.
+00:00:07,497 --> 00:00:09,201
+personne, bien sûr !
 
 4
-00:00:09,101 --> 00:00:11,293
+00:00:09,372 --> 00:00:11,552
 Alors, comment naissent les montagnes ?
 
 5
-00:00:12,070 --> 00:00:13,584
-Regarde la falaise :
+00:00:12,310 --> 00:00:13,496
+Sur la falaise,
 
 6
-00:00:13,768 --> 00:00:16,328
+00:00:13,546 --> 00:00:16,093
 les couches de roche sont pliées comme un tapis froissé.
 
 7
-00:00:16,445 --> 00:00:18,801
-Et là, un coquillage dans la pierre !
+00:00:16,212 --> 00:00:18,634
+Et là, un coquillage est pris dans la pierre…
 
 8
-00:00:18,920 --> 00:00:20,461
-Au sommet d'une montagne ?
+00:00:18,684 --> 00:00:20,021
+au sommet d'une montagne ?
 
 9
-00:00:21,242 --> 00:00:22,756
+00:00:20,812 --> 00:00:22,326
 Mission découverte !
 
 10
-00:00:25,272 --> 00:00:26,255
+00:00:24,855 --> 00:00:25,839
 Mode mini !
 
 11
-00:00:26,413 --> 00:00:27,940
+00:00:25,996 --> 00:00:27,510
 Tu te souviens des plaques ?
 
 12
-00:00:28,055 --> 00:00:31,008
+00:00:27,681 --> 00:00:30,649
 Parfois, deux continents avancent l'un vers l'autre.
 
 13
-00:00:31,125 --> 00:00:34,813
-Trop légers pour s'enfoncer, ils se poussent, se poussent.
+00:00:30,762 --> 00:00:32,520
+Mais trop légers pour s'enfoncer,
 
 14
-00:00:35,580 --> 00:00:38,750
-Coincée entre les deux, la roche se plisse et s'épaissit,
+00:00:32,583 --> 00:00:34,463
+ils se poussent, se poussent.
 
 15
-00:00:38,800 --> 00:00:40,708
-comme un tapis qu'on pousse des deux côtés.
+00:00:35,309 --> 00:00:39,078
+Alors, coincée entre les deux, la roche se plisse et s'épaissit,
 
 16
-00:00:40,826 --> 00:00:43,209
-Et tout ça monte : voilà la montagne !
+00:00:39,140 --> 00:00:41,075
+comme un tapis qu'on pousse des deux côtés.
 
 17
-00:00:44,584 --> 00:00:47,946
-C'est très lent : l'Inde pousse l'Asie depuis cinquante millions d'années,
+00:00:41,189 --> 00:00:43,558
+Et tout ça monte : voilà la montagne !
 
 18
-00:00:48,008 --> 00:00:49,807
-et l'Himalaya grandit toujours.
+00:00:44,324 --> 00:00:47,794
+Mais c'est très lent : l'Inde pousse l'Asie depuis cinquante millions d'années,
 
 19
-00:00:49,978 --> 00:00:52,715
-Pendant ce temps, pluie et glace usent les sommets.
+00:00:47,871 --> 00:00:49,656
+et l'Himalaya grandit toujours.
 
 20
-00:00:53,612 --> 00:00:55,506
-Mila pousse les serviettes vers Noah :
+00:00:49,786 --> 00:00:52,563
+Pendant ce temps, pluie et glace usent les sommets.
 
 21
-00:00:55,622 --> 00:00:57,231
-elles se plissent et se soulèvent !
+00:00:53,344 --> 00:00:55,333
+Quand Mila pousse les serviettes vers Noah,
 
 22
-00:00:57,344 --> 00:00:58,640
-Et le coquillage ?
+00:00:55,410 --> 00:00:57,005
+elles se plissent et se soulèvent !
 
 23
-00:00:58,757 --> 00:01:01,833
-Il était au fond d'une mer, poussé jusqu'au ciel.
+00:00:57,117 --> 00:00:58,413
+Et le coquillage ?
 
 24
-00:01:02,632 --> 00:01:04,471
-Voilà comment naissent les montagnes.
+00:00:58,530 --> 00:01:01,606
+Il était au fond d'une mer, poussé jusqu'au ciel.
 
 25
-00:01:06,118 --> 00:01:08,990
-Deux plaques se poussent, la roche se plisse et monte :
+00:01:02,390 --> 00:01:04,338
+Et voilà comment naissent les montagnes.
 
 26
-00:01:09,093 --> 00:01:11,110
-très lentement, une montagne naît.
+00:01:05,908 --> 00:01:08,780
+Deux plaques se poussent, la roche se plisse et monte :
 
 27
-00:01:12,118 --> 00:01:13,318
-Avec un adulte :
+00:01:08,883 --> 00:01:10,900
+très lentement, une montagne naît.
 
 28
-00:01:13,368 --> 00:01:15,955
-pose des serviettes à plat et pousse-les des deux côtés.
+00:01:11,891 --> 00:01:14,437
+Avec un adulte : pose des serviettes à plat,
 
 29
-00:01:16,068 --> 00:01:18,655
-Les plis qui montent, ce sont tes montagnes !
+00:01:14,500 --> 00:01:16,041
+puis pousse-les des deux côtés…
 
 30
-00:01:19,602 --> 00:01:21,374
-Et comment se creusent les grottes ?
+00:01:16,280 --> 00:01:18,568
+les plis qui montent, ce sont tes montagnes !
 
 31
-00:01:21,489 --> 00:01:22,758
+00:01:19,392 --> 00:01:21,164
+Et comment se creusent les grottes ?
+
+32
+00:01:21,279 --> 00:01:22,548
 Réponse demain.

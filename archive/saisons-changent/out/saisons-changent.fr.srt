@@ -1,135 +1,147 @@
 1
-00:00:03,109 --> 00:00:05,368
-Le même arbre : fleurs au printemps,
+00:00:03,109 --> 00:00:04,989
+Le même arbre a des fleurs au printemps,
 
 2
-00:00:05,418 --> 00:00:07,421
-feuilles l'été, neige l'hiver.
+00:00:05,120 --> 00:00:07,448
+des feuilles l'été, de la neige l'hiver…
 
 3
-00:00:07,579 --> 00:00:09,704
+00:00:07,606 --> 00:00:09,731
 Pourquoi les saisons changent-elles chaque année ?
 
 4
-00:00:10,508 --> 00:00:11,463
+00:00:10,528 --> 00:00:11,456
 Noah croit que la Terre
 
 5
-00:00:11,513 --> 00:00:13,244
+00:00:11,506 --> 00:00:13,251
 s'approche du Soleil en été.
 
 6
-00:00:13,416 --> 00:00:15,608
-Mila sort un globe : il est penché !
+00:00:13,408 --> 00:00:14,636
+Mais Mila sort un globe…
 
 7
-00:00:15,721 --> 00:00:16,759
-C'est la clé.
+00:00:14,686 --> 00:00:15,615
+il est penché !
 
 8
-00:00:17,552 --> 00:00:19,066
-Mission découverte !
+00:00:15,741 --> 00:00:16,779
+C'est la clé.
 
 9
-00:00:21,582 --> 00:00:22,565
-Mode mini !
+00:00:17,572 --> 00:00:19,086
+Mission découverte !
 
 10
-00:00:22,750 --> 00:00:24,766
-La Terre tourne autour du Soleil en un an,
+00:00:21,602 --> 00:00:22,585
+Mode mini !
 
 11
-00:00:24,856 --> 00:00:26,845
-l'axe toujours penché du même côté.
+00:00:22,770 --> 00:00:24,786
+La Terre tourne autour du Soleil en un an,
 
 12
-00:00:27,016 --> 00:00:29,359
-Alors parfois le Nord penche vers le Soleil,
+00:00:24,876 --> 00:00:26,865
+l'axe toujours penché du même côté.
 
 13
-00:00:29,435 --> 00:00:30,717
-parfois loin de lui.
+00:00:27,036 --> 00:00:29,379
+Alors parfois le Nord penche vers le Soleil,
 
 14
-00:00:31,514 --> 00:00:34,740
-Penché vers le Soleil, le Nord reçoit les rayons en face :
+00:00:29,455 --> 00:00:30,737
+parfois loin de lui.
 
 15
-00:00:34,857 --> 00:00:36,968
-ça chauffe fort, les jours sont longs.
+00:00:31,530 --> 00:00:34,700
+Penché vers le Soleil, le Nord reçoit les rayons en face,
 
 16
-00:00:37,112 --> 00:00:37,892
-L'été !
+00:00:34,750 --> 00:00:36,439
+donc ça chauffe fort et les jours sont longs…
 
 17
-00:00:38,063 --> 00:00:41,289
-Penché loin : rayons en biais, jours courts.
+00:00:36,489 --> 00:00:37,337
+c'est l'été !
 
 18
-00:00:41,403 --> 00:00:42,428
-L'hiver.
+00:00:37,472 --> 00:00:40,181
+Mais penché loin, il reçoit les rayons en biais,
 
 19
-00:00:43,238 --> 00:00:44,439
-Pendant l'été du Nord,
+00:00:40,298 --> 00:00:41,348
+et les jours sont courts…
 
 20
-00:00:44,502 --> 00:00:47,931
-le Sud penche de l'autre côté : là-bas, c'est l'hiver !
+00:00:41,398 --> 00:00:42,382
+c'est l'hiver.
 
 21
-00:00:48,043 --> 00:00:50,277
-Six mois plus tard, on échange.
+00:00:43,188 --> 00:00:46,222
+Pendant l'été du Nord, le Sud penche de l'autre côté,
 
 22
-00:00:51,265 --> 00:00:52,439
-La distance ?
+00:00:46,272 --> 00:00:48,058
+donc là-bas, c'est l'hiver !
 
 23
-00:00:52,569 --> 00:00:55,836
-Surprise : la Terre est même plus près du Soleil en janvier,
+00:00:48,170 --> 00:00:50,526
+Et six mois plus tard, on échange.
 
 24
-00:00:55,939 --> 00:00:57,181
-en plein hiver chez nous !
+00:00:51,311 --> 00:00:52,580
+Et la distance ?
 
 25
-00:00:57,293 --> 00:00:58,888
-Ça ne compte presque pas.
+00:00:52,741 --> 00:00:55,736
+En fait, la Terre est même plus près du Soleil en janvier,
 
 26
-00:00:59,671 --> 00:01:01,592
-Voilà pourquoi les saisons changent.
+00:00:55,839 --> 00:00:57,026
+en plein hiver chez nous !
 
 27
-00:01:03,229 --> 00:01:04,430
-La Terre est penchée :
+00:00:57,140 --> 00:00:58,857
+Donc ça ne compte presque pas.
 
 28
-00:01:04,560 --> 00:01:07,718
-la moitié penchée vers le Soleil a l'été, l'autre a l'hiver.
+00:00:59,640 --> 00:01:01,602
+Et voilà pourquoi les saisons changent.
 
 29
-00:01:08,702 --> 00:01:11,613
-Avec un adulte : éclaire une feuille avec une lampe,
+00:01:03,199 --> 00:01:04,400
+La Terre est penchée :
 
 30
-00:01:11,663 --> 00:01:13,490
-en face, puis en biais.
+00:01:04,530 --> 00:01:07,688
+la moitié penchée vers le Soleil a l'été, l'autre a l'hiver.
 
 31
-00:01:13,647 --> 00:01:14,386
-En biais,
+00:01:08,685 --> 00:01:11,597
+Avec un adulte : éclaire une feuille avec une lampe,
 
 32
-00:01:14,476 --> 00:01:17,022
-la tache est plus grande et plus pâle : l'hiver !
+00:01:11,647 --> 00:01:13,460
+en face, puis en biais.
 
 33
-00:01:17,811 --> 00:01:19,678
-Et pourquoi la mer est-elle salée ?
+00:01:13,604 --> 00:01:14,248
+En biais,
 
 34
-00:01:19,796 --> 00:01:21,051
+00:01:14,378 --> 00:01:16,055
+la tache est plus grande et plus pâle…
+
+35
+00:01:16,144 --> 00:01:17,114
+c'est l'hiver !
+
+36
+00:01:17,881 --> 00:01:19,748
+Et pourquoi la mer est-elle salée ?
+
+37
+00:01:19,866 --> 00:01:21,121
 Réponse demain.

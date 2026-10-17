@@ -3,133 +3,137 @@
 Beurk !
 
 2
-00:00:04,016 --> 00:00:06,100
-Une goutte de mer : salée !
+00:00:04,017 --> 00:00:05,761
+Cette goutte de mer est salée,
 
 3
-00:00:06,232 --> 00:00:08,234
-Pourtant l'eau de la rivière est douce.
+00:00:05,824 --> 00:00:07,704
+alors que l'eau de la rivière est douce.
 
 4
-00:00:08,394 --> 00:00:10,098
-Pourquoi la mer est-elle salée ?
+00:00:07,851 --> 00:00:09,731
+Mais pourquoi la mer est-elle salée ?
 
 5
-00:00:10,888 --> 00:00:13,285
-Noah goûte le ruisseau : pas de sel.
+00:00:10,555 --> 00:00:11,974
+Noah goûte le ruisseau…
 
 6
-00:00:13,429 --> 00:00:14,168
-Pourtant,
+00:00:12,036 --> 00:00:13,101
+il n'est pas salé !
 
 7
-00:00:14,230 --> 00:00:16,232
-tous les ruisseaux et les rivières coulent jusqu'à la mer..
+00:00:13,273 --> 00:00:16,688
+Pourtant, ruisseaux et rivières coulent tous jusqu'à la mer.
 
 8
-00:00:16,282 --> 00:00:17,116
-Bizarre !
-
-9
-00:00:17,882 --> 00:00:19,396
+00:00:17,472 --> 00:00:18,986
 Mission découverte !
 
-10
-00:00:21,912 --> 00:00:22,895
+9
+00:00:21,515 --> 00:00:22,499
 Mode mini !
 
-11
-00:00:23,009 --> 00:00:24,889
+10
+00:00:22,612 --> 00:00:24,506
 La pluie est un petit peu acide.
 
+11
+00:00:24,667 --> 00:00:26,480
+Alors, en coulant sur les roches,
+
 12
-00:00:25,019 --> 00:00:26,368
-En coulant sur les roches,
+00:00:26,542 --> 00:00:30,366
+elle les use et emporte de minuscules grains de sel, trop peu pour les goûter !
 
 13
-00:00:26,418 --> 00:00:29,168
-elle les use et emporte de minuscules grains de sel.
-
-14
-00:00:29,303 --> 00:00:30,694
-Trop peu pour les goûter !
-
-15
-00:00:31,505 --> 00:00:33,032
+00:00:31,185 --> 00:00:32,712
 Mais pendant des millions d'années,
 
+14
+00:00:32,816 --> 00:00:34,832
+les rivières apportent leur sel à la mer.
+
+15
+00:00:35,003 --> 00:00:36,965
+Puis l'eau repart dans le ciel en vapeur,
+
 16
-00:00:33,108 --> 00:00:35,152
-les rivières apportent leur sel à la mer..
+00:00:37,109 --> 00:00:37,956
+sans le sel…
 
 17
-00:00:35,323 --> 00:00:37,176
-L'eau repart dans le ciel en vapeur,
+00:00:38,006 --> 00:00:39,479
+qui reste et s'accumule.
 
 18
-00:00:37,280 --> 00:00:39,771
-sans le sel : il reste et s'accumule.
+00:00:40,284 --> 00:00:41,499
+Et au fond de la mer,
 
 19
-00:00:40,530 --> 00:00:41,731
-Au fond de la mer,
+00:00:41,616 --> 00:00:44,312
+de l'eau chauffée par les volcans ressort pleine de minéraux…
 
 20
-00:00:41,875 --> 00:00:45,780
-de l'eau chauffée par les volcans ressort pleine de minéraux : encore du sel !
+00:00:44,415 --> 00:00:45,507
+encore du sel !
 
 21
-00:00:45,899 --> 00:00:47,331
-Dans un verre d'eau de mer :
+00:00:45,620 --> 00:00:46,453
+Un verre d'eau de mer
 
 22
-00:00:47,407 --> 00:00:49,097
-presque deux cuillères de sel.
+00:00:46,503 --> 00:00:48,587
+en contient donc presque deux cuillères.
 
 23
-00:00:49,871 --> 00:00:51,738
+00:00:49,351 --> 00:00:51,218
 Deux cuillères de sel dans un verre :
 
 24
-00:00:51,828 --> 00:00:53,110
-c'est le goût de la mer..
+00:00:51,308 --> 00:00:52,590
+c'est le goût de la mer.
 
 25
-00:00:53,227 --> 00:00:55,080
+00:00:52,707 --> 00:00:54,560
 Et comme l'eau repart toujours sans lui,
 
 26
-00:00:55,211 --> 00:00:56,697
+00:00:54,691 --> 00:00:56,177
 la mer reste salée.
 
 27
-00:00:57,498 --> 00:00:59,297
-Voilà pourquoi la mer est salée.
+00:00:56,960 --> 00:00:58,840
+Et voilà pourquoi la mer est salée.
 
 28
-00:01:01,025 --> 00:01:04,264
+00:01:00,505 --> 00:01:03,744
 La pluie use les roches, les rivières portent le sel à la mer,
 
 29
-00:01:04,367 --> 00:01:05,759
+00:01:03,848 --> 00:01:05,239
 et l'eau repart sans lui.
 
 30
-00:01:06,984 --> 00:01:08,213
+00:01:06,492 --> 00:01:07,706
 Avec un adulte :
 
 31
-00:01:08,329 --> 00:01:11,025
+00:01:07,823 --> 00:01:10,519
 mets de l'eau très salée dans une assiette, au soleil.
 
 32
-00:01:11,142 --> 00:01:13,838
-Quand l'eau a disparu, le sel est toujours là !
+00:01:10,636 --> 00:01:11,959
+Quand l'eau a disparu…
 
 33
-00:01:14,611 --> 00:01:16,546
-Et pourquoi la mer monte et descend ?
+00:01:12,103 --> 00:01:13,358
+le sel est toujours là !
 
 34
-00:01:16,662 --> 00:01:17,917
+00:01:14,141 --> 00:01:16,076
+Et pourquoi la mer monte et descend ?
+
+35
+00:01:16,192 --> 00:01:17,447
 Réponse demain.

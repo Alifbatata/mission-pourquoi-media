@@ -1,135 +1,139 @@
 1
-00:00:03,109 --> 00:00:05,418
+00:00:03,109 --> 00:00:05,303
 A Mila pega um floco na luva:
 
 2
-00:00:05,468 --> 00:00:08,021
+00:00:05,353 --> 00:00:07,780
 uma estrelinha, com seis pontas.
 
 3
-00:00:08,071 --> 00:00:08,509
-Outro…
+00:00:07,830 --> 00:00:08,786
+Depois outro…
 
 4
-00:00:08,559 --> 00:00:10,054
-seis pontas também!
+00:00:08,836 --> 00:00:11,650
+seis também, nunca cinco, nunca sete!
 
 5
-00:00:10,104 --> 00:00:12,007
-Nunca cinco, nunca sete.
-
-6
-00:00:12,057 --> 00:00:13,114
+00:00:11,700 --> 00:00:12,707
 Por que seis?
 
-7
-00:00:13,900 --> 00:00:15,938
+6
+00:00:13,490 --> 00:00:15,659
 Na lupa, cada floco é diferente,
 
-8
-00:00:15,988 --> 00:00:17,635
+7
+00:00:15,709 --> 00:00:17,461
 mas todos têm seis pontas.
 
+8
+00:00:17,511 --> 00:00:19,125
+Então o desenho do Noah,
+
 9
-00:00:17,685 --> 00:00:19,984
-O Noah desenha um com pontas demais:
+00:00:19,175 --> 00:00:21,394
+com pontas demais, é impossível!
 
 10
-00:00:20,034 --> 00:00:21,600
-impossível na vida real!
-
-11
-00:00:22,372 --> 00:00:23,886
+00:00:22,182 --> 00:00:23,696
 Missão descoberta!
 
-12
-00:00:26,402 --> 00:00:27,033
+11
+00:00:26,212 --> 00:00:26,843
 Modo mini!
 
-13
-00:00:27,083 --> 00:00:28,261
+12
+00:00:26,893 --> 00:00:28,071
 Numa nuvem gelada,
 
-14
-00:00:28,311 --> 00:00:31,806
+13
+00:00:28,121 --> 00:00:31,616
 uma gota muito fria congela num grãozinho de poeira.
 
-15
-00:00:31,856 --> 00:00:34,533
+14
+00:00:31,666 --> 00:00:34,343
 Depois o vapor de água vira gelo direto,
 
-16
-00:00:34,583 --> 00:00:35,537
+15
+00:00:34,393 --> 00:00:35,347
 em volta dele.
 
-17
-00:00:36,328 --> 00:00:39,753
+16
+00:00:36,138 --> 00:00:39,563
 Ao congelar, as moléculas de água se arrumam sempre igual:
 
-18
-00:00:39,803 --> 00:00:41,431
+17
+00:00:39,613 --> 00:00:41,241
 em hexágonos, de seis lados.
 
-19
-00:00:41,481 --> 00:00:43,707
+18
+00:00:41,291 --> 00:00:43,517
 Então o cristal cresce com seis lados,
 
-20
-00:00:43,757 --> 00:00:45,015
+19
+00:00:43,567 --> 00:00:44,825
 e depois seis pontas.
 
+20
+00:00:45,601 --> 00:00:48,872
+Caindo, o floco atravessa ar mais ou menos frio e úmido,
+
 21
-00:00:45,792 --> 00:00:49,205
-Caindo, o floco atravessa ar mais ou menos frio e úmido:
+00:00:48,922 --> 00:00:51,185
+então as pontas crescem de outro jeito.
 
 22
-00:00:49,255 --> 00:00:51,246
-as pontas crescem de outro jeito.
+00:00:51,235 --> 00:00:53,558
+Mas como as seis vivem a mesma história,
 
 23
-00:00:51,296 --> 00:00:54,574
-Mas as seis vivem a mesma história: continuam iguais.
+00:00:53,608 --> 00:00:54,616
+continuam iguais.
 
 24
-00:00:55,341 --> 00:00:58,191
+00:00:55,422 --> 00:00:58,080
 E como nenhum floco faz exatamente a mesma viagem,
 
 25
-00:00:58,241 --> 00:00:59,061
-nenhum é igual.
+00:00:58,130 --> 00:00:58,893
+nenhum é igual…
 
 26
-00:00:59,111 --> 00:01:02,184
-Bilhões de estrelas de seis pontas, todas diferentes!
+00:00:58,943 --> 00:01:02,085
+caem bilhões de estrelas de seis pontas, todas diferentes!
 
 27
-00:01:02,968 --> 00:01:05,283
-É por isso que os flocos têm seis pontas.
+00:01:02,880 --> 00:01:03,743
+E é por isso que
 
 28
-00:01:06,509 --> 00:01:08,322
-O gelo se constrói em hexágonos;
+00:01:03,793 --> 00:01:05,277
+os flocos têm seis pontas.
 
 29
-00:01:08,372 --> 00:01:10,876
-por isso cada floco cresce com seis pontas.
+00:01:06,439 --> 00:01:08,252
+O gelo se constrói em hexágonos;
 
 30
-00:01:11,719 --> 00:01:13,940
-Com um adulto, num dia de neve:
+00:01:08,302 --> 00:01:10,806
+por isso cada floco cresce com seis pontas.
 
 31
-00:01:13,990 --> 00:01:17,604
-pegue flocos numa luva escura e olhe com uma lupa.
+00:01:11,591 --> 00:01:13,752
+Com um adulto, num dia de neve:
 
 32
-00:01:17,654 --> 00:01:18,827
-Conte as pontas!
+00:01:13,802 --> 00:01:17,246
+pegue flocos numa luva escura, olhe com uma lupa…
 
 33
-00:01:19,631 --> 00:01:21,559
-E por que as estações mudam?
+00:01:17,296 --> 00:01:18,580
+e conte as pontas!
 
 34
-00:01:21,609 --> 00:01:22,951
+00:01:19,371 --> 00:01:21,299
+E por que as estações mudam?
+
+35
+00:01:21,349 --> 00:01:22,691
 A resposta, amanhã.

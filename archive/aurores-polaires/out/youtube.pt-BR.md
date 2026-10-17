@@ -8,7 +8,7 @@ Por que o céu se acende perto dos polos? 🌌 A resposta em um minuto, com Noah
 
 Para lembrar: Grãozinhos vindos do Sol, guiados aos polos pelo ímã da Terra, fazem o ar brilhar lá no alto.
 
-🧪 Para experimentar em casa, com um adulto: aproxime um ímã de uma bússola. A agulha gira! Ela sente o ímã, assim como sente a Terra.
+🧪 Para experimentar em casa, com um adulto: aproxime um ímã de uma bússola… e a agulha gira! Ela sente o ímã, assim como sente a Terra.
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

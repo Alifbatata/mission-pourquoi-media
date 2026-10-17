@@ -1,139 +1,127 @@
 1
-00:00:03,109 --> 00:00:05,907
-El pez abre y cierra la boca sin parar.
+00:00:03,109 --> 00:00:05,568
+El pez abre y cierra la boca sin parar,
 
 2
-00:00:05,957 --> 00:00:07,003
-¿Está bebiendo?
+00:00:05,618 --> 00:00:07,047
+¡pero no está bebiendo!
 
 3
-00:00:07,053 --> 00:00:07,295
-¡No!
+00:00:07,097 --> 00:00:09,749
+Mila ve sus ranuras moverse en el costado…
 
 4
-00:00:07,345 --> 00:00:08,974
-Mila ve las ranuras que
+00:00:09,799 --> 00:00:11,022
+respira, ¿pero qué?
 
 5
-00:00:09,024 --> 00:00:10,727
-se mueven en su costado.
+00:00:11,808 --> 00:00:13,686
+En el agua hay oxígeno invisible,
 
 6
-00:00:10,777 --> 00:00:11,311
-Respira…
+00:00:13,736 --> 00:00:15,731
+disuelto como el azúcar en el zumo…
 
 7
-00:00:11,361 --> 00:00:12,092
-¿pero qué?
+00:00:15,781 --> 00:00:18,118
+¡y las burbujitas en el vaso lo prueban!
 
 8
-00:00:12,871 --> 00:00:15,282
-En el agua hay oxígeno, invisible,
-
-9
-00:00:15,332 --> 00:00:17,816
-disuelto como el azúcar en el zumo.
-
-10
-00:00:17,866 --> 00:00:19,770
-¿Las burbujitas en el vaso?
-
-11
-00:00:19,820 --> 00:00:20,689
-¡Una prueba!
-
-12
-00:00:21,462 --> 00:00:22,976
+00:00:18,892 --> 00:00:20,406
 ¡Misión descubrimiento!
 
-13
-00:00:25,492 --> 00:00:26,066
+9
+00:00:22,922 --> 00:00:23,462
 ¡Modo mini!
 
-14
-00:00:26,116 --> 00:00:28,619
+10
+00:00:23,512 --> 00:00:25,878
 En el aire, el oxígeno está por todas partes.
 
-15
-00:00:28,669 --> 00:00:30,151
-En el agua hay mucho menos:
+11
+00:00:25,928 --> 00:00:27,596
+Pero en el agua hay mucho menos,
 
-16
-00:00:30,201 --> 00:00:34,002
-hace falta una herramienta especial para atraparlo: ¡las branquias!
+12
+00:00:27,646 --> 00:00:31,673
+así que hace falta una herramienta especial para atraparlo: ¡las branquias!
 
-17
-00:00:34,829 --> 00:00:37,433
+13
+00:00:32,499 --> 00:00:35,055
 El pez traga agua y la empuja sobre sus branquias:
 
-18
-00:00:37,483 --> 00:00:39,716
+14
+00:00:35,105 --> 00:00:37,296
 miles de filamentos rojos llenos de sangre.
 
-19
-00:00:39,766 --> 00:00:41,203
+15
+00:00:37,346 --> 00:00:38,755
 El oxígeno pasa a la sangre,
 
+16
+00:00:38,805 --> 00:00:40,421
+y el agua sale por las ranuras.
+
+17
+00:00:41,440 --> 00:00:42,493
+Pero fuera del agua,
+
+18
+00:00:42,543 --> 00:00:44,424
+los filamentos se pegan y se secan…
+
+19
+00:00:44,474 --> 00:00:45,417
+y el pez se ahoga.
+
 20
-00:00:41,253 --> 00:00:42,793
-el agua sale por las ranuras.
-
-21
-00:00:43,770 --> 00:00:46,685
-Fuera del agua, los filamentos se pegan y se secan:
-
-22
-00:00:46,735 --> 00:00:47,615
-el pez se ahoga.
-
-23
-00:00:47,665 --> 00:00:48,719
+00:00:45,467 --> 00:00:46,465
 Nosotros, al revés:
 
-24
-00:00:48,769 --> 00:00:51,850
+21
+00:00:46,515 --> 00:00:49,439
 nuestros pulmones no saben sacar el oxígeno del agua.
 
-25
-00:00:52,675 --> 00:00:53,157
-De cerca:
+22
+00:00:50,232 --> 00:00:50,705
+De cerca,
 
-26
-00:00:53,207 --> 00:00:56,763
+23
+00:00:50,755 --> 00:00:54,255
 el agua resbala sobre las branquias como sobre un peine rojo.
 
+24
+00:00:54,305 --> 00:00:56,524
+Pero ¿quién pone el oxígeno en el agua?
+
+25
+00:00:56,574 --> 00:00:58,495
+¡Es el plancton, algas diminutas!
+
+26
+00:00:59,270 --> 00:01:01,667
+Y así respiran los peces bajo el agua.
+
 27
-00:00:56,813 --> 00:00:58,891
-¿Y quién pone el oxígeno en el agua?
-
-28
-00:00:58,941 --> 00:01:00,833
-Plantas diminutas: ¡el plancton!
-
-29
-00:01:01,628 --> 00:01:03,889
-Así respiran los peces bajo el agua.
-
-30
-00:01:05,128 --> 00:01:06,884
+00:01:02,788 --> 00:01:04,544
 Los peces atrapan el oxígeno escondido
 
-31
-00:01:06,934 --> 00:01:08,598
+28
+00:01:04,594 --> 00:01:06,258
 en el agua gracias a sus branquias.
 
-32
-00:01:10,111 --> 00:01:15,313
+29
+00:01:07,788 --> 00:01:12,830
 Con un adulto, delante de un acuario: cuenta cuántas veces el pez abre la boca en un minuto,
 
-33
-00:01:15,363 --> 00:01:17,362
+30
+00:01:12,880 --> 00:01:14,818
 ¡y mira cómo se mueven sus ranuras!
 
-34
-00:01:18,151 --> 00:01:20,262
+31
+00:01:15,591 --> 00:01:17,702
 ¿Y por qué las burbujas son redondas?
 
-35
-00:01:20,312 --> 00:01:21,539
+32
+00:01:17,752 --> 00:01:18,979
 La respuesta, mañana.

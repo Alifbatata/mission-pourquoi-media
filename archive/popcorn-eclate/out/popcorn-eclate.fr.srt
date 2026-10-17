@@ -1,127 +1,123 @@
 1
-00:00:03,054 --> 00:00:05,560
-Dans la casserole, pop, pop !
+00:00:03,082 --> 00:00:05,764
+Dans la casserole, ça fait pop, pop !
 
 2
-00:00:05,688 --> 00:00:08,316
-Les petits grains durs deviennent de gros nuages blancs.
+00:00:05,921 --> 00:00:08,318
+Les petits grains durs deviennent de gros nuages blancs…
 
 3
-00:00:08,430 --> 00:00:09,917
-Que se passe-t-il là-dedans ?
+00:00:08,543 --> 00:00:09,962
+mais que se passe-t-il là-dedans ?
 
 4
-00:00:10,725 --> 00:00:12,388
+00:00:10,782 --> 00:00:12,404
 Mila regarde un grain à la loupe :
 
 5
-00:00:12,627 --> 00:00:15,432
+00:00:12,684 --> 00:00:15,488
 une coque dure, toute lisse, bien fermée.
 
 6
-00:00:15,548 --> 00:00:16,410
-Et dedans ?
+00:00:15,614 --> 00:00:17,602
+Et dedans, un peu d'eau se cache…
 
 7
-00:00:16,525 --> 00:00:18,283
-Un peu d'eau, cachée.
+00:00:17,652 --> 00:00:18,568
+c'est la clé !
 
 8
-00:00:18,415 --> 00:00:19,399
-C'est la clé !
-
-9
-00:00:20,162 --> 00:00:21,676
+00:00:19,342 --> 00:00:20,856
 Mission découverte !
 
-10
-00:00:24,192 --> 00:00:25,162
+9
+00:00:23,372 --> 00:00:24,355
 Mode mini !
 
+10
+00:00:24,469 --> 00:00:26,457
+Dans le grain, il y a de l'amidon,
+
 11
-00:00:25,319 --> 00:00:28,056
-Dans le grain : de l'amidon, un peu d'eau,
+00:00:26,507 --> 00:00:29,284
+un peu d'eau, et autour, une coque solide.
 
 12
-00:00:28,132 --> 00:00:30,094
-et autour, une coque solide.
+00:00:29,400 --> 00:00:32,095
+Quand on chauffe, l'eau devient de la vapeur.
 
 13
-00:00:30,208 --> 00:00:32,836
-On chauffe : l'eau devient de la vapeur.
+00:00:32,890 --> 00:00:35,870
+Cette vapeur veut sortir, mais la coque est fermée,
 
 14
-00:00:33,620 --> 00:00:36,560
-La vapeur veut sortir, mais la coque est fermée :
+00:00:35,920 --> 00:00:37,773
+alors la pression monte, monte…
 
 15
-00:00:36,650 --> 00:00:38,476
-la pression monte, monte…
+00:00:37,985 --> 00:00:40,559
+et vers cent quatre-vingts degrés, la coque craque !
 
 16
-00:00:38,638 --> 00:00:41,402
-Vers cent quatre-vingts degrés, la coque craque !
+00:00:41,892 --> 00:00:43,786
+D'un coup, la pression tombe,
 
 17
-00:00:42,638 --> 00:00:44,573
-D'un coup, la pression tombe :
+00:00:43,917 --> 00:00:47,495
+et l'amidon tout mou gonfle comme une mousse, puis durcit en refroidissant…
 
 18
-00:00:44,690 --> 00:00:47,834
-l'amidon tout mou gonfle comme une mousse et durcit en refroidissant.
+00:00:47,639 --> 00:00:49,724
+c'est un flocon blanc, bien plus gros !
 
 19
-00:00:47,947 --> 00:00:50,181
-Un flocon blanc, bien plus gros !
-
-20
-00:00:50,951 --> 00:00:52,560
+00:00:50,514 --> 00:00:52,069
 Et les grains qui n'éclatent pas ?
 
+20
+00:00:52,182 --> 00:00:54,809
+Leur coque est fissurée, ou ils sont trop secs,
+
 21
-00:00:52,676 --> 00:00:56,253
-Coque fissurée ou grain trop sec : la vapeur s'échappe,
+00:00:54,859 --> 00:00:56,236
+donc la pression ne monte pas…
 
 22
-00:00:56,303 --> 00:00:57,559
-la pression ne monte pas..
+00:00:56,286 --> 00:00:57,147
+pas de pop !
 
 23
-00:00:57,677 --> 00:00:58,715
-Pas de pop !
+00:00:57,930 --> 00:01:00,191
+Et voilà pourquoi le pop-corn éclate.
 
 24
-00:00:59,494 --> 00:01:01,647
-Voilà pourquoi le pop-corn éclate.
-
-25
-00:01:03,008 --> 00:01:06,329
+00:01:01,448 --> 00:01:04,769
 L'eau du grain devient vapeur, la pression fait craquer la coque,
 
-26
-00:01:06,405 --> 00:01:08,054
+25
+00:01:04,845 --> 00:01:06,494
 et l'amidon gonfle en mousse.
 
-27
-00:01:08,990 --> 00:01:10,245
+26
+00:01:07,430 --> 00:01:08,685
 Avec un adulte :
 
-28
-00:01:10,362 --> 00:01:12,895
+27
+00:01:08,802 --> 00:01:11,335
 regarde les grains à travers un couvercle en verre.
 
-29
-00:01:13,030 --> 00:01:13,959
+28
+00:01:11,470 --> 00:01:12,399
 Compte les pops…
 
-30
-00:01:14,103 --> 00:01:16,174
+29
+00:01:12,543 --> 00:01:14,614
 et cherche la coque dure sur chaque flocon !
 
-31
-00:01:16,961 --> 00:01:18,461
+30
+00:01:15,401 --> 00:01:16,901
 Et qu'est-ce qu'on respire ?
 
-32
-00:01:18,577 --> 00:01:19,859
+31
+00:01:17,017 --> 00:01:18,299
 Réponse demain.

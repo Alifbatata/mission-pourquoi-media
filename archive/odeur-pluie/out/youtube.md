@@ -8,7 +8,7 @@ Pourquoi la pluie a-t-elle une odeur ? 🌧️ La réponse en une minute, avec N
 
 À retenir : L'odeur de la pluie vient du sol : des parfums de bactéries et de plantes que les gouttes envoient dans l'air.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, un jour sec : arrose un coin de terre, penche-toi et respire. L'odeur de la pluie, faite par toi !
+🧪 À essayer à la maison, avec un adulte : un jour sec : arrose un coin de terre, penche-toi et respire… c'est l'odeur de la pluie, faite par toi !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

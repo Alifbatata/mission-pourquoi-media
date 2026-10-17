@@ -1,139 +1,135 @@
 1
-00:00:03,068 --> 00:00:03,235
-Hmm…
+00:00:03,082 --> 00:00:04,819
+Hmm, depois da pancada de chuva,
 
 2
-00:00:03,285 --> 00:00:04,106
-Cheiro de chuva!
+00:00:04,869 --> 00:00:06,383
+tem cheiro de terra molhada!
 
 3
-00:00:04,156 --> 00:00:06,988
-Aquele cheiro de terra molhada depois de uma pancada.
+00:00:06,433 --> 00:00:08,674
+Mas a água da torneira não cheira a nada…
 
 4
-00:00:07,038 --> 00:00:09,218
-Mas a água da torneira não cheira a nada.
-
-5
-00:00:09,268 --> 00:00:11,280
+00:00:08,724 --> 00:00:10,791
 Então, de onde vem o cheiro da chuva?
 
+5
+00:00:11,615 --> 00:00:13,332
+O Noah cheira um copo de água…
+
 6
-00:00:12,129 --> 00:00:14,406
-O Noah cheira um copo de água: nada.
+00:00:13,382 --> 00:00:13,626
+nada!
 
 7
-00:00:14,456 --> 00:00:17,120
-A Mila cheira um punhado de terra molhada:
+00:00:13,676 --> 00:00:16,335
+Mas a Mila cheira um punhado de terra molhada,
 
 8
-00:00:17,170 --> 00:00:17,573
-é isso!
+00:00:16,385 --> 00:00:16,865
+e é isso!
 
 9
-00:00:17,623 --> 00:00:19,189
+00:00:16,915 --> 00:00:18,337
 O cheiro não vem da água…
 
 10
-00:00:19,239 --> 00:00:20,015
+00:00:18,387 --> 00:00:19,093
 mas do chão.
 
 11
-00:00:20,782 --> 00:00:22,296
+00:00:19,872 --> 00:00:21,386
 Missão descoberta!
 
 12
-00:00:24,812 --> 00:00:25,355
+00:00:23,915 --> 00:00:24,507
 Modo mini!
 
 13
-00:00:25,405 --> 00:00:28,795
+00:00:24,557 --> 00:00:28,230
 Na terra vivem bactérias minúsculas que fabricam um aroma:
 
 14
-00:00:28,845 --> 00:00:29,447
+00:00:28,280 --> 00:00:28,937
 a geosmina.
 
 15
-00:00:29,497 --> 00:00:30,871
-As plantas, por sua vez,
+00:00:28,987 --> 00:00:31,890
+E as plantas deixam óleos nela nos dias secos…
 
 16
-00:00:30,921 --> 00:00:33,006
-deixam óleos no solo nos dias secos.
+00:00:31,940 --> 00:00:33,930
+um monte de aromas adormecidos!
 
 17
-00:00:33,056 --> 00:00:35,428
-O solo está cheio de aromas adormecidos.
+00:00:34,724 --> 00:00:35,022
+E aí,
 
 18
-00:00:36,204 --> 00:00:37,737
-Uma gota cai na terra:
+00:00:35,072 --> 00:00:38,293
+uma gota cai na terra e prende bolhinhas de ar.
 
 19
-00:00:37,787 --> 00:00:39,680
-ela prende bolhinhas de ar.
+00:00:38,343 --> 00:00:40,311
+Essas bolhas sobem, estouram…
 
 20
-00:00:39,730 --> 00:00:43,636
-As bolhas sobem, estouram e lançam uma névoa minúscula…
+00:00:40,361 --> 00:00:43,561
+e lançam uma névoa minúscula, cheia de aromas!
 
 21
-00:00:43,686 --> 00:00:44,837
-cheia de aromas!
-
-22
-00:00:45,611 --> 00:00:47,486
+00:00:44,341 --> 00:00:46,216
 Esses aromas voam até o seu nariz.
 
-23
-00:00:47,536 --> 00:00:48,845
+22
+00:00:46,266 --> 00:00:47,575
 E o seu nariz é campeão:
 
-24
-00:00:48,895 --> 00:00:52,179
+23
+00:00:47,625 --> 00:00:50,909
 sente a geosmina mesmo quando há só uma gota numa piscina!
 
+24
+00:00:52,340 --> 00:00:55,465
+Depois de dias sem chuva, o cheiro é mais forte,
+
 25
-00:00:53,642 --> 00:00:57,142
-Por isso o cheiro é mais forte depois de dias sem chuva:
+00:00:55,515 --> 00:00:57,516
+porque os aromas se acumularam.
 
 26
-00:00:57,192 --> 00:00:58,663
-os aromas se acumularam.
+00:00:57,566 --> 00:01:00,145
+Uma chuvinha suave, e pronto, tudo voa!
 
 27
-00:00:58,713 --> 00:01:01,186
-Uma chuvinha suave, e pronto, tudo voa.
+00:01:00,930 --> 00:01:03,014
+E é por isso que a chuva tem cheiro.
 
 28
-00:01:01,978 --> 00:01:04,021
-É por isso que a chuva tem cheiro.
-
-29
-00:01:05,505 --> 00:01:07,087
+00:01:04,475 --> 00:01:06,057
 O cheiro da chuva vem do solo:
 
-30
-00:01:07,137 --> 00:01:10,402
+29
+00:01:06,107 --> 00:01:09,372
 aromas de bactérias e plantas que as gotas mandam para o ar.
 
-31
-00:01:11,978 --> 00:01:13,913
+30
+00:01:10,948 --> 00:01:12,729
 Com um adulto, num dia seco:
 
+31
+00:01:12,779 --> 00:01:15,737
+regue um pedaço de terra, abaixe-se e respire…
+
 32
-00:01:13,963 --> 00:01:17,173
-regue um pedaço de terra, abaixe-se e respire.
+00:01:15,787 --> 00:01:18,141
+é o cheiro da chuva, feito por você!
 
 33
-00:01:17,223 --> 00:01:19,633
-O cheiro da chuva, feito por você!
-
-34
-00:01:20,411 --> 00:01:22,482
+00:01:18,921 --> 00:01:20,992
 E por que as estrelas piscam?
 
-35
-00:01:22,532 --> 00:01:23,921
+34
+00:01:21,042 --> 00:01:22,431
 A resposta, amanhã.

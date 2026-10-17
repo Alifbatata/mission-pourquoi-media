@@ -15,109 +15,121 @@ Mas do que elas são feitas?
 E de onde vêm?
 
 5
-00:00:11,722 --> 00:00:15,238
-Na cozinha, o Noah segura uma tampa fria sobre a panela:
+00:00:11,708 --> 00:00:12,443
+Na cozinha,
 
 6
-00:00:15,288 --> 00:00:16,576
-embaça, depois pinga!
+00:00:12,493 --> 00:00:15,581
+o Noah segura uma tampa fria sobre a panela…
 
 7
-00:00:16,626 --> 00:00:19,429
-A Mila desconfia: será que uma nuvem é isso?
+00:00:15,631 --> 00:00:17,293
+e o embaçado vira gotas!
 
 8
-00:00:20,212 --> 00:00:21,726
-Missão descoberta!
+00:00:17,343 --> 00:00:19,198
+Será que uma nuvem é isso?
 
 9
-00:00:24,242 --> 00:00:24,902
-Modo mini!
+00:00:19,972 --> 00:00:21,486
+Missão descoberta!
 
 10
-00:00:24,952 --> 00:00:27,105
-O Sol esquenta o mar, os lagos,
+00:00:24,002 --> 00:00:24,677
+Modo mini!
 
 11
-00:00:27,155 --> 00:00:28,810
-os rios: a água evapora.
+00:00:24,727 --> 00:00:27,579
+O Sol esquenta o mar, os lagos, os rios:
 
 12
-00:00:28,860 --> 00:00:31,865
-Ela vira vapor, invisível, misturado ao ar.
+00:00:27,629 --> 00:00:31,569
+a água evapora e vira vapor invisível, misturado ao ar.
 
 13
-00:00:31,915 --> 00:00:33,265
-E o ar quente sobe.
+00:00:31,619 --> 00:00:33,216
+E esse ar quente sobe.
 
 14
-00:00:34,051 --> 00:00:35,320
+00:00:34,001 --> 00:00:35,254
 Subindo, o ar esfria.
 
 15
-00:00:35,370 --> 00:00:38,148
-E o ar frio não consegue guardar tanto vapor:
+00:00:35,304 --> 00:00:38,045
+E o ar frio não consegue guardar tanto vapor…
 
 16
-00:00:38,198 --> 00:00:42,470
-ele gruda em poeirinhas minúsculas e vira água de novo, em gotinhas.
+00:00:38,095 --> 00:00:41,829
+então ele gruda em poeirinhas minúsculas e vira água de novo,
 
 17
-00:00:43,285 --> 00:00:47,134
-Bilhões de gotinhas, tão pequenas e leves que flutuam:
+00:00:41,879 --> 00:00:42,624
+em gotinhas.
 
 18
-00:00:47,184 --> 00:00:48,361
-isso é uma nuvem!
+00:00:43,412 --> 00:00:47,226
+Bilhões de gotinhas, tão pequenas e leves que flutuam…
 
 19
-00:00:48,411 --> 00:00:51,660
-Quando elas crescem e se juntam, caem: chove.
+00:00:47,276 --> 00:00:48,442
+isso é uma nuvem!
 
 20
-00:00:52,430 --> 00:00:55,859
-Lá dentro é neblina: gotas por toda a cúpula!
+00:00:48,492 --> 00:00:51,855
+E quando elas crescem e se juntam, caem: chove.
 
 21
-00:00:55,909 --> 00:00:58,179
-Uma nuvem quase dá para tocar…
+00:00:52,632 --> 00:00:54,055
+Lá dentro é neblina,
 
 22
-00:00:58,229 --> 00:00:59,544
-e é toda molhada.
+00:00:54,105 --> 00:00:56,042
+e as gotas cobrem a cúpula!
 
 23
-00:01:00,389 --> 00:01:02,378
-É assim que as nuvens se formam.
+00:00:56,092 --> 00:00:58,251
+Uma nuvem quase dá para tocar…
 
 24
+00:00:58,301 --> 00:00:59,552
+e é toda molhada.
+
+25
+00:01:00,330 --> 00:01:02,469
+E é assim que as nuvens se formam.
+
+26
 00:01:03,875 --> 00:01:05,153
 O ar que sobe esfria,
 
-25
+27
 00:01:05,203 --> 00:01:08,935
 e o vapor de água dele vira bilhões de gotinhas: uma nuvem.
 
-26
-00:01:09,832 --> 00:01:10,669
+28
+00:01:09,831 --> 00:01:10,664
 Com um adulto:
 
-27
-00:01:10,719 --> 00:01:14,277
+29
+00:01:10,714 --> 00:01:14,257
 segure uma tampa fria acima de uma panela soltando vapor.
 
-28
-00:01:14,327 --> 00:01:16,986
-O vapor vira gotas de novo: uma mininuvem!
-
-29
-00:01:17,751 --> 00:01:18,943
-E por que os flocos
-
 30
-00:01:18,993 --> 00:01:20,512
-de neve têm seis pontas?
+00:01:14,307 --> 00:01:15,959
+O vapor vira gotas de novo…
 
 31
-00:01:20,562 --> 00:01:21,804
+00:01:16,009 --> 00:01:16,891
+uma mininuvem!
+
+32
+00:01:17,681 --> 00:01:18,873
+E por que os flocos
+
+33
+00:01:18,923 --> 00:01:20,442
+de neve têm seis pontas?
+
+34
+00:01:20,492 --> 00:01:21,734
 A resposta, amanhã.

@@ -8,7 +8,7 @@ Pourquoi les flocons de neige ont-ils six branches ? ❄️ La réponse en une m
 
 À retenir : La glace se construit en hexagones ; chaque flocon pousse donc avec six branches.
 
-🧪 À essayer à la maison, avec un adulte : Avec un adulte, un jour de neige : attrape des flocons sur un gant foncé, regarde-les à la loupe. Compte les branches !
+🧪 À essayer à la maison, avec un adulte : un jour de neige : attrape des flocons sur un gant foncé, regarde-les à la loupe… et compte les branches !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

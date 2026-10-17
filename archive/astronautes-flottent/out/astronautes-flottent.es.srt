@@ -11,11 +11,11 @@ Noah y Mila flotan dentro de Curio!
 Pero ¿por qué?
 
 4
-00:00:09,145 --> 00:00:11,472
-Mila suelta su lápiz: ¡no cae!
+00:00:09,145 --> 00:00:11,892
+Cuando Mila suelta su lápiz, ¡no se cae!
 
 5
-00:00:11,522 --> 00:00:15,088
+00:00:11,942 --> 00:00:15,088
 Entonces, en el espacio, ¿ya no hay gravedad?
 
 6
@@ -23,117 +23,117 @@ Entonces, en el espacio, ¿ya no hay gravedad?
 ¡Misión descubrimiento!
 
 7
-00:00:19,902 --> 00:00:20,581
+00:00:19,915 --> 00:00:20,618
 ¡Modo mini!
 
 8
-00:00:20,631 --> 00:00:22,702
-Una caja, con una pelota dentro.
+00:00:20,668 --> 00:00:23,355
+Soltamos una caja con una pelota dentro.
 
 9
-00:00:22,752 --> 00:00:24,558
-Lo suelto todo: la caja cae,
+00:00:23,405 --> 00:00:24,176
+La caja cae…
 
 10
-00:00:24,608 --> 00:00:27,673
-y la pelota cae con ella, a la misma velocidad.
+00:00:24,226 --> 00:00:25,886
+y la pelota cae con ella,
 
 11
-00:00:27,723 --> 00:00:28,866
-Dentro de la caja…
+00:00:25,936 --> 00:00:27,323
+a la misma velocidad.
 
 12
-00:00:28,916 --> 00:00:30,043
-¡la pelota flota!
+00:00:27,373 --> 00:00:29,768
+Así que, dentro de la caja, ¡flota!
 
 13
-00:00:30,812 --> 00:00:32,937
-Lanza una pelota: cae al suelo.
+00:00:30,609 --> 00:00:32,824
+Lanza una pelota, y cae al suelo.
 
 14
-00:00:32,987 --> 00:00:34,900
-Más fuerte: llega más lejos.
+00:00:32,874 --> 00:00:34,746
+Más fuerte, llega más lejos.
 
 15
-00:00:34,950 --> 00:00:35,812
-¿Superfuerte?
+00:00:34,796 --> 00:00:35,775
+¿Y superfuerte?
 
 16
-00:00:35,862 --> 00:00:36,794
+00:00:35,825 --> 00:00:36,736
 Sigue cayendo…
 
 17
-00:00:36,844 --> 00:00:38,828
-¡pero no acierta a la Tierra,
+00:00:36,786 --> 00:00:38,521
+¡pero no da con la Tierra,
 
 18
-00:00:38,878 --> 00:00:40,421
+00:00:38,571 --> 00:00:40,081
 y gira a su alrededor!
 
 19
-00:00:41,201 --> 00:00:42,430
+00:00:40,871 --> 00:00:42,042
 ¡Eso es una órbita!
 
 20
-00:00:42,480 --> 00:00:44,248
-Curio va tan rápido que cae
+00:00:42,092 --> 00:00:45,641
+Curio va tan rápido que cae sin dar nunca con la Tierra,
 
 21
-00:00:44,298 --> 00:00:46,537
-fallando la Tierra una y otra vez.
+00:00:45,691 --> 00:00:46,283
+sin parar.
 
 22
-00:00:46,587 --> 00:00:48,153
-Noah y Mila caen con él…
+00:00:46,333 --> 00:00:48,275
+Y como Noah y Mila caen con él…
 
 23
-00:00:48,203 --> 00:00:49,280
-¡así que flotan!
+00:00:48,325 --> 00:00:48,840
+¡flotan!
 
 24
-00:00:50,201 --> 00:00:52,090
+00:00:49,871 --> 00:00:51,760
 Los astronautas de verdad, igual:
 
 25
-00:00:52,140 --> 00:00:54,382
+00:00:51,810 --> 00:00:54,052
 su estación cae alrededor de la Tierra.
 
 26
-00:00:54,432 --> 00:00:55,264
+00:00:54,102 --> 00:00:54,934
 ¡Y allá arriba,
 
 27
-00:00:55,314 --> 00:00:57,723
+00:00:54,984 --> 00:00:57,393
 la gravedad es casi tan fuerte como aquí!
 
 28
-00:00:58,504 --> 00:01:00,684
-Por eso flotan los astronautas.
+00:00:58,170 --> 00:01:00,512
+Y por eso flotan los astronautas.
 
 29
-00:01:02,001 --> 00:01:04,857
+00:01:01,671 --> 00:01:04,527
 Los astronautas flotan porque caen alrededor de la Tierra,
 
 30
-00:01:04,907 --> 00:01:06,259
+00:01:04,577 --> 00:01:05,929
 sin llegar nunca a tocarla.
 
 31
-00:01:07,042 --> 00:01:09,899
-Con un adulto: salta desde un escalón bajo.
+00:01:06,711 --> 00:01:09,528
+Con un adulto: salta desde un escalón pequeño.
 
 32
-00:01:09,949 --> 00:01:13,009
-Durante la caída, tu cuerpo no siente su peso.
+00:01:09,578 --> 00:01:12,395
+Durante la caída, tu cuerpo no siente su peso…
 
 33
-00:01:13,059 --> 00:01:14,817
-¡Un segundo de astronauta!
+00:01:12,445 --> 00:01:14,066
+¡un segundo de astronauta!
 
 34
-00:01:15,611 --> 00:01:17,806
+00:01:14,851 --> 00:01:17,046
 ¿Y por qué la Luna cambia de forma?
 
 35
-00:01:17,856 --> 00:01:19,202
+00:01:17,096 --> 00:01:18,442
 La respuesta, mañana.

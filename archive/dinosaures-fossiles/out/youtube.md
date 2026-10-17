@@ -8,7 +8,7 @@ Comment sait-on que les dinosaures ont existé ? 🦖 La réponse en une minute,
 
 À retenir : Les os des dinosaures sont devenus pierre : les fossiles sont la preuve qu'ils ont vécu.
 
-🧪 À essayer à la maison, avec un adulte : enfonce une coquille ou un jouet dans la pâte à modeler, retire-le. Ton empreinte, c'est un fossile en miniature !
+🧪 À essayer à la maison, avec un adulte : enfonce une coquille ou un jouet dans la pâte à modeler, puis retire-le… ton empreinte, c'est un fossile en miniature !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

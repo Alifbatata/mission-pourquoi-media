@@ -8,7 +8,7 @@ Como as cavernas se formam? 🕳️ A resposta em um minuto, com Noah, Mila e se
 
 Para lembrar: A água da chuva, um pouco ácida, dissolve o calcário gota a gota: milhões de anos depois, uma caverna.
 
-🧪 Para experimentar em casa, com um adulto: coloque um pedaço de giz num copo de vinagre. Bolhas! Volte no dia seguinte: o giz derreteu.
+🧪 Para experimentar em casa, com um adulto: coloque um pedaço de giz natural no vinagre… faz bolhas! E no dia seguinte, o giz encolheu!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

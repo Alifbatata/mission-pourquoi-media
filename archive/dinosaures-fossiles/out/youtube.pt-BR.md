@@ -8,7 +8,7 @@ Como a gente sabe que os dinossauros existiram? 🦖 A resposta em um minuto, co
 
 Para lembrar: Os ossos dos dinossauros viraram pedra: os fósseis são a prova de que eles viveram.
 
-🧪 Para experimentar em casa, com um adulto: afunde uma concha ou um brinquedo na massinha e tire. Sua marca é um fóssil em miniatura!
+🧪 Para experimentar em casa, com um adulto: afunde uma concha ou um brinquedo na massinha, depois tire… sua marca é um fóssil em miniatura!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

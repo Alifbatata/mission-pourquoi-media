@@ -8,7 +8,7 @@
 
 Para recordar: Los astronautas flotan porque caen alrededor de la Tierra, sin llegar nunca a tocarla.
 
-🧪 Para probar en casa, con un adulto: salta desde un escalón bajo. Durante la caída, tu cuerpo no siente su peso. ¡Un segundo de astronauta!
+🧪 Para probar en casa, con un adulto: salta desde un escalón pequeño. Durante la caída, tu cuerpo no siente su peso… ¡un segundo de astronauta!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

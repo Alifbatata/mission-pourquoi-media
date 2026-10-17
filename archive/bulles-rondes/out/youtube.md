@@ -8,7 +8,7 @@ Pourquoi les bulles sont-elles rondes ? 🫧 La réponse en une minute, avec Noa
 
 À retenir : La peau de la bulle tire pour être la plus petite possible, et la forme la plus petite, c'est la boule.
 
-🧪 À essayer à la maison, avec un adulte : tords un fil de fer en étoile, trempe-le dans l'eau savonneuse et souffle. Ronde quand même ?
+🧪 À essayer à la maison, avec un adulte : tords un fil de fer en étoile, trempe-le dans l'eau savonneuse et souffle. Elle est ronde quand même ?
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

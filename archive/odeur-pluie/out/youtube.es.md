@@ -8,7 +8,7 @@
 
 Para recordar: El olor de la lluvia viene del suelo: aromas de bacterias y plantas que las gotas lanzan al aire.
 
-🧪 Para probar en casa, con un adulto: un día seco, riega un rincón de tierra, agáchate y respira. ¡El olor de la lluvia, hecho por ti!
+🧪 Para probar en casa, con un adulto: un día seco, riega un rincón de tierra, agáchate y respira… ¡es el olor de la lluvia, hecho por ti!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

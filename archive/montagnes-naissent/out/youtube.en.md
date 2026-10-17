@@ -8,7 +8,7 @@ How are mountains born? 🏔️ The answer in one minute, with Noah, Mila and th
 
 Remember: Two plates push against each other, the rock folds and rises: very slowly, a mountain is born.
 
-🧪 Try it at home, with an adult: lay towels flat and push them from both sides. The folds that rise are your mountains!
+🧪 Try it at home, with an adult: lay towels flat, then push them from both sides… the folds that rise are your mountains!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

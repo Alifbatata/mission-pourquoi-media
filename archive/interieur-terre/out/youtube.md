@@ -8,7 +8,7 @@ Que cache l'intérieur de la Terre ? 🪨 La réponse en une minute, avec Noah, 
 
 À retenir : Sous la croûte, un manteau de roche brûlante, puis un noyau de fer : liquide dehors, solide dedans.
 
-🧪 À essayer à la maison, avec un adulte : coupe un œuf dur. Coquille, croûte. Blanc, manteau. Jaune, noyau, qui a deux parties en vrai !
+🧪 À essayer à la maison, avec un adulte : coupe un œuf dur. Sa coquille, c'est la croûte, le blanc, le manteau, et le jaune, le noyau… qui a deux parties en vrai !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

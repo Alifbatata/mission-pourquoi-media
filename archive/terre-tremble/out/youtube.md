@@ -8,7 +8,7 @@ Pourquoi la terre tremble-t-elle ? 🌍 La réponse en une minute, avec Noah, Mi
 
 À retenir : Les plaques de la Terre bougent et se coincent ; quand ça lâche d'un coup, le sol tremble.
 
-🧪 À essayer à la maison, avec un adulte : plaque une règle souple au bord d'une table, plie le bout, lâche. Le gobelet posé à côté tremble !
+🧪 À essayer à la maison, avec un adulte : plaque une règle souple au bord d'une table, plie le bout, puis lâche… le gobelet posé à côté tremble !
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

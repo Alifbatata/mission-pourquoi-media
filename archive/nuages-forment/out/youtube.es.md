@@ -8,7 +8,7 @@
 
 Para recordar: El aire que sube se enfría, y su vapor de agua se convierte en miles de millones de gotitas: una nube.
 
-🧪 Para probar en casa, con un adulto: sostén una tapa fría encima de una olla que humea. El vapor vuelve a ser gotas: ¡una mininube!
+🧪 Para probar en casa, con un adulto: sostén una tapa fría encima de una olla que humea. El vapor vuelve a ser gotas… ¡una mininube!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

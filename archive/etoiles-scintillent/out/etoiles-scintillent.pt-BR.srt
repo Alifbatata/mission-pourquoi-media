@@ -1,131 +1,139 @@
 1
-00:00:03,068 --> 00:00:06,577
-Olha: as estrelas piscam, como lampadinhas que tremem.
+00:00:03,068 --> 00:00:06,208
+Olha, as estrelas piscam como lampadinhas que tremem…
 
 2
-00:00:06,627 --> 00:00:09,543
-Aquela, rente ao horizonte, dança ainda mais!
+00:00:06,258 --> 00:00:09,038
+e aquela, rente ao horizonte, dança ainda mais!
 
 3
-00:00:09,593 --> 00:00:11,373
-Por que as estrelas piscam?
+00:00:09,088 --> 00:00:10,954
+Mas por que as estrelas piscam?
 
 4
-00:00:12,151 --> 00:00:13,405
-A Mila repara num ponto
+00:00:11,785 --> 00:00:12,910
+Mas a Mila vê um ponto
 
 5
-00:00:13,455 --> 00:00:15,277
+00:00:12,960 --> 00:00:14,673
 bem brilhante que não treme nada.
 
 6
-00:00:15,327 --> 00:00:16,921
-O Noah confere: é um planeta!
+00:00:14,723 --> 00:00:15,474
+O Noah confere…
 
 7
-00:00:16,971 --> 00:00:18,559
-Por que ele fica tão quieto?
+00:00:15,524 --> 00:00:16,169
+é um planeta!
 
 8
-00:00:19,332 --> 00:00:20,846
-Missão descoberta!
+00:00:16,219 --> 00:00:17,714
+Por que ele fica tão quieto?
 
 9
-00:00:23,362 --> 00:00:23,878
-Modo mini!
+00:00:18,482 --> 00:00:19,996
+Missão descoberta!
 
 10
-00:00:23,928 --> 00:00:25,520
-Entre a estrela e o seu olho,
+00:00:22,512 --> 00:00:23,028
+Modo mini!
 
 11
-00:00:25,570 --> 00:00:26,030
-tem o ar.
+00:00:23,078 --> 00:00:24,670
+Entre a estrela e o seu olho,
 
 12
-00:00:26,080 --> 00:00:30,221
-E o ar não está parado: bolsões de ar quente e frio se mexem o tempo todo,
+00:00:24,720 --> 00:00:25,180
+tem o ar.
 
 13
-00:00:30,271 --> 00:00:32,253
-como acima de uma estrada no verão.
+00:00:25,230 --> 00:00:29,371
+E o ar não está parado: bolsões de ar quente e frio se mexem o tempo todo,
 
 14
-00:00:33,031 --> 00:00:34,900
-Cada bolsão desvia um pouco a luz.
+00:00:29,421 --> 00:00:31,403
+como acima de uma estrada no verão.
 
 15
-00:00:34,950 --> 00:00:37,327
-A estrela está tão longe que é só um ponto:
+00:00:32,180 --> 00:00:34,071
+E cada bolsão desvia um pouco a luz.
 
 16
-00:00:37,377 --> 00:00:41,730
-o raiozinho dela pula para a direita, para a esquerda, mais forte, mais fraco.
+00:00:34,121 --> 00:00:36,390
+A estrela está tão longe que é só um ponto:
 
 17
-00:00:41,780 --> 00:00:42,345
-Ela pisca!
+00:00:36,440 --> 00:00:40,595
+o raiozinho dela pula para a direita, para a esquerda, mais forte, mais fraco…
 
 18
-00:00:43,111 --> 00:00:45,299
-O planeta, mais perto, é um disquinho,
+00:00:40,645 --> 00:00:41,184
+ela pisca!
 
 19
-00:00:45,349 --> 00:00:46,065
-não um ponto.
+00:00:41,950 --> 00:00:43,390
+Mas o planeta, mais perto,
 
 20
-00:00:46,115 --> 00:00:49,069
-Os raios dele passam por muitos bolsões diferentes:
+00:00:43,440 --> 00:00:45,052
+é um disquinho, não um ponto.
 
 21
-00:00:49,119 --> 00:00:51,652
-os pulos se misturam, e a luz fica estável.
+00:00:45,102 --> 00:00:47,974
+Os raios dele passam por muitos bolsões diferentes,
 
 22
-00:00:52,421 --> 00:00:54,124
-E lá em cima, acima do ar?
+00:00:48,024 --> 00:00:49,521
+então os pulos se misturam…
 
 23
-00:00:54,174 --> 00:00:57,022
-Nada mais treme: as estrelas brilham fixas.
+00:00:49,571 --> 00:00:50,774
+e a luz fica estável.
 
 24
-00:00:57,072 --> 00:01:00,443
-É por isso que mandamos telescópios para o espaço.
+00:00:51,554 --> 00:00:53,144
+E lá em cima, acima do ar?
 
 25
-00:01:01,232 --> 00:01:03,344
-É por isso que as estrelas piscam.
+00:00:53,194 --> 00:00:55,856
+Nada mais treme, as estrelas brilham fixas…
 
 26
-00:01:04,748 --> 00:01:06,380
-As estrelas brilham sem tremer;
+00:00:55,906 --> 00:00:59,060
+é por isso que mandamos telescópios para o espaço!
 
 27
-00:01:06,430 --> 00:01:09,631
-é o ar que se mexe acima de nós que faz a luz delas dançar.
+00:00:59,830 --> 00:01:02,023
+E é por isso que as estrelas piscam.
 
 28
-00:01:11,232 --> 00:01:12,838
-Com um adulto, no escuro:
+00:01:03,348 --> 00:01:04,980
+As estrelas brilham sem tremer;
 
 29
-00:01:12,888 --> 00:01:15,817
-ilumine o teto através de uma tigela de água.
+00:01:05,030 --> 00:01:08,231
+é o ar que se mexe acima de nós que faz a luz delas dançar.
 
 30
-00:01:15,867 --> 00:01:18,135
-Mexa a água: a mancha de luz dança,
+00:01:09,834 --> 00:01:11,456
+Com um adulto, no escuro:
 
 31
-00:01:18,185 --> 00:01:19,310
-como uma estrela!
+00:01:11,506 --> 00:01:14,466
+ilumine o teto através de uma tigela de água.
 
 32
-00:01:20,094 --> 00:01:22,233
-E o que é uma estrela cadente?
+00:01:14,516 --> 00:01:16,941
+Mexa a água, e a mancha de luz dança,
 
 33
-00:01:22,283 --> 00:01:23,669
+00:01:16,991 --> 00:01:18,128
+como uma estrela!
+
+34
+00:01:18,904 --> 00:01:21,043
+E o que é uma estrela cadente?
+
+35
+00:01:21,093 --> 00:01:22,479
 A resposta, amanhã.

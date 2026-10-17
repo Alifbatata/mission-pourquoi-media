@@ -8,7 +8,7 @@ Why does the sky light up near the poles? 🌌 The answer in one minute, with No
 
 Remember: Specks from the Sun, guided to the poles by Earth's magnet, make the air glow way up high.
 
-🧪 Try it at home, with an adult: bring a magnet near a compass. The needle turns! It feels the magnet, just as it feels the Earth.
+🧪 Try it at home, with an adult: bring a magnet near a compass… and the needle turns! It feels the magnet, just as it feels the Earth.
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

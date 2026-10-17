@@ -8,7 +8,7 @@ O que a Terra esconde por dentro? 🪨 A resposta em um minuto, com Noah, Mila e
 
 Para lembrar: Sob a crosta, um manto de rocha ardente, e depois um núcleo de ferro: líquido por fora, sólido por dentro.
 
-🧪 Para experimentar em casa, com um adulto: corte um ovo cozido ao meio. A casca é a crosta; a clara, o manto; a gema, o núcleo, que na verdade tem duas partes!
+🧪 Para experimentar em casa, com um adulto: corte um ovo cozido. A casca é a crosta, a clara, o manto, e a gema, o núcleo… que na verdade tem duas partes!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

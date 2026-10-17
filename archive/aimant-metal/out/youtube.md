@@ -8,7 +8,7 @@ Comment un aimant attire-t-il le métal ? 🧲 La réponse en une minute, avec N
 
 À retenir : L'aimant range les mini-aimants du fer dans le même sens : le fer devient aimant, et il est attiré.
 
-🧪 À essayer à la maison, avec un adulte : des trombones sur une feuille, un aimant dessous. Ils glissent tout seuls ! Essaie avec une pièce en cuivre : rien.
+🧪 À essayer à la maison, avec un adulte : pose des trombones sur une feuille, et passe un aimant dessous… ils glissent tout seuls ! Mais une pièce en cuivre ne bouge pas.
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

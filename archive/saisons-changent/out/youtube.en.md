@@ -8,7 +8,7 @@ Why do the seasons change? 🍂 The answer in one minute, with Noah, Mila and th
 
 Remember: Earth is tilted: the half tilted toward the Sun has summer, the other half has winter.
 
-🧪 Try it at home, with an adult: shine a flashlight on a sheet of paper, straight on, then at an angle. At an angle, the spot is bigger and weaker: like winter!
+🧪 Try it at home, with an adult: shine a flashlight on a sheet of paper, straight on, then at an angle. At an angle, the spot is bigger and weaker… like winter!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

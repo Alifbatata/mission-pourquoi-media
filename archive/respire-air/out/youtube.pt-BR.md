@@ -8,7 +8,7 @@ O que a gente respira? 🌬️ A resposta em um minuto, com Noah, Mila e seu ve�
 
 Para lembrar: O ar é uma mistura de gases; seu corpo fica com o oxigênio e solta gás carbônico e água.
 
-🧪 Para experimentar em casa, com um adulto: sopre em um espelho frio. O embaçado é a água da sua respiração. Conte quanto tempo ele fica!
+🧪 Para experimentar em casa, com um adulto: sopre em um espelho frio. Esse embaçado é a água da sua respiração… conte quanto tempo ele fica!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

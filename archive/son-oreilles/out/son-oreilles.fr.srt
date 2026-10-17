@@ -1,30 +1,30 @@
 1
-00:00:03,050 --> 00:00:06,099
-Mila pince l'élastique : il tremble et il chante !
+00:00:03,052 --> 00:00:06,142
+Quand Mila pince l'élastique, il tremble et il chante !
 
 2
-00:00:06,261 --> 00:00:07,951
-Noah l'entend au bout du labo.
+00:00:06,288 --> 00:00:07,992
+Noah l'entend au bout du labo…
 
 3
-00:00:08,064 --> 00:00:10,338
-Comment le son est-il arrivé jusqu'à lui ?
+00:00:08,272 --> 00:00:10,410
+mais comment le son est-il arrivé jusqu'à lui ?
 
 4
-00:00:11,185 --> 00:00:14,316
-Noah fait vibrer une règle : bzzz.
+00:00:11,249 --> 00:00:14,121
+Noah fait vibrer une règle, bzzz !
 
 5
-00:00:14,428 --> 00:00:16,837
-Mila parle, la main sur la gorge :
+00:00:14,235 --> 00:00:16,698
+Et quand Mila parle, la main sur la gorge,
 
 6
-00:00:16,887 --> 00:00:18,048
+00:00:16,748 --> 00:00:17,868
 ça tremble aussi !
 
 7
-00:00:18,164 --> 00:00:19,637
-Tout ce qui sonne vibre.
+00:00:17,985 --> 00:00:19,648
+Donc tout ce qui sonne vibre.
 
 8
 00:00:20,432 --> 00:00:21,946
@@ -35,85 +35,89 @@ Mission découverte !
 Mode mini !
 
 10
-00:00:25,559 --> 00:00:27,534
+00:00:25,616 --> 00:00:27,483
 L'élastique pousse l'air à côté.
 
 11
-00:00:27,668 --> 00:00:30,554
+00:00:27,600 --> 00:00:30,432
 Cet air pousse le suivant, qui pousse le suivant…
 
 12
-00:00:30,666 --> 00:00:33,009
-Une vague de poussées traverse la pièce !
+00:00:30,548 --> 00:00:32,728
+et une vague de poussées traverse la pièce !
 
 13
-00:00:33,835 --> 00:00:36,707
-L'air ne voyage pas : il tremble sur place.
+00:00:33,545 --> 00:00:36,540
+Mais l'air ne voyage pas, il tremble sur place.
 
 14
-00:00:36,835 --> 00:00:38,361
-C'est la poussée qui avance,
+00:00:36,654 --> 00:00:39,146
+C'est la poussée qui avance, comme la ola,
 
 15
-00:00:38,411 --> 00:00:41,310
-comme la ola dans un stade : les gens restent assis !
+00:00:39,209 --> 00:00:40,980
+où chacun reste à sa place !
 
 16
-00:00:42,149 --> 00:00:44,979
+00:00:41,792 --> 00:00:44,636
 Dans ton oreille, la vague fait trembler le tympan,
 
 17
-00:00:45,029 --> 00:00:46,054
+00:00:44,686 --> 00:00:45,696
 une peau fine.
 
 18
-00:00:46,184 --> 00:00:48,132
-Trois petits os la passent à la cochlée,
+00:00:45,854 --> 00:00:47,911
+Puis trois petits os la passent à la cochlée,
 
 19
-00:00:48,208 --> 00:00:50,347
-qui prévient le cerveau : tu entends !
+00:00:48,001 --> 00:00:50,194
+qui prévient le cerveau, et tu entends !
 
 20
-00:00:51,128 --> 00:00:54,924
-Dans l'espace, pas d'air, rien à pousser : aucun son !
+00:00:51,012 --> 00:00:53,394
+Mais dans l'espace, il n'y a pas d'air à pousser,
 
 21
-00:00:55,082 --> 00:00:57,193
-Mila crie, Noah n'entend rien…
+00:00:53,444 --> 00:00:54,482
+donc aucun son !
 
 22
-00:00:57,256 --> 00:00:58,511
-sauf par la radio.
+00:00:54,612 --> 00:00:56,751
+Mila crie, Noah n'entend rien…
 
 23
-00:00:59,292 --> 00:01:01,947
-Voilà comment le son voyage jusqu'à nos oreilles.
+00:00:56,813 --> 00:00:58,082
+sauf par la radio.
 
 24
-00:01:02,790 --> 00:01:04,181
-Ce qui fait du son vibre ;
+00:00:58,852 --> 00:01:01,670
+Et voilà comment le son voyage jusqu'à nos oreilles.
 
 25
-00:01:04,380 --> 00:01:07,510
-l'air passe la vibration de proche en proche jusqu'à ton tympan.
+00:01:02,450 --> 00:01:03,841
+Ce qui fait du son vibre ;
 
 26
-00:01:08,794 --> 00:01:11,775
-Avec un adulte : une règle au bord de la table,
+00:01:04,040 --> 00:01:07,170
+l'air passe la vibration de proche en proche jusqu'à ton tympan.
 
 27
-00:01:11,851 --> 00:01:13,637
-fais vibrer le bout qui dépasse.
+00:01:08,468 --> 00:01:09,642
+Avec un adulte :
 
 28
-00:01:13,781 --> 00:01:15,620
-Plus court : plus aigu !
+00:01:09,867 --> 00:01:12,590
+fais vibrer le bout d'une règle qui dépasse de la table.
 
 29
-00:01:16,401 --> 00:01:18,499
-Et pourquoi le pop-corn éclate-t-il ?
+00:01:12,734 --> 00:01:14,818
+Plus il est court, plus c'est aigu !
 
 30
-00:01:18,615 --> 00:01:19,884
+00:01:15,951 --> 00:01:18,049
+Et pourquoi le pop-corn éclate-t-il ?
+
+31
+00:01:18,165 --> 00:01:19,434
 Réponse demain.

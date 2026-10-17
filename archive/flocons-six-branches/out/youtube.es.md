@@ -8,7 +8,7 @@
 
 Para recordar: El hielo se construye en hexágonos; por eso cada copo crece con seis brazos.
 
-🧪 Para probar en casa, con un adulto: un día de nieve, atrapa copos en un guante oscuro y míralos con una lupa. ¡Cuenta los brazos!
+🧪 Para probar en casa, con un adulto: un día de nieve, atrapa copos en un guante oscuro, míralos con una lupa… ¡y cuenta los brazos!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

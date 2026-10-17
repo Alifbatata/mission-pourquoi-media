@@ -8,7 +8,7 @@ Why does rain have a smell? 🌧️ The answer in one minute, with Noah, Mila an
 
 Remember: The smell of rain comes from the soil: scents from bacteria and plants that the drops send into the air.
 
-🧪 Try it at home, with an adult: on a dry day, water a patch of soil, lean in and breathe. The smell of rain, made by you!
+🧪 Try it at home, with an adult: on a dry day, water a patch of soil, lean in and breathe… it's the smell of rain, made by you!
 
 Every day, a real question from a child and a real scientific answer, checked before it is told. For children aged 5 to 9, and for parents who have run out of answers.
 

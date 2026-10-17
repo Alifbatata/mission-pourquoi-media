@@ -8,7 +8,7 @@ Por que as bolhas são redondas? 🫧 A resposta em um minuto, com Noah, Mila e 
 
 Para lembrar: A pele da bolha puxa para ser a menor possível, e a forma menor é a bola.
 
-🧪 Para experimentar em casa, com um adulto: torça um arame em forma de estrela, molhe em água com sabão e sopre. Redonda mesmo assim?
+🧪 Para experimentar em casa, com um adulto: torça um arame em forma de estrela, molhe em água com sabão e sopre. Ela fica redonda mesmo assim?
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

@@ -1,143 +1,143 @@
 1
-00:00:03,068 --> 00:00:03,288
+00:00:03,068 --> 00:00:03,317
 Eca!
 
 2
-00:00:03,338 --> 00:00:05,857
-A Mila prova uma gota do mar: salgada!
+00:00:03,367 --> 00:00:05,339
+Esta gota do mar é salgada,
 
 3
-00:00:05,907 --> 00:00:07,344
-Mas a água da torneira
+00:00:05,389 --> 00:00:07,585
+enquanto a água do rio é doce.
 
 4
-00:00:07,394 --> 00:00:08,426
-e do rio é doce.
+00:00:07,635 --> 00:00:09,731
+Mas por que o mar é salgado?
 
 5
-00:00:08,476 --> 00:00:10,098
-Por que o mar é salgado?
+00:00:10,555 --> 00:00:11,988
+O Noah prova o riacho…
 
 6
-00:00:10,888 --> 00:00:13,018
-O Noah prova o riacho: nada de sal.
+00:00:12,038 --> 00:00:12,931
+não é salgado!
 
 7
-00:00:13,068 --> 00:00:15,883
-E mesmo assim, todos os riachos e rios correm…
+00:00:12,981 --> 00:00:13,875
+E mesmo assim,
 
 8
-00:00:15,933 --> 00:00:16,506
-até o mar.
+00:00:13,925 --> 00:00:16,688
+todos os riachos e rios correm até o mar.
 
 9
-00:00:16,556 --> 00:00:17,116
-Estranho!
-
-10
-00:00:17,882 --> 00:00:19,396
+00:00:17,472 --> 00:00:18,986
 Missão descoberta!
 
-11
-00:00:21,912 --> 00:00:22,498
+10
+00:00:21,515 --> 00:00:22,071
 Modo mini!
 
-12
-00:00:22,548 --> 00:00:24,344
+11
+00:00:22,121 --> 00:00:23,829
 A chuva é um pouquinho ácida.
 
+12
+00:00:23,879 --> 00:00:28,315
+Então, correndo sobre as rochas, ela as desgasta e leva grãozinhos de sal,
+
 13
-00:00:24,394 --> 00:00:25,935
-Correndo sobre as rochas,
+00:00:28,365 --> 00:00:30,366
+poucos demais para sentir no rio!
 
 14
-00:00:25,985 --> 00:00:28,544
-ela as desgasta e leva grãozinhos de sal.
-
-15
-00:00:28,594 --> 00:00:30,694
-Poucos demais para sentir no rio!
-
-16
-00:00:31,505 --> 00:00:33,817
+00:00:31,185 --> 00:00:33,419
 Mas dia após dia, por milhões de anos,
 
-17
-00:00:33,867 --> 00:00:35,681
+15
+00:00:33,469 --> 00:00:35,222
 os rios trazem seu sal ao mar.
 
+16
+00:00:35,272 --> 00:00:37,505
+Depois a água volta ao céu como vapor,
+
+17
+00:00:37,555 --> 00:00:38,106
+sem o sal…
+
 18
-00:00:35,731 --> 00:00:37,608
-A água volta ao céu como vapor,
+00:00:38,156 --> 00:00:39,479
+que fica e se acumula.
 
 19
-00:00:37,658 --> 00:00:39,771
-sem o sal: ele fica, e se acumula.
+00:00:40,284 --> 00:00:41,411
+E no fundo do mar,
 
 20
-00:00:40,530 --> 00:00:41,481
-No fundo do mar,
+00:00:41,461 --> 00:00:44,549
+água aquecida por vulcões sai cheia de minerais…
 
 21
-00:00:41,531 --> 00:00:45,108
-água aquecida por vulcões sai cheia de minerais: mais sal!
+00:00:44,599 --> 00:00:45,138
+mais sal!
 
 22
-00:00:45,158 --> 00:00:45,670
-No total,
+00:00:45,188 --> 00:00:46,510
+Então um copo de água
 
 23
-00:00:45,720 --> 00:00:49,097
-um copo de água do mar tem quase duas colheres de sal.
+00:00:46,560 --> 00:00:48,587
+do mar tem quase duas colheres.
 
 24
-00:00:49,871 --> 00:00:51,571
+00:00:49,351 --> 00:00:51,051
 Duas colheres de sal num copo:
 
 25
-00:00:51,621 --> 00:00:52,855
+00:00:51,101 --> 00:00:52,335
 esse é o gosto do mar.
 
 26
-00:00:52,905 --> 00:00:55,189
+00:00:52,385 --> 00:00:54,669
 E como a água sempre vai embora sem ele,
 
 27
-00:00:55,239 --> 00:00:56,697
+00:00:54,719 --> 00:00:56,177
 o mar continuará salgado.
 
 28
-00:00:57,498 --> 00:00:59,297
-É por isso que o mar é salgado.
+00:00:56,960 --> 00:00:58,840
+E é por isso que o mar é salgado.
 
 29
-00:01:01,025 --> 00:01:04,112
+00:01:00,505 --> 00:01:03,592
 A chuva desgasta as rochas, os rios levam o sal ao mar,
 
 30
-00:01:04,162 --> 00:01:05,759
+00:01:03,642 --> 00:01:05,239
 e a água vai embora sem ele.
 
 31
-00:01:06,984 --> 00:01:07,923
+00:01:06,492 --> 00:01:07,433
 Com um adulto:
 
 32
-00:01:07,973 --> 00:01:10,962
+00:01:07,483 --> 00:01:10,477
 coloque água bem salgada num prato, no sol.
 
 33
-00:01:11,012 --> 00:01:12,375
+00:01:10,527 --> 00:01:11,893
 Quando a água sumir…
 
 34
-00:01:12,425 --> 00:01:13,838
+00:01:11,943 --> 00:01:13,358
 o sal ainda está lá!
 
 35
-00:01:14,611 --> 00:01:16,558
+00:01:14,141 --> 00:01:16,088
 E por que o mar sobe e desce?
 
 36
-00:01:16,608 --> 00:01:17,917
+00:01:16,138 --> 00:01:17,447
 A resposta, amanhã.

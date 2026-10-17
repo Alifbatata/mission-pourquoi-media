@@ -8,7 +8,7 @@ Por que os astronautas flutuam? 🧑‍🚀 A resposta em um minuto, com Noah, M
 
 Para lembrar: Os astronautas flutuam porque caem ao redor da Terra, sem nunca chegar nela.
 
-🧪 Para experimentar em casa, com um adulto: pule de um degrau baixo. Durante a queda, seu corpo não sente o próprio peso. Um segundo de astronauta!
+🧪 Para experimentar em casa, com um adulto: pule de um degrau baixinho. Durante a queda, seu corpo não sente o próprio peso… um segundo de astronauta!
 
 Todo dia, uma pergunta de verdade de uma criança e uma resposta científica de verdade, verificada antes de ser contada. Para crianças de 5 a 9 anos, e para os pais que já não sabem o que responder.
 

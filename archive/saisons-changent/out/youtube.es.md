@@ -8,7 +8,7 @@
 
 Para recordar: La Tierra está inclinada: la mitad inclinada hacia el Sol tiene verano, la otra tiene invierno.
 
-🧪 Para probar en casa, con un adulto: ilumina una hoja con una linterna, de frente y luego de lado. De lado, la mancha es más grande y más débil: ¡como el invierno!
+🧪 Para probar en casa, con un adulto: ilumina una hoja con una linterna, de frente y luego de lado. De lado, la mancha es más grande y más débil… ¡como el invierno!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

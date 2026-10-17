@@ -1,139 +1,139 @@
 1
-00:00:03,052 --> 00:00:06,981
+00:00:03,051 --> 00:00:07,082
 Safe inside Curio, Noah and Mila watch the storm.
 
 2
-00:00:07,031 --> 00:00:07,793
-Lightning!
+00:00:07,132 --> 00:00:07,915
+Lightning…
 
 3
-00:00:07,843 --> 00:00:09,092
-One, two, three…
+00:00:07,965 --> 00:00:11,164
+and three seconds later, BOOM, thunder!
 
 4
-00:00:09,142 --> 00:00:09,498
-BOOM!
+00:00:11,214 --> 00:00:12,213
+Why so late?
 
 5
-00:00:09,548 --> 00:00:12,308
-Why does the thunder come so late?
+00:00:12,991 --> 00:00:14,315
+Mila counts every time…
 
 6
-00:00:13,080 --> 00:00:14,403
-Mila counts every time.
+00:00:14,365 --> 00:00:16,644
+sometimes three seconds, sometimes ten!
 
 7
-00:00:14,453 --> 00:00:16,730
-Sometimes three seconds, sometimes ten!
+00:00:16,694 --> 00:00:17,839
+It's as if the noise
 
 8
-00:00:16,780 --> 00:00:19,227
-As if the noise were dawdling on the way…
+00:00:17,889 --> 00:00:19,382
+were dawdling on the way…
 
 9
-00:00:20,022 --> 00:00:21,536
+00:00:20,172 --> 00:00:21,686
 Discovery mission!
 
 10
-00:00:24,065 --> 00:00:24,604
+00:00:24,202 --> 00:00:24,746
 Mini mode!
 
 11
-00:00:24,654 --> 00:00:27,845
-Lightning is burning hot: it heats the air all at once,
+00:00:24,796 --> 00:00:28,019
+Lightning is burning hot, it heats the air all at once,
 
 12
-00:00:27,895 --> 00:00:29,023
+00:00:28,069 --> 00:00:29,208
 hotter than the Sun!
 
 13
-00:00:29,073 --> 00:00:31,262
-The air swells so fast that it cracks:
+00:00:29,258 --> 00:00:31,648
+So the air swells so fast that it cracks…
 
 14
-00:00:31,312 --> 00:00:32,196
-that's thunder.
+00:00:31,698 --> 00:00:32,590
+that's thunder!
 
 15
-00:00:32,971 --> 00:00:34,248
-They leave together.
+00:00:33,362 --> 00:00:34,592
+They leave together,
 
 16
-00:00:34,298 --> 00:00:37,100
-But the light zooms: it arrives right away.
+00:00:34,642 --> 00:00:37,343
+but the light zooms and arrives right away.
 
 17
-00:00:37,150 --> 00:00:39,024
-Sound moves much more slowly,
+00:00:37,393 --> 00:00:41,054
+Sound, much slower, moves three hundred meters per second…
 
 18
-00:00:39,074 --> 00:00:42,324
-three hundred meters per second: it arrives late!
+00:00:41,104 --> 00:00:42,319
+so it arrives late!
 
 19
-00:00:43,121 --> 00:00:43,655
+00:00:43,100 --> 00:00:43,575
 So count!
 
 20
-00:00:43,705 --> 00:00:47,027
-Three seconds between the lightning and the thunder:
+00:00:43,625 --> 00:00:47,363
+If there are three seconds between the lightning and the thunder,
 
 21
-00:00:47,077 --> 00:00:49,102
+00:00:47,413 --> 00:00:49,228
 the storm is one kilometer away.
 
 22
-00:00:49,152 --> 00:00:50,967
-Six seconds: two kilometers.
+00:00:49,278 --> 00:00:50,161
+And six seconds…
 
 23
-00:00:51,758 --> 00:00:53,485
-Noah counts: fifteen seconds.
+00:00:50,211 --> 00:00:51,085
+two kilometers!
 
 24
-00:00:53,535 --> 00:00:56,611
-The storm is five kilometers away, it's moving off.
+00:00:51,862 --> 00:00:53,399
+Noah counts fifteen seconds,
 
 25
-00:00:56,661 --> 00:00:58,511
-But as long as we hear thunder,
+00:00:53,449 --> 00:00:56,346
+so the storm is five kilometers away and moving off.
 
 26
-00:00:58,561 --> 00:00:59,481
-we stay inside!
+00:00:56,396 --> 00:00:58,103
+But as long as we hear thunder,
 
 27
-00:01:00,264 --> 00:01:02,892
-That's why thunder comes after lightning.
+00:00:58,153 --> 00:00:59,003
+we stay inside!
 
 28
-00:01:03,805 --> 00:01:06,570
-The light of the lightning arrives right away;
+00:00:59,860 --> 00:01:02,542
+And that's why thunder comes after lightning.
 
 29
-00:01:06,620 --> 00:01:09,191
-the sound of thunder takes time to travel.
+00:01:03,405 --> 00:01:06,170
+The light of the lightning arrives right away;
 
 30
-00:01:09,951 --> 00:01:11,493
-With an adult, behind the window:
+00:01:06,220 --> 00:01:08,791
+the sound of thunder takes time to travel.
 
 31
-00:01:11,543 --> 00:01:14,002
-when you see the lightning, count until the thunder.
+00:01:09,552 --> 00:01:11,356
+With an adult, behind the window:
 
 32
-00:01:14,052 --> 00:01:15,352
-Three seconds per kilometer:
+00:01:11,406 --> 00:01:14,614
+as soon as you see the lightning, count until the thunder…
 
 33
-00:01:15,402 --> 00:01:16,753
-you know where the storm is!
+00:01:14,664 --> 00:01:16,405
+three seconds is one kilometer!
 
 34
-00:01:17,950 --> 00:01:20,227
+00:01:17,550 --> 00:01:19,827
 And how does a magnet attract metal?
 
 35
-00:01:20,277 --> 00:01:21,570
+00:01:19,877 --> 00:01:21,170
 The answer tomorrow.

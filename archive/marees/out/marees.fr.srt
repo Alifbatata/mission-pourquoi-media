@@ -1,131 +1,139 @@
 1
-00:00:03,068 --> 00:00:05,655
+00:00:03,068 --> 00:00:05,668
 Ce matin, la mer touchait les rochers.
 
 2
-00:00:05,768 --> 00:00:07,839
-Ce soir, elle est partie très loin :
+00:00:05,812 --> 00:00:06,769
+Mais ce soir,
 
 3
-00:00:08,037 --> 00:00:09,850
-le bateau est posé sur le sable !
+00:00:06,872 --> 00:00:09,595
+elle est partie si loin que le bateau est posé sur le sable !
 
 4
-00:00:09,966 --> 00:00:11,045
+00:00:09,708 --> 00:00:10,800
 Où va la mer ?
 
 5
-00:00:11,889 --> 00:00:14,190
-Le lendemain matin : elle est revenue !
+00:00:11,570 --> 00:00:13,858
+Et le lendemain matin, elle est revenue !
 
 6
-00:00:14,348 --> 00:00:17,098
-La mer monte et descend, deux fois par jour.
+00:00:14,034 --> 00:00:14,854
+En fait,
 
 7
-00:00:17,212 --> 00:00:18,277
-Qui la tire ?
+00:00:14,930 --> 00:00:17,015
+la mer monte et descend deux fois par jour…
 
 8
-00:00:19,052 --> 00:00:20,566
-Mission découverte !
+00:00:17,172 --> 00:00:18,224
+mais qui la tire ?
 
 9
-00:00:23,082 --> 00:00:24,065
-Mode mini !
+00:00:18,992 --> 00:00:20,506
+Mission découverte !
 
 10
-00:00:24,180 --> 00:00:25,298
-La Lune attire un petit peu
+00:00:23,022 --> 00:00:24,005
+Mode mini !
 
 11
-00:00:25,348 --> 00:00:26,645
-tout ce qui est sur Terre.
+00:00:24,120 --> 00:00:25,238
+La Lune attire un petit peu
 
 12
-00:00:26,761 --> 00:00:29,416
-Les rochers ne bougent pas, mais l'eau peut glisser :
+00:00:25,288 --> 00:00:26,585
+tout ce qui est sur Terre.
 
 13
-00:00:29,506 --> 00:00:31,645
-du côté de la Lune, elle fait une bosse.
+00:00:26,701 --> 00:00:29,356
+Les rochers ne bougent pas, mais l'eau peut glisser :
 
 14
-00:00:32,410 --> 00:00:34,182
-Et de l'autre côté de la Terre ?
+00:00:29,446 --> 00:00:31,585
+du côté de la Lune, elle fait une bosse.
 
 15
-00:00:34,357 --> 00:00:35,776
-La Lune tire moins fort :
+00:00:32,350 --> 00:00:34,122
+Et de l'autre côté de la Terre ?
 
 16
-00:00:36,042 --> 00:00:37,610
-l'eau reste un peu en arrière.
+00:00:34,297 --> 00:00:36,341
+Là, la Lune tire moins fort,
 
 17
-00:00:37,738 --> 00:00:39,089
-Une deuxième bosse !
+00:00:36,458 --> 00:00:38,066
+alors l'eau reste un peu en arrière…
 
 18
-00:00:41,428 --> 00:00:44,205
-La Terre, elle, tourne sous les deux bosses.
+00:00:38,197 --> 00:00:39,710
+et ça fait une deuxième bosse !
 
 19
-00:00:44,322 --> 00:00:47,045
-Ta plage passe sous une bosse : marée haute !
+00:00:41,350 --> 00:00:44,317
+Et la Terre, elle, tourne sous les deux bosses.
 
 20
-00:00:47,172 --> 00:00:49,406
-Entre les deux : marée basse.
+00:00:44,439 --> 00:00:46,250
+Quand ta plage passe sous une bosse,
 
 21
-00:00:49,537 --> 00:00:50,888
-Deux fois par jour.
+00:00:46,300 --> 00:00:47,406
+c'est marée haute !
 
 22
-00:00:51,664 --> 00:00:55,080
-Regarde : la Lune se lève, et la mer revient.
+00:00:47,518 --> 00:00:49,642
+Entre les deux, c'est marée basse…
 
 23
-00:00:55,238 --> 00:00:57,390
-Même le jour, quand on ne la voit pas,
+00:00:49,692 --> 00:00:50,853
+deux fois par jour.
 
 24
-00:00:57,534 --> 00:00:58,803
-la Lune tire sur l'eau.
+00:00:51,638 --> 00:00:54,904
+Regarde, la mer revient, tirée par la Lune !
 
 25
-00:00:59,612 --> 00:01:01,641
-Voilà pourquoi la mer monte et descend.
+00:00:55,018 --> 00:00:57,238
+Et même le jour, quand on ne la voit pas,
 
 26
-00:01:03,139 --> 00:01:05,046
-La Lune tire sur l'eau des océans :
+00:00:57,368 --> 00:00:58,692
+la Lune tire sur l'eau.
 
 27
-00:01:05,150 --> 00:01:07,614
-deux bosses d'eau, et la Terre tourne dessous.
+00:00:59,470 --> 00:01:01,649
+Et voilà pourquoi la mer monte et descend.
 
 28
-00:01:09,098 --> 00:01:11,114
-Avec un adulte, à la plage :
+00:01:03,029 --> 00:01:04,936
+La Lune tire sur l'eau des océans :
 
 29
-00:01:11,204 --> 00:01:12,853
-plante un bâton au bord de l'eau.
+00:01:05,040 --> 00:01:07,504
+deux bosses d'eau, et la Terre tourne dessous.
 
 30
-00:01:12,966 --> 00:01:15,322
-Une heure plus tard : la mer a bougé !
+00:01:08,974 --> 00:01:11,004
+Avec un adulte, à la plage :
 
 31
-00:01:15,439 --> 00:01:17,210
-Elle monte, ou elle descend ?
+00:01:11,094 --> 00:01:12,730
+plante un bâton au bord de l'eau.
 
 32
-00:01:18,012 --> 00:01:20,232
-Et pourquoi la terre tremble-t-elle parfois ?
+00:01:12,847 --> 00:01:15,094
+Une heure plus tard, la mer a bougé…
 
 33
-00:01:20,347 --> 00:01:21,630
+00:01:15,211 --> 00:01:16,955
+alors, elle monte ou elle descend ?
+
+34
+00:01:17,732 --> 00:01:19,952
+Et pourquoi la terre tremble-t-elle parfois ?
+
+35
+00:01:20,067 --> 00:01:21,350
 Réponse demain.

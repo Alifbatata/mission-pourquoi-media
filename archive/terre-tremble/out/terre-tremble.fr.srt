@@ -1,127 +1,139 @@
 1
-00:00:03,068 --> 00:00:03,576
+00:00:03,054 --> 00:00:03,562
 Oh !
 
 2
-00:00:03,690 --> 00:00:06,331
-Les tasses tremblent, la lampe se balance.
+00:00:03,677 --> 00:00:06,115
+Les tasses tremblent, la lampe se balance…
 
 3
-00:00:06,465 --> 00:00:09,215
-Ce n'est pas Curio : c'est le sol qui tremble !
+00:00:06,204 --> 00:00:07,268
+et ce n'est pas Curio,
 
 4
-00:00:09,329 --> 00:00:11,128
-Pourquoi la terre tremble-t-elle ?
+00:00:07,318 --> 00:00:08,737
+c'est le sol qui tremble !
 
 5
-00:00:11,955 --> 00:00:15,044
-Curio a tout enregistré : une ligne tranquille,
+00:00:08,910 --> 00:00:10,777
+Mais pourquoi la terre tremble-t-elle ?
 
 6
-00:00:15,094 --> 00:00:16,458
-puis un grand zigzag.
+00:00:11,582 --> 00:00:14,643
+Curio a tout enregistré : une ligne tranquille,
 
 7
-00:00:16,575 --> 00:00:19,488
-Quelque chose a bougé sous nos pieds, très profond.
+00:00:14,693 --> 00:00:16,043
+puis un grand zigzag !
 
 8
-00:00:20,262 --> 00:00:21,776
-Mission découverte !
+00:00:16,174 --> 00:00:18,245
+Donc quelque chose a bougé sous leurs pieds,
 
 9
-00:00:24,292 --> 00:00:25,289
-Mode mini !
+00:00:18,307 --> 00:00:19,291
+très profond.
 
 10
-00:00:25,401 --> 00:00:27,851
-La croûte de la Terre est découpée en grandes plaques,
+00:00:20,072 --> 00:00:21,586
+Mission découverte !
 
 11
-00:00:27,901 --> 00:00:29,021
-comme un puzzle.
+00:00:24,115 --> 00:00:25,112
+Mode mini !
 
 12
-00:00:29,153 --> 00:00:30,639
-Elles bougent très lentement :
+00:00:25,270 --> 00:00:27,611
+La croûte de la Terre est découpée en grandes plaques,
 
 13
-00:00:30,689 --> 00:00:33,317
-quelques centimètres par an, comme tes ongles.
+00:00:27,661 --> 00:00:28,767
+comme un puzzle.
 
 14
-00:00:34,159 --> 00:00:35,658
-Là où deux plaques se touchent,
+00:00:28,925 --> 00:00:30,411
+Et elles bougent très lentement,
 
 15
-00:00:35,708 --> 00:00:37,697
-leurs bords sont rugueux et se coincent.
+00:00:30,515 --> 00:00:33,197
+de quelques centimètres par an, comme tes ongles.
 
 16
-00:00:37,895 --> 00:00:40,821
-Le reste continue d'avancer : la roche se tord,
+00:00:34,039 --> 00:00:35,565
+Là où deux plaques se touchent,
 
 17
-00:00:40,871 --> 00:00:43,757
-se tord, et garde toute cette force en réserve.
+00:00:35,615 --> 00:00:37,577
+leurs bords sont rugueux et se coincent.
 
 18
-00:00:44,540 --> 00:00:46,352
-Et d'un coup, ça lâche !
+00:00:37,689 --> 00:00:40,615
+Mais le reste avance encore, alors la roche se tord,
 
 19
-00:00:46,472 --> 00:00:50,567
-Les bords glissent, toute la force sort en ondes qui traversent la roche partout :
+00:00:40,665 --> 00:00:43,591
+se tord, et garde toute cette force en réserve.
 
 20
-00:00:50,847 --> 00:00:52,333
-c'est le tremblement de terre.
+00:00:44,370 --> 00:00:46,182
+Et d'un coup, ça lâche !
 
 21
-00:00:53,544 --> 00:00:55,805
-Comme une règle qu'on plie, qu'on plie,
+00:00:46,300 --> 00:00:47,447
+Les bords glissent,
 
 22
-00:00:55,895 --> 00:00:57,422
-et qui claque quand on lâche !
+00:00:47,550 --> 00:00:50,491
+et toute la force sort en ondes qui traversent la roche partout…
 
 23
-00:00:57,593 --> 00:00:59,350
-Plus la force gardée est grande,
+00:00:50,703 --> 00:00:52,175
+c'est le tremblement de terre !
 
 24
-00:00:59,400 --> 00:01:00,710
-plus ça secoue fort.
+00:00:53,374 --> 00:00:55,812
+C'est comme une règle qu'on plie, qu'on plie,
 
 25
-00:01:01,484 --> 00:01:03,310
-Voilà pourquoi la terre tremble.
+00:00:55,874 --> 00:00:57,402
+et qui claque quand on lâche !
 
 26
-00:01:04,981 --> 00:01:07,188
-Les plaques de la Terre bougent et se coincent ;
+00:00:57,514 --> 00:00:59,448
+Et plus la force gardée est grande,
 
 27
-00:01:07,250 --> 00:01:09,647
-quand ça lâche d'un coup, le sol tremble.
+00:00:59,498 --> 00:01:00,835
+plus ça secoue fort.
 
 28
-00:01:11,012 --> 00:01:14,317
-Avec un adulte : plaque une règle souple au bord d'une table,
+00:01:01,601 --> 00:01:03,549
+Et voilà pourquoi la terre tremble.
 
 29
-00:01:14,367 --> 00:01:15,949
-plie le bout, lâche.
+00:01:05,101 --> 00:01:07,308
+Les plaques de la Terre bougent et se coincent ;
 
 30
-00:01:16,134 --> 00:01:18,123
-Le gobelet posé à côté tremble !
+00:01:07,370 --> 00:01:09,767
+quand ça lâche d'un coup, le sol tremble.
 
 31
-00:01:18,901 --> 00:01:20,578
-Et comment naissent les montagnes ?
+00:01:11,145 --> 00:01:14,356
+Avec un adulte : plaque une règle souple au bord d'une table,
 
 32
-00:01:20,693 --> 00:01:21,962
+00:01:14,406 --> 00:01:15,986
+plie le bout, puis lâche…
+
+33
+00:01:16,036 --> 00:01:17,808
+le gobelet posé à côté tremble !
+
+34
+00:01:18,601 --> 00:01:20,278
+Et comment naissent les montagnes ?
+
+35
+00:01:20,393 --> 00:01:21,662
 Réponse demain.

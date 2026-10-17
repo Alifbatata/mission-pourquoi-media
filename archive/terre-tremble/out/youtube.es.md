@@ -8,7 +8,7 @@
 
 Para recordar: Las placas de la Tierra se mueven y se atascan; cuando se sueltan de golpe, el suelo tiembla.
 
-🧪 Para probar en casa, con un adulto: aprieta una regla flexible en el borde de una mesa, dobla la punta, suelta. Mira el vaso de al lado: ¡tiembla!
+🧪 Para probar en casa, con un adulto: aprieta una regla flexible en el borde de una mesa, dobla la punta, y luego suelta… ¡el vaso de al lado tiembla!
 
 Cada día, una pregunta real de un niño y una respuesta científica real, verificada antes de contarla. Para niños de 5 a 9 años, y para los padres que ya no saben qué responder.
 

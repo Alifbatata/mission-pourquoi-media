@@ -8,7 +8,7 @@ Pourquoi le ciel s'allume-t-il près des pôles ? 🌌 La réponse en une minute
 
 À retenir : Des grains venus du Soleil, guidés vers les pôles par l'aimant de la Terre, font briller l'air tout en haut.
 
-🧪 À essayer à la maison, avec un adulte : approche un aimant d'une boussole. L'aiguille tourne ! Elle sent l'aimant, comme elle sent la Terre.
+🧪 À essayer à la maison, avec un adulte : approche un aimant d'une boussole… et l'aiguille tourne ! Elle sent l'aimant, comme elle sent la Terre.
 
 Chaque jour, une vraie question d'enfant et une vraie réponse scientifique, vérifiée avant d'être racontée. Pour les enfants de 5 à 9 ans, et pour les parents qui ne savent plus quoi répondre.
 

@@ -1,151 +1,143 @@
 1
-00:00:03,068 --> 00:00:03,269
+00:00:03,068 --> 00:00:03,239
 Shh…
 
 2
-00:00:03,319 --> 00:00:04,024
-Uma caverna!
+00:00:03,289 --> 00:00:06,340
+Esta caverna esconde salões imensos debaixo da montanha,
 
 3
-00:00:04,074 --> 00:00:06,225
-Salões imensos debaixo da montanha,
+00:00:06,390 --> 00:00:08,389
+e pontas de pedra penduradas no teto…
 
 4
-00:00:06,275 --> 00:00:08,426
-pontas de pedra penduradas no teto.
+00:00:08,439 --> 00:00:09,823
+mas quem cavou tudo isso?
 
 5
-00:00:08,476 --> 00:00:09,797
-Quem cavou tudo isso?
+00:00:10,642 --> 00:00:11,403
+Ploc, ploc…
 
 6
-00:00:10,635 --> 00:00:10,935
-Ploc.
+00:00:11,453 --> 00:00:13,838
+cai uma gota a cada dez segundos.
 
 7
-00:00:10,985 --> 00:00:11,285
-Ploc.
+00:00:13,888 --> 00:00:14,723
+E o Noah ri:
 
 8
-00:00:11,335 --> 00:00:13,317
-Uma gota a cada dez segundos.
+00:00:14,773 --> 00:00:17,084
+isso não vai cavar uma montanha!
 
 9
-00:00:13,367 --> 00:00:14,017
-O Noah ri:
-
-10
-00:00:14,067 --> 00:00:17,099
-uma gota de água não vai cavar uma montanha!
-
-11
-00:00:17,149 --> 00:00:18,059
+00:00:17,134 --> 00:00:18,093
 E no entanto…
 
-12
-00:00:18,822 --> 00:00:20,336
+10
+00:00:18,872 --> 00:00:20,386
 Missão descoberta!
 
-13
-00:00:22,852 --> 00:00:23,444
+11
+00:00:22,902 --> 00:00:23,464
 Modo mini!
 
-14
-00:00:23,494 --> 00:00:25,178
+12
+00:00:23,514 --> 00:00:25,118
 Atravessando o ar e o solo,
 
+13
+00:00:25,168 --> 00:00:27,262
+a água da chuva pega gás carbônico…
+
+14
+00:00:27,312 --> 00:00:29,099
+então ela fica um pouco ácida,
+
 15
-00:00:25,228 --> 00:00:27,427
-a água da chuva pega gás carbônico.
-
-16
-00:00:27,477 --> 00:00:29,225
-Ela fica um pouquinho ácida,
-
-17
-00:00:29,275 --> 00:00:31,331
+00:00:29,149 --> 00:00:31,109
 como um refrigerante sem açúcar.
 
-18
-00:00:32,112 --> 00:00:34,857
+16
+00:00:31,892 --> 00:00:34,454
 Essa água se enfia nas rachaduras do calcário,
 
-19
-00:00:34,907 --> 00:00:36,863
+17
+00:00:34,504 --> 00:00:36,328
 uma rocha que ela sabe dissolver.
 
+18
+00:00:36,378 --> 00:00:38,316
+Gota após gota, a rachadura alarga…
+
+19
+00:00:38,366 --> 00:00:40,296
+vira um corredor, depois um salão!
+
 20
-00:00:36,913 --> 00:00:38,990
-Gota após gota, a rachadura alarga:
-
-21
-00:00:39,040 --> 00:00:40,802
-um corredor, depois um salão.
-
-22
-00:00:41,570 --> 00:00:42,571
+00:00:41,060 --> 00:00:42,061
 E as pontas de pedra?
 
-23
-00:00:42,621 --> 00:00:47,174
+21
+00:00:42,111 --> 00:00:46,664
 A água chega à caverna carregada de calcário, perde o gás, e o calcário se deposita de novo:
 
-24
-00:00:47,224 --> 00:00:50,275
+22
+00:00:46,714 --> 00:00:49,765
 uma estalactite cresce do teto, uma estalagmite sobe do chão.
 
+23
+00:00:50,540 --> 00:00:52,031
+Giz natural é calcário.
+
+24
+00:00:52,081 --> 00:00:55,449
+Então, no vinagre, um ácido, ele derrete em bolhas!
+
 25
-00:00:51,050 --> 00:00:52,522
-Olha: giz é calcário.
-
-26
-00:00:52,572 --> 00:00:55,711
-No vinagre, um ácido, ele derrete em bolhas!
-
-27
-00:00:55,761 --> 00:00:57,740
+00:00:55,499 --> 00:00:57,325
 A água da chuva faz o mesmo,
 
+26
+00:00:57,375 --> 00:00:58,716
+só que mais devagar.
+
+27
+00:00:59,491 --> 00:01:01,521
+E é assim que as cavernas se formam.
+
 28
-00:00:57,790 --> 00:00:59,022
-bem mais devagar.
-
-29
-00:00:59,792 --> 00:01:01,808
-É assim que as cavernas se formam.
-
-30
-00:01:03,322 --> 00:01:05,193
+00:01:03,022 --> 00:01:04,893
 A água da chuva, um pouco ácida,
 
-31
-00:01:05,243 --> 00:01:09,387
+29
+00:01:04,943 --> 00:01:09,087
 dissolve o calcário gota a gota: milhões de anos depois, uma caverna.
 
-32
-00:01:10,198 --> 00:01:11,091
+30
+00:01:09,925 --> 00:01:10,832
 Com um adulto:
 
+31
+00:01:10,882 --> 00:01:13,839
+coloque um pedaço de giz natural no vinagre…
+
+32
+00:01:13,889 --> 00:01:14,591
+faz bolhas!
+
 33
-00:01:11,141 --> 00:01:14,121
-coloque um pedaço de giz num copo de vinagre.
+00:01:14,641 --> 00:01:16,964
+E no dia seguinte, o giz encolheu!
 
 34
-00:01:14,171 --> 00:01:14,592
-Bolhas!
-
-35
-00:01:14,642 --> 00:01:17,201
-Volte no dia seguinte: o giz derreteu.
-
-36
-00:01:17,982 --> 00:01:19,035
+00:01:17,752 --> 00:01:18,805
 E por que o céu se
 
-37
-00:01:19,085 --> 00:01:20,997
+35
+00:01:18,855 --> 00:01:20,767
 acende de verde perto dos polos?
 
-38
-00:01:21,047 --> 00:01:22,211
+36
+00:01:20,817 --> 00:01:21,981
 A resposta, amanhã.

@@ -11,125 +11,129 @@ Noah and Mila are floating inside Curio!
 But why?
 
 4
-00:00:09,145 --> 00:00:12,136
-Mila lets go of her pencil: it doesn't fall!
+00:00:09,145 --> 00:00:11,208
+When Mila lets go of her pencil,
 
 5
-00:00:12,186 --> 00:00:15,088
-So, in space, is there no gravity anymore?
+00:00:11,258 --> 00:00:12,265
+it doesn't fall!
 
 6
+00:00:12,315 --> 00:00:15,088
+So, in space, is there no gravity anymore?
+
+7
 00:00:15,872 --> 00:00:17,386
 Discovery mission!
 
-7
-00:00:19,902 --> 00:00:20,523
+8
+00:00:19,915 --> 00:00:20,612
 Mini mode!
 
-8
-00:00:20,573 --> 00:00:22,269
-A box, with a ball inside.
-
 9
-00:00:22,319 --> 00:00:24,821
-I let go of everything: the box falls,
+00:00:20,662 --> 00:00:23,075
+We drop a box with a ball inside.
 
 10
-00:00:24,871 --> 00:00:27,911
-and the ball falls with it, at the same speed.
+00:00:23,125 --> 00:00:24,120
+The box falls…
 
 11
-00:00:27,961 --> 00:00:28,918
-Inside the box…
+00:00:24,170 --> 00:00:26,135
+and the ball falls with it,
 
 12
-00:00:28,968 --> 00:00:30,043
-the ball floats!
+00:00:26,185 --> 00:00:27,479
+at the same speed.
 
 13
-00:00:30,812 --> 00:00:33,476
-Throw a ball: it falls to the ground.
+00:00:27,529 --> 00:00:29,768
+So, inside the box, it floats!
 
 14
-00:00:33,526 --> 00:00:35,237
-Harder: it goes further.
+00:00:30,609 --> 00:00:33,353
+Throw a ball, and it falls to the ground.
 
 15
-00:00:35,287 --> 00:00:36,044
-Super hard?
+00:00:33,403 --> 00:00:34,988
+Harder, it goes further.
 
 16
-00:00:36,094 --> 00:00:37,144
-It still falls…
+00:00:35,038 --> 00:00:36,010
+And super hard?
 
 17
-00:00:37,194 --> 00:00:40,421
-but it misses the Earth, and goes around it!
+00:00:36,060 --> 00:00:37,033
+It still falls…
 
 18
-00:00:41,201 --> 00:00:42,116
-That's an orbit!
+00:00:37,083 --> 00:00:40,081
+but it misses the Earth, and goes around it!
 
 19
-00:00:42,166 --> 00:00:45,914
-Curio goes so fast that it keeps falling and missing the Earth,
+00:00:40,871 --> 00:00:41,765
+That's an orbit!
 
 20
-00:00:45,964 --> 00:00:46,758
-over and over.
+00:00:41,815 --> 00:00:45,130
+Curio goes so fast that it falls while missing the Earth,
 
 21
-00:00:46,808 --> 00:00:48,386
-Noah and Mila fall with it…
+00:00:45,180 --> 00:00:45,956
+over and over.
 
 22
-00:00:48,436 --> 00:00:49,280
-so they float!
+00:00:46,006 --> 00:00:48,140
+And since Noah and Mila fall with it…
 
 23
-00:00:50,201 --> 00:00:52,048
-Real astronauts are the same:
+00:00:48,190 --> 00:00:48,840
+they float!
 
 24
-00:00:52,098 --> 00:00:54,468
-their station falls around the Earth.
+00:00:49,871 --> 00:00:51,718
+Real astronauts are the same:
 
 25
-00:00:54,518 --> 00:00:55,319
-And up there,
+00:00:51,768 --> 00:00:54,138
+their station falls around the Earth.
 
 26
-00:00:55,369 --> 00:00:57,723
-gravity is almost as strong as here!
+00:00:54,188 --> 00:00:54,989
+And up there,
 
 27
-00:00:58,504 --> 00:01:00,684
-That's why astronauts float.
+00:00:55,039 --> 00:00:57,393
+gravity is almost as strong as here!
 
 28
-00:01:02,001 --> 00:01:04,827
-Astronauts float because they fall around the Earth,
+00:00:58,170 --> 00:01:00,512
+And that's why astronauts float.
 
 29
-00:01:04,877 --> 00:01:06,259
-without ever reaching it.
+00:01:01,671 --> 00:01:04,497
+Astronauts float because they fall around the Earth,
 
 30
-00:01:07,042 --> 00:01:09,494
-With an adult: jump off a small step.
+00:01:04,547 --> 00:01:05,929
+without ever reaching it.
 
 31
-00:01:09,544 --> 00:01:12,942
-During the fall, your body doesn't feel its weight.
+00:01:06,711 --> 00:01:09,027
+With an adult: jump off a small step.
 
 32
-00:01:12,992 --> 00:01:14,817
-One second as an astronaut!
+00:01:09,077 --> 00:01:12,289
+During the fall, your body doesn't feel its weight…
 
 33
-00:01:15,611 --> 00:01:17,846
-And why does the Moon change shape?
+00:01:12,339 --> 00:01:14,066
+one second as an astronaut!
 
 34
-00:01:17,896 --> 00:01:19,202
+00:01:14,851 --> 00:01:17,086
+And why does the Moon change shape?
+
+35
+00:01:17,136 --> 00:01:18,442
 The answer tomorrow.
