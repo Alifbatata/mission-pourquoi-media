@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/jour-nuit/jour-nuit_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/jour-nuit/v14646093/jour-nuit_short_web.mp4",
  "instagram": {
   "post_id": "6ad2050c0fb5b99b0c19b6d8",
   "status": "scheduled",
@@ -20,6 +20,20 @@
   "url": "https://youtube.com/shorts/DA8SGXUz_D4",
   "publishAt": "2026-10-20T14:45:00Z",
   "captions": true,
-  "playlist": "PLE3z7LjgWd4A"
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }

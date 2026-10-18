@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/aimant-metal/v12811678/aimant-metal_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/aimant-metal/v12713079/aimant-metal_short_web.mp4",
  "instagram": {
   "post_id": "6ad2518623fda34373a56839",
   "status": "scheduled",
@@ -14,5 +14,26 @@
   "post_id": "6ad2518723fda34373a56875",
   "status": "scheduled",
   "dueAt": "2026-10-25T15:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "X-Ot7TCYBwQ",
+  "url": "https://youtube.com/shorts/X-Ot7TCYBwQ",
+  "publishAt": "2026-10-25T15:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }

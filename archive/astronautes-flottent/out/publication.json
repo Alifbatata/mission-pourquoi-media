@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/astronautes-flottent/v14758959/astronautes-flottent_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/astronautes-flottent/v14641941/astronautes-flottent_short_web.mp4",
  "instagram": {
   "post_id": "6ad2459945dfa13a723ae7f4",
   "status": "scheduled",
@@ -14,5 +14,26 @@
   "post_id": "6ad2459a45dfa13a723ae827",
   "status": "scheduled",
   "dueAt": "2026-10-22T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "eD1FJb0RvVo",
+  "url": "https://youtube.com/shorts/eD1FJb0RvVo",
+  "publishAt": "2026-10-22T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }

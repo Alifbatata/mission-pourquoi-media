@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/glace-flotte/glace-flotte_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/glace-flotte/v13738784/glace-flotte_short_web.mp4",
  "instagram": {
   "post_id": "6ad20502b948bf9e9d8f8079",
   "status": "scheduled",
@@ -28,6 +28,12 @@
    "pt-BR",
    "ar"
   ],
-  "sous_titres": []
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }

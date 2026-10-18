@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/tonnerre-eclair/v15481948/tonnerre-eclair_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/tonnerre-eclair/v15374744/tonnerre-eclair_short_web.mp4",
  "instagram": {
   "post_id": "6ad24f965258aae9a4fd3a36",
   "status": "scheduled",
@@ -14,5 +14,26 @@
   "post_id": "6ad24f9704941d54f26b95f1",
   "status": "scheduled",
   "dueAt": "2026-10-24T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "uR1xEeciNfc",
+  "url": "https://youtube.com/shorts/uR1xEeciNfc",
+  "publishAt": "2026-10-24T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }

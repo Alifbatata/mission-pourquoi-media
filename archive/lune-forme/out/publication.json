@@ -1,5 +1,5 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/lune-forme/v13025728/lune-forme_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/lune-forme/v12984483/lune-forme_short_web.mp4",
  "instagram": {
   "post_id": "6ad24c5d7521b8760619a97d",
   "status": "scheduled",
@@ -14,5 +14,26 @@
   "post_id": "6ad24c5e7521b8760619a9d0",
   "status": "scheduled",
   "dueAt": "2026-10-23T14:45:00.000Z"
+ },
+ "youtube": {
+  "video_id": "rJlEd0fnR6w",
+  "url": "https://youtube.com/shorts/rJlEd0fnR6w",
+  "publishAt": "2026-10-23T14:45:00Z",
+  "captions": true,
+  "playlist": "PLE3z7LjgWd4A",
+  "miniature": true,
+  "localisations": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "sous_titres": [
+   "en",
+   "es",
+   "pt-BR",
+   "ar"
+  ],
+  "remplacer": true
  }
 }
