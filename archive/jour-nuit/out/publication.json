@@ -16,12 +16,12 @@
   "dueAt": "2026-10-20T14:45:00.000Z"
  },
  "youtube": {
-  "video_id": "DA8SGXUz_D4",
-  "url": "https://youtube.com/shorts/DA8SGXUz_D4",
+  "video_id": "N0u43r63IH4",
+  "url": "https://youtube.com/shorts/N0u43r63IH4",
   "publishAt": "2026-10-20T14:45:00Z",
   "captions": true,
   "playlist": "PLE3z7LjgWd4A",
-  "miniature": true,
+  "miniature": false,
   "localisations": [
    "en",
    "es",
@@ -33,7 +33,12 @@
    "es",
    "pt-BR",
    "ar"
-  ],
-  "remplacer": true
- }
+  ]
+ },
+ "youtube_remplacees": [
+  {
+   "video_id": "DA8SGXUz_D4",
+   "publishAt": "2026-10-20T14:45:00Z"
+  }
+ ]
 }

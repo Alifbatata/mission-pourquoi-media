@@ -1,3 +1,18 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/volcans-eruption/volcans-eruption_short_web.mp4"
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/volcans-eruption/v13632180/volcans-eruption_short_web.mp4",
+ "instagram": {
+  "post_id": "6ad5c61473ec34d7ae64b062",
+  "status": "scheduled",
+  "dueAt": "2026-10-27T15:45:00.000Z"
+ },
+ "facebook": {
+  "post_id": "6ad5c61538c1835cd443081a",
+  "status": "scheduled",
+  "dueAt": "2026-10-27T15:45:00.000Z"
+ },
+ "tiktok": {
+  "post_id": "6ad5c615fe198605b4cee430",
+  "status": "scheduled",
+  "dueAt": "2026-10-27T15:45:00.000Z"
+ }
 }

@@ -1,9 +1,9 @@
 {
- "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/arc-en-ciel/v16660992/arc-en-ciel_short_web.mp4",
+ "media_url": "https://raw.githubusercontent.com/Alifbatata/mission-pourquoi-media/main/arc-en-ciel/arc-en-ciel_short_web.mp4",
  "instagram": {
-  "post_id": "6ad2051625d13dd62ee1e0e7",
+  "post_id": "6ad8fc895f06a50228144335",
   "status": "scheduled",
-  "dueAt": "2026-10-21T14:45:00.000Z"
+  "dueAt": "2026-10-21T18:20:00.000Z"
  },
  "facebook": {
   "post_id": "6ad20517047945ca30990869",
@@ -16,12 +16,12 @@
   "dueAt": "2026-10-21T14:45:00.000Z"
  },
  "youtube": {
-  "video_id": "fUY0PkqvfQA",
-  "url": "https://youtube.com/shorts/fUY0PkqvfQA",
+  "video_id": "kVUaJWe6Kqo",
+  "url": "https://youtube.com/shorts/kVUaJWe6Kqo",
   "publishAt": "2026-10-21T14:45:00Z",
   "captions": true,
   "playlist": "PLE3z7LjgWd4A",
-  "miniature": true,
+  "miniature": false,
   "localisations": [
    "en",
    "es",
@@ -29,10 +29,16 @@
    "ar"
   ],
   "sous_titres": [
+   "en",
    "es",
    "pt-BR",
    "ar"
-  ],
-  "remplacer": true
- }
+  ]
+ },
+ "youtube_remplacees": [
+  {
+   "video_id": "fUY0PkqvfQA",
+   "publishAt": "2026-10-21T14:45:00Z"
+  }
+ ]
 }
